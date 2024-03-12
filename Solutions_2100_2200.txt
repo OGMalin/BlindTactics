@@ -1,0 +1,5751 @@
+Puzzle: 1
+Solution: 1...g5 2.hxg5 fxg5 3.Kd5 h4 4.Ke4 h3 5.Nf3 Kg3 
+
+Puzzle: 2
+Solution: 1...Kf5 2.Kc5 h5 
+
+Puzzle: 3
+Solution: 1.Kc6 Kd8 2.Kb7 Kd7 3.a5 
+
+Puzzle: 4
+Solution: 1...Re1 2.Rxa2 Kxa2 
+
+Puzzle: 5
+Solution: 1.Kxe4 Kc5 2.Ke5 Kc4 3.Kd6 
+
+Puzzle: 6
+Solution: 1.e7 Ke5 2.Kg6 Rg8+ 3.Kf7 
+
+Puzzle: 7
+Solution: 1...b4 2.Kd1 Ka3 3.Qc1+ Ka4 4.Ke2 b3 5.Qg1 Ka3 6.Qxd4 a1Q 7.Qa7+ Kb2 
+
+Puzzle: 8
+Solution: 1...Kg3 2.Nd3 f3 3.Ke3 e5 
+
+Puzzle: 9
+Solution: 1...Kxe5 2.h7 Ke6 3.Kh6 Kf7 4.h8Q Rh1+ 5.Kg5 Rxh8 
+
+Puzzle: 10
+Solution: 1.Kxd4 Ke6 2.c4 f3 3.Ke3 f2 4.Kxf2 Kf5 5.c5 
+
+Puzzle: 11
+Solution: 1.Kc5 Rd4 2.c7 
+
+Puzzle: 12
+Solution: 1.Rxg5+ Kf7 2.Rxg2 Ke7 3.Kc5 
+
+Puzzle: 13
+Solution: 1.a5+ Kc7 2.Kc4 Be7 3.Kb5 
+
+Puzzle: 14
+Solution: 1.Rf2+ Ke7 2.Rf5 
+
+Puzzle: 15
+Solution: 1...b3 2.Be8 Kd5 3.Kd2 Kd4 
+
+Puzzle: 16
+Solution: 1...gxf4 2.Ke4 c4 3.g5 c3 4.g6 c2 5.g7 c1Q 6.g8Q Qe3+ 7.Kf5 f3 8.Qg3 Qc5+ 
+
+Puzzle: 17
+Solution: 1.Ke6 h4 2.f7 Kg7 3.Rg8+ 
+
+Puzzle: 18
+Solution: 1...Rf4+ 2.Kd3 h1Q 3.Rh8+ Rh4 4.Rxh4+ Kxh4 
+
+Puzzle: 19
+Solution: 1...Ra2+ 2.Ke1 Kf3 3.Rf1+ Ke3 4.Kd1 Ra1+ 5.Kc2 Rxf1 
+
+Puzzle: 20
+Solution: 1...Kc4 2.Rb8 Ra3+ 3.Kg4 Rb3 
+
+Puzzle: 21
+Solution: 1.g6 Nb6 2.Ke5 
+
+Puzzle: 22
+Solution: 1...Kd5 2.Kc3 Ke4 3.b5 Kd5 
+
+Puzzle: 23
+Solution: 1...Kb2 2.b4 Kxa2 3.b5 axb5 
+
+Puzzle: 24
+Solution: 1...f5+ 2.Kf3 fxg4+ 3.Kxg4 h6 4.f5 g5 5.Kh5 Ke7 6.Kg6 Kf8 
+
+Puzzle: 25
+Solution: 1.b4 Ke8 2.Kc6 Kd8 3.Kb7 
+
+Puzzle: 26
+Solution: 1...Rxe5+ 2.Rxe5+ Kxe5 3.Kg4 Ke4 4.Kh3 c5 5.Kg2 c4 6.Kf1 Kd3 
+
+Puzzle: 27
+Solution: 1...Kxe6 2.f5+ Kd6 3.Kd4 f6 
+
+Puzzle: 28
+Solution: 1...Nc8+ 2.Ka6 Nxb6 3.Ka5 Kc5 
+
+Puzzle: 29
+Solution: 1.h5 Ke5 2.h6 Kf6 3.Kd4 
+
+Puzzle: 30
+Solution: 1...Nd5 2.Kd1 Nc3+ 3.Kc1 d2+ 
+
+Puzzle: 31
+Solution: 1.Ke7 Rb1 2.Rc8+ 
+
+Puzzle: 32
+Solution: 1.Nxb6 Kc3 2.Kh4 Kd3 3.Kxh5 
+
+Puzzle: 33
+Solution: 1.Ke5 Kb4 2.Ng3 Nxg3 3.g7 
+
+Puzzle: 34
+Solution: 1...Rd6+ 2.Kc3 Rd7 
+
+Puzzle: 35
+Solution: 1...Rh1 2.Rg6+ Ke5 
+
+Puzzle: 36
+Solution: 1...Kg3 2.Bd5 g4 3.Kf5 h4 
+
+Puzzle: 37
+Solution: 1.g5 b5 2.Kh7 Kd3 3.g6 
+
+Puzzle: 38
+Solution: 1...Ke4 2.f5 Ke5 3.Kf3 Kxf5 
+
+Puzzle: 39
+Solution: 1...Kd6 2.Rd8+ Ke7 3.Rd5 Kxe6 
+
+Puzzle: 40
+Solution: 1...Rxc4+ 2.Kd2 Kf3 
+
+Puzzle: 41
+Solution: 1.Kxe3 f4+ 2.Kd3 
+
+Puzzle: 42
+Solution: 1...b5 2.Kg7 Kb3 3.Kf6 b4 
+
+Puzzle: 43
+Solution: 1.Rxc2 g1Q 2.Rc6+ Kf5 3.b8Q 
+
+Puzzle: 44
+Solution: 1...Kxe5 2.a5 Kd6 3.a6 Kc7 
+
+Puzzle: 45
+Solution: 1.Nxh1 d4 2.Kf5 d3 3.Ng3 
+
+Puzzle: 46
+Solution: 1...Kf5 2.Kd6 g4 3.Rd5 g3 4.e6+ Kf6 5.Rd3 Rxe6+ 
+
+Puzzle: 47
+Solution: 1.Kd3 Kf5 2.b4 Ke5 3.Ke3 g5 4.hxg5 
+
+Puzzle: 48
+Solution: 1.e6 Nf6 2.e7 
+
+Puzzle: 49
+Solution: 1.Kc5 a5 2.Kb6 Ke5 3.Kxa5 
+
+Puzzle: 50
+Solution: 1...Kg4 2.Rh1 g2 
+
+Puzzle: 51
+Solution: 1.Kc5 h5 2.Kd4 f4 3.Ke4 
+
+Puzzle: 52
+Solution: 1...Kf4 2.Kd2 Kf3 3.Ke1 Ke3 4.c4 Kd4 5.Kd2 Kxc4 6.Ke3 Kd5 
+
+Puzzle: 53
+Solution: 1.Kd6 Rxf7 2.a8Q 
+
+Puzzle: 54
+Solution: 1.Ke5 Kf7 2.Kd6 
+
+Puzzle: 55
+Solution: 1.Ra3 Kg4 2.Rxd3 h4 3.Rd4+ 
+
+Puzzle: 56
+Solution: 1...Ke4 2.Kh8 Qxg7+ 3.Kxg7 Kf5 
+
+Puzzle: 57
+Solution: 1.Kb5 Nf2 2.Na5+ 
+
+Puzzle: 58
+Solution: 1.e6 Kh7 2.Kf7 Rb5 3.e7 Rf5+ 4.Ke6 Rxf4 5.Kd5 
+
+Puzzle: 59
+Solution: 1...Kg7 2.Ke4 d2 
+
+Puzzle: 60
+Solution: 1.f5 Nxh4 2.Kxh4 gxf5 3.Kg5 
+
+Puzzle: 61
+Solution: 1.a6 Bb8 2.Kg6 Ba7 3.Kxg7 
+
+Puzzle: 62
+Solution: 1.Nxg6 d3 2.Ne7 d2 3.Nd5+ Kb3 4.Ne3 
+
+Puzzle: 63
+Solution: 1...Rxc8 2.Kxc8 g4 3.Rd8 Kg5 4.Kd7 g3 
+
+Puzzle: 64
+Solution: 1...Kg2 2.Kf6 e4 3.Nxe4 h3 4.Ke6 h2 
+
+Puzzle: 65
+Solution: 1.Rb8+ Kd7 2.e6+ Kc6 3.Rc8+ Kxd6 4.Rd8+ Ke7 5.Rxd3 
+
+Puzzle: 66
+Solution: 1...Ka4 2.Rh4+ Ka5 3.Kh7 a1Q 
+
+Puzzle: 67
+Solution: 1...bxc4 2.Kxc4 c5 3.Kc3 Kd5 4.Kb2 Kc4 5.Ka3 Kb5 
+
+Puzzle: 68
+Solution: 1.g6 Ke5 2.g7 Nb6+ 3.Kd8 Nd5 4.g8Q 
+
+Puzzle: 69
+Solution: 1.Kxe4 Kg4 2.Ke3 h3 3.Kf2 h2 4.Kg2 h1Q+ 5.Kxh1 
+
+Puzzle: 70
+Solution: 1.Rh2+ Kg4 2.Rg2+ Kf4 3.Rxg5 
+
+Puzzle: 71
+Solution: 1.Ke8 Qf4 2.f8Q+ Qxf8+ 3.Kxf8 
+
+Puzzle: 72
+Solution: 1...Kf5 2.e6 Kf6 3.Be8 g5 4.Bd7 Ke7 5.Ke2 g4 
+
+Puzzle: 73
+Solution: 1.h3 Kd2 2.Kxh6 g4 3.hxg4 
+
+Puzzle: 74
+Solution: 1.h4 Kd3 2.Kg5 Ke4 3.Kxg6 
+
+Puzzle: 75
+Solution: 1.Rb5 Rxc7 2.Kxc7 
+
+Puzzle: 76
+Solution: 1.c5 Kb4 2.h4 
+
+Puzzle: 77
+Solution: 1...a3 2.h5+ Kf7 3.h6 a2 4.h7 Kg7 5.e6 a1Q 6.h8Q+ Kxh8 
+
+Puzzle: 78
+Solution: 1.Kf7 Rf4+ 2.Kg8 
+
+Puzzle: 79
+Solution: 1.Kg7 Qe5 2.h8Q Qxg5+ 3.Kf7 
+
+Puzzle: 80
+Solution: 1.h6 Kh3 2.Kg5 Kg3 3.Kf6 Kxg4 4.Kg7 Kf5 5.Kxh7 Kf6 6.Kg8 g5 7.h7 
+
+Puzzle: 81
+Solution: 1.Kg3 Rf8 2.Rf7 Rxf7 3.h8Q+ 
+
+Puzzle: 82
+Solution: 1...e3 2.Kd6 Ke4 
+
+Puzzle: 83
+Solution: 1...Kg1 2.Rxh2 Rg7+ 3.Kf3 Kxh2 
+
+Puzzle: 84
+Solution: 1...Kd5 2.c6 Kd6 
+
+Puzzle: 85
+Solution: 1...gxf5 2.Kf4 Kg6 3.Ke5 h6 4.Kf4 Kf6 5.h5 Ke6 
+
+Puzzle: 86
+Solution: 1...Rc8 2.Rd7+ Ke3 3.Rd1 c2 
+
+Puzzle: 87
+Solution: 1...Kxd4 2.Ke6 Ke4 3.Kf6 Kd5 4.e6 Kd6 5.e7 Kd7 6.e8R Kxe8 
+
+Puzzle: 88
+Solution: 1...a2 2.e5 Ka3 3.Rc7 Kb4 
+
+Puzzle: 89
+Solution: 1...g4 2.Kd6 g3 3.Ke5 g2 4.Ra1 Kg4 
+
+Puzzle: 90
+Solution: 1...Kxh4 2.Kf3 Kg5 3.Kg2 Kf5 4.f3 Ke5 
+
+Puzzle: 91
+Solution: 1...Rb1+ 2.Ke2 h3 
+
+Puzzle: 92
+Solution: 1...Kh7 2.Re6 h2 3.Re1 Rg1 
+
+Puzzle: 93
+Solution: 1.Rd2 h2 2.Rxh2 
+
+Puzzle: 94
+Solution: 1.Kc6 Kd8 2.Kb7 Ke7 3.a5 
+
+Puzzle: 95
+Solution: 1.Rf7 Ra1 2.a8Q Rxa8 3.Kxa8 
+
+Puzzle: 96
+Solution: 1.f7 Rb5+ 2.Ke4 Rb8 3.Kd4 Rf8 4.Rh2+ Ke1 5.Rh7 
+
+Puzzle: 97
+Solution: 1.h4 Kf8 2.Kf6 g5 3.hxg5 
+
+Puzzle: 98
+Solution: 1...Kxa3 2.Kh4 Kb3 3.Kg5 Kc4 
+
+Puzzle: 99
+Solution: 1...Rxf4+ 2.Kxf4 Kg6 
+
+Puzzle: 100
+Solution: 1.Kc5 a1Q 2.Rxa1 
+
+Puzzle: 101
+Solution: 1.h5 Ke4 2.h6 Ke5 3.h7 Ke6 4.Kg5 Rxf7 5.h8Q 
+
+Puzzle: 102
+Solution: 1...Kd4 2.g4 hxg4 3.h5 Ke5 4.Ke3 g3 5.h6 Kf6 6.h7 Kg7 7.h8R Kxh8 
+
+Puzzle: 103
+Solution: 1...Ra2 2.Nb5 Ra5 3.Kf6 Rxb5 
+
+Puzzle: 104
+Solution: 1...Kh2 2.Kf3 Kh3 
+
+Puzzle: 105
+Solution: 1.axb6e.p. Kxb6 2.h4 c5 3.Kf5 c4 4.Ke4 
+
+Puzzle: 106
+Solution: 1.Ke3 Kb4 2.Kd2 Kc5 3.h4 
+
+Puzzle: 107
+Solution: 1...Kd3 2.g4 b3 3.g5 b2 4.g6 b1Q 
+
+Puzzle: 108
+Solution: 1...Kb3 2.Kxc5 a4 3.Kd6 a3 4.c5 a2 5.c6 a1Q 
+
+Puzzle: 109
+Solution: 1...a2 2.Ba1 d4 3.Kf5 d3 
+
+Puzzle: 110
+Solution: 1...f4 2.Rb1 f3 
+
+Puzzle: 111
+Solution: 1...Kh4 2.Kf3 g5 3.Bb3 g4+ 
+
+Puzzle: 112
+Solution: 1...Kxg3 2.Ke2 Kf4 3.Kd3 c5 
+
+Puzzle: 113
+Solution: 1.Rd6 Re7 2.Kh6 
+
+Puzzle: 114
+Solution: 1.b3 Kb2 2.Kxc5 
+
+Puzzle: 115
+Solution: 1.a8Q+ Kxf4 2.Qc6 
+
+Puzzle: 116
+Solution: 1.b4 Nb1+ 2.Kc2 
+
+Puzzle: 117
+Solution: 1.Kg5 d5 2.Kxh5 Kb5 3.Kg4 d4 4.Kf3 
+
+Puzzle: 118
+Solution: 1.d5 Kd8 2.e7+ Kxe7 3.Kxc7 Be3 4.d6+ Ke6 5.d7 Bg5 6.b5 Kd5 7.b6 
+
+Puzzle: 119
+Solution: 1...Bd8 2.Ke8 Ba5 
+
+Puzzle: 120
+Solution: 1...Rc2 2.Ke6 g2 3.Rg7 Rxc6+ 4.Kd7 Rc2 
+
+Puzzle: 121
+Solution: 1...g4 2.Nd3 Kg5 3.Kh2 f4 4.Kg2 Kf5 
+
+Puzzle: 122
+Solution: 1.Kf3 Kg6 2.Ke4 
+
+Puzzle: 123
+Solution: 1...Re8+ 2.Kf3 b2 3.Qc7+ Kb4 
+
+Puzzle: 124
+Solution: 1.Kc4 a3 2.Rh2+ 
+
+Puzzle: 125
+Solution: 1.f4 Nh3+ 2.Kg2 Nxf4+ 3.Kf3 
+
+Puzzle: 126
+Solution: 1...Kd5 2.Ke2 Ke5 
+
+Puzzle: 127
+Solution: 1.c7 Rc3 2.Ra6+ Ke7 3.Rc6 
+
+Puzzle: 128
+Solution: 1.f4 Kb4 2.Ke4 
+
+Puzzle: 129
+Solution: 1...Kh2 2.Kf4 g3 3.Kg4 h3 
+
+Puzzle: 130
+Solution: 1.c4 Kg7 2.c5 
+
+Puzzle: 131
+Solution: 1.Rb7+ Kc4 2.f7 Nc5 3.f8Q Re6+ 4.Kf7 
+
+Puzzle: 132
+Solution: 1...Kb7 2.b5 c2 
+
+Puzzle: 133
+Solution: 1.Qc8+ Kb6 2.Qxg4 
+
+Puzzle: 134
+Solution: 1...h3 2.Bd6 Kf3 3.Kh4 Kg2 
+
+Puzzle: 135
+Solution: 1.e7 Kf6 2.Kd6 Rb8 3.b7 Rxb7 4.e8Q 
+
+Puzzle: 136
+Solution: 1.Kf5 g4 2.Rb3+ Ke2 3.Kxg4 
+
+Puzzle: 137
+Solution: 1...Rxf2+ 2.Ka3 Rg2 3.g6 Rxg6 
+
+Puzzle: 138
+Solution: 1.Ke5 d4 2.Kxd4 Kd6 3.Kc4 Ke5 4.Kb5 Kxf5 5.Kxa5 
+
+Puzzle: 139
+Solution: 1.a5 Kd5 2.b7 Nxb7 3.a6 Nd6 4.a7 
+
+Puzzle: 140
+Solution: 1.e7 Re8 2.Kf3 
+
+Puzzle: 141
+Solution: 1.Kd4 Kb5 2.a3 
+
+Puzzle: 142
+Solution: 1.Rxb6 Kxb6 2.Kd6 
+
+Puzzle: 143
+Solution: 1...Kxf3 2.Kg5 Ke4 3.f5 Kxe5 
+
+Puzzle: 144
+Solution: 1.Kc6 Rc8+ 2.Kd7 Ra8 3.e7 
+
+Puzzle: 145
+Solution: 1...Kf3 2.Kg5 Rxf4 3.Rh6 Rg4+ 
+
+Puzzle: 146
+Solution: 1...Kxd4 2.Kxa5 Kc5 3.Ka6 e5 
+
+Puzzle: 147
+Solution: 1.f6 Ke6 2.Kg6 Nd3 3.Bc7 
+
+Puzzle: 148
+Solution: 1...Rg1+ 2.Kf5 h2 3.Rb4+ Kd5 
+
+Puzzle: 149
+Solution: 1...Kf4 2.e5 Kf5 3.Kg3 Kxg5 4.h4+ Kf5 5.Kf3 Kxe5 6.Kg4 Kf6 
+
+Puzzle: 150
+Solution: 1.Kb5 Ra2 2.Re6+ Kf7 3.Ra6 Rxa6 4.Kxa6 
+
+Puzzle: 151
+Solution: 1...a5 2.f4+ Kd5 
+
+Puzzle: 152
+Solution: 1.Kf7 g6 2.Kg7 Ke7 3.h5 
+
+Puzzle: 153
+Solution: 1...e2 2.f6 e1Q 3.f7 Qe7 
+
+Puzzle: 154
+Solution: 1.Kb5 Ra2 2.Rxf6+ 
+
+Puzzle: 155
+Solution: 1.f5 Kf7 2.Kh6 
+
+Puzzle: 156
+Solution: 1...c3 2.Re8 Be4 3.Rd8+ Bd5 
+
+Puzzle: 157
+Solution: 1...d4+ 2.Kc2 Kb4 3.Bd5 c3 4.Be6 Kxa4 
+
+Puzzle: 158
+Solution: 1.Ke3 c4 2.Kxf3 c3 3.Ke2 c2 4.Kd2 c1R 5.Kxc1 
+
+Puzzle: 159
+Solution: 1...a4 2.Ka6 Kb4 3.Kb6 a3 4.Kc6 Kc3 5.Kxb5 Kb2 6.Kc4 Kxa2 7.Kc3 Kb1 
+
+Puzzle: 160
+Solution: 1.Rd3+ Ke7 2.Rd2 
+
+Puzzle: 161
+Solution: 1...h5 2.Ke4 Kxh4 3.Kf3 Kh3 4.f5 gxf5 
+
+Puzzle: 162
+Solution: 1...Kg3 2.Nxh4 Kxh4 
+
+Puzzle: 163
+Solution: 1...d4 2.Kf5 d3 3.Rf3 d2 4.Rd3+ Ke7 
+
+Puzzle: 164
+Solution: 1.h6 Ra1 2.f7 Rf1 3.Ke7 
+
+Puzzle: 165
+Solution: 1...Qd4 2.Qc7+ Kd3 
+
+Puzzle: 166
+Solution: 1.Ka6 Rd4 2.Nb6 Kd6 3.Kb7 
+
+Puzzle: 167
+Solution: 1.e6 Nf5+ 2.Ke5 Ng7 3.e7 
+
+Puzzle: 168
+Solution: 1.f5+ Kg5 2.fxe6 
+
+Puzzle: 169
+Solution: 1...Kxf6 2.Kd4 e5+ 3.Kd5 Kf5 4.a4 bxa4 5.b5 a3 6.b6 a2 7.b7 a1Q 
+
+Puzzle: 170
+Solution: 1.g6 Ra1 2.Kg5 Rg1+ 3.Kf6 
+
+Puzzle: 171
+Solution: 1...Rxf2+ 2.Kxf2 Kg7 3.g4 Kf6 
+
+Puzzle: 172
+Solution: 1.Bc8 Rh7 2.d7 Rh8 3.Kxb5 
+
+Puzzle: 173
+Solution: 1.Kd6 Kf7 2.Kd7 a4 3.e5 Kg7 4.e6 a3 5.e7 a2 6.e8Q a1Q 7.Qe5+ Qxe5 8.fxe5 c5 9.e6 
+
+Puzzle: 174
+Solution: 1.g8Q Rxg8 2.Kxg8 h2 3.Rh6 h1Q 4.Rxh1 Kd6 5.Rh5 
+
+Puzzle: 175
+Solution: 1...Rh5+ 2.Kg4 Kxf7 3.Kxh5 b5 4.Kg4 b4 5.h7 Kg7 6.h8Q+ Kxh8 7.Kf3 b3 8.Ke2 b2 
+
+Puzzle: 176
+Solution: 1.bxc3 a4 2.b5 a3 3.b6 a2 4.b7 a1Q 5.b8Q+ Kg7 6.Qc7+ 
+
+Puzzle: 177
+Solution: 1...h2 2.Rc8 Kg4 
+
+Puzzle: 178
+Solution: 1.e6 Re1 2.Kd6 
+
+Puzzle: 179
+Solution: 1...g5 2.Rh6 Kg3 3.Kb7 g4 
+
+Puzzle: 180
+Solution: 1...Rxd7 2.h8Q Rd3+ 3.Kg4 c1Q 
+
+Puzzle: 181
+Solution: 1.Rf7 Re3 2.e7 
+
+Puzzle: 182
+Solution: 1.Qxb4+ cxb4 2.Ke3 
+
+Puzzle: 183
+Solution: 1.Bd3 Bf7 2.a5 
+
+Puzzle: 184
+Solution: 1.h7 Rg1 2.h8Q f1Q 3.Rg4+ 
+
+Puzzle: 185
+Solution: 1...Ka2 2.Kb4 a3 3.Bf7 Kb2 
+
+Puzzle: 186
+Solution: 1.h5 Kf3 2.Kxf5 Nh6+ 3.Kg6 Ng8 4.f5 Kg4 5.f6 Nxf6 6.h6 
+
+Puzzle: 187
+Solution: 1.Rg7+ Kh8 2.Rxh7+ Kg8 3.Rg7+ 
+
+Puzzle: 188
+Solution: 1.Rh6+ Kd7 2.Rh8 
+
+Puzzle: 189
+Solution: 1...e2+ 2.Kd2 Kg3 3.Ke1 Kxh2 
+
+Puzzle: 190
+Solution: 1.exd4 Kf5 2.h4 f6 3.Kg3 Ke4 4.h5 Kf5 5.Kh4 
+
+Puzzle: 191
+Solution: 1.Kf5 Kd4 2.f4 Ke3 3.g5 Kf3 4.g6 Ke3 5.Ke6 Kxf4 6.Kf7 Ke3 7.Kxg7 
+
+Puzzle: 192
+Solution: 1...bxa5 2.c4 Kg4 3.c5 Kf5 4.c6 Ke6 5.c7 Kd7 6.c8R Kxc8 
+
+Puzzle: 193
+Solution: 1.Kc5 Ke7 2.Kb5 Kd6 3.c5+ Kd5 4.c6 Kd6 5.Kb6 a4 6.c7 Kd7 7.Kb7 
+
+Puzzle: 194
+Solution: 1.Kd4 Kb5 2.Kd5 
+
+Puzzle: 195
+Solution: 1...e2+ 2.Ke1 g3 3.Ng5+ Kg4 4.Ne4 g2 
+
+Puzzle: 196
+Solution: 1...Kd3 2.Rf3+ Kd2 3.g4 e4 
+
+Puzzle: 197
+Solution: 1...a3 2.Nd2+ Ke2 
+
+Puzzle: 198
+Solution: 1...Ke7 2.Kc6 Ke6 3.Kc5 Ke5 4.Ng3 f5 5.Kc4 Kf4 
+
+Puzzle: 199
+Solution: 1...Rb1+ 2.Kc2 Rb6 
+
+Puzzle: 200
+Solution: 1.Kf4 Nc6 2.Ke4 
+
+Puzzle: 201
+Solution: 1.f5 d4 2.f6 d3+ 3.Kc1 Ka2 4.f7 
+
+Puzzle: 202
+Solution: 1.f3 g4 2.fxg4 f3 3.gxf3 
+
+Puzzle: 203
+Solution: 1.h6 Rb2 2.Rf5+ 
+
+Puzzle: 204
+Solution: 1...Kb4 2.Kd2 a3 3.bxa3+ Kxa3 4.c5 b2 5.Kc2 Ka2 
+
+Puzzle: 205
+Solution: 1.h6 a4 2.Kg8 Be6+ 3.Kf8 a3 4.h7 
+
+Puzzle: 206
+Solution: 1.Kxd3 Kf7 2.Kd4 Ke8 3.Ke4 
+
+Puzzle: 207
+Solution: 1...Kg6 2.Ke5 Kxg7 3.Kf4 f5 
+
+Puzzle: 208
+Solution: 1...a5 2.Kc7 Kc3 3.Kb6 Kb4 4.Kxb7 Kxb3 
+
+Puzzle: 209
+Solution: 1...Kf6 2.Rb5 g4 
+
+Puzzle: 210
+Solution: 1.c7 Nf5+ 2.Kg4 Ne7 3.Rb8 
+
+Puzzle: 211
+Solution: 1.Kf5 Kd6 2.Kg6 Bd4 3.Kh7 
+
+Puzzle: 212
+Solution: 1.g6+ Kxe7 2.h7 
+
+Puzzle: 213
+Solution: 1...Kc7 
+
+Puzzle: 214
+Solution: 1.Be5+ Kd8 2.Bd4 Rc1+ 3.Kd5 
+
+Puzzle: 215
+Solution: 1...Kg2 2.Kd5 Kxh1 3.Ke4 Kg2 
+
+Puzzle: 216
+Solution: 1...Rf2+ 2.Ke5 Rxf7 3.g4 Rg7 
+
+Puzzle: 217
+Solution: 1...Rd6 2.Rg1 Rxe6 
+
+Puzzle: 218
+Solution: 1.Kxb4 Ke5 2.Ka5 Ke6 3.Ka6 Kd5 4.Kb5 
+
+Puzzle: 219
+Solution: 1...Ke4 2.f5 Kxf5 3.Kf3 Kg5 4.Ke4 Kxh5 
+
+Puzzle: 220
+Solution: 1.Kc7 Qh7 2.Qe2 
+
+Puzzle: 221
+Solution: 1.h4 Kd7 2.Kf6 Kd6 3.Kxg6 Kxd5 4.Kxh5 Ke6 5.Kg6 Ke7 6.Kg7 
+
+Puzzle: 222
+Solution: 1...Rh6 2.Rg8+ Kf4 3.Rg1 Rd6+ 
+
+Puzzle: 223
+Solution: 1...Kd4 2.Bd5 f2 3.Bg2 Kxc4 
+
+Puzzle: 224
+Solution: 1...Rf5 2.Kc6 Rf3 
+
+Puzzle: 225
+Solution: 1.Ka6+ Ke4 2.b5 
+
+Puzzle: 226
+Solution: 1.Ng5 Ke8 2.Nxh7 Nd5+ 3.Kg7 
+
+Puzzle: 227
+Solution: 1.Kc6 Ne4 2.a4 Nxc3 3.a5 
+
+Puzzle: 228
+Solution: 1...g1Q+ 2.Qd4 h1Q 3.b8Q Qc1+ 
+
+Puzzle: 229
+Solution: 1.Kxe5 a4 2.a3 
+
+Puzzle: 230
+Solution: 1.h6 Nc6 2.Kg4 f5+ 3.Kg5 Ne7 4.h7 Nxg6 5.Kxg6 
+
+Puzzle: 231
+Solution: 1...b3 2.fxe4+ Kc4 3.Bg3 b2 
+
+Puzzle: 232
+Solution: 1.Kc7 Rxb7+ 2.Rxb7 Kf6 3.Kd6 
+
+Puzzle: 233
+Solution: 1.Nxe8 Kd4 2.Kf5 d5 3.e5 
+
+Puzzle: 234
+Solution: 1...Rxc5 2.Ke3 Rf5 
+
+Puzzle: 235
+Solution: 1.Kf7 Rg1 2.f6 Rg2 3.g7+ 
+
+Puzzle: 236
+Solution: 1.Kb8 Rc1 2.c7 
+
+Puzzle: 237
+Solution: 1...Kd3 2.c4 Kc2 3.b3 Kb2 4.b4 Kc3 
+
+Puzzle: 238
+Solution: 1.Kf3 Kc4 2.g4 Rb8 3.Ke4 Re8+ 4.Kf4 Kd5 5.h5 Rh8 6.Kg5 
+
+Puzzle: 239
+Solution: 1.g7 Rg8 2.Kf6 d4 3.Rg5 
+
+Puzzle: 240
+Solution: 1...Kg4 2.Kh1 f3 
+
+Puzzle: 241
+Solution: 1.Kf4 Kd5 2.Ke3 c4 3.b4 
+
+Puzzle: 242
+Solution: 1.f7 Rh3+ 2.Kxe4 Rh4+ 3.Ke3 
+
+Puzzle: 243
+Solution: 1...Nd5 2.b6 Nxb6 3.Bb3 Nd7 
+
+Puzzle: 244
+Solution: 1...gxf3+ 2.Kf1 Kf5 3.h5 h6 4.Ke1 Kg5 
+
+Puzzle: 245
+Solution: 1.g3+ Rxg3 2.Ra4+ Kg5 3.Kxg3 
+
+Puzzle: 246
+Solution: 1.g4 b5 2.axb5 a4 3.Kd3 
+
+Puzzle: 247
+Solution: 1.Ke5 f4 2.g4 
+
+Puzzle: 248
+Solution: 1.Rxg1 Kxg1 2.b5 
+
+Puzzle: 249
+Solution: 1.Ke6 f5 2.Rf2+ Ke3 3.Rxf5 Rh6+ 4.Rf6 
+
+Puzzle: 250
+Solution: 1...Kxc6 2.Ke4 Nd6+ 3.Ke5 Kc5 4.Kf6 Ne4+ 
+
+Puzzle: 251
+Solution: 1...Kg1 2.Ra1+ Re1 3.Rxe1+ fxe1Q 
+
+Puzzle: 252
+Solution: 1...c4+ 2.Kd2 Rxe2+ 3.Kxe2 Ka4 4.Ke3 Ka3 5.Ke4 Kb2 6.Kd4 Kb3 
+
+Puzzle: 253
+Solution: 1.Kd4 Kb6 2.Kd5 
+
+Puzzle: 254
+Solution: 1.h4 Kd3 2.Kxh7 g5 3.hxg5 
+
+Puzzle: 255
+Solution: 1...b1Q 2.Qf4+ Rd2 3.Qf1+ Rd1 
+
+Puzzle: 256
+Solution: 1.Re3+ Kd7 2.Rxd3+ Ke7 3.Re3+ Kd6 4.h6 
+
+Puzzle: 257
+Solution: 1.Ke6 Kg7 2.Kxe7 Kxh7 3.Kf7 b4 4.g6+ 
+
+Puzzle: 258
+Solution: 1.Kf5 Ke7 2.Kg6 h5 3.Kxh5 
+
+Puzzle: 259
+Solution: 1...Kb4 2.Ba1 c3 3.Bxc3+ Ka3 4.Kc5 b2 
+
+Puzzle: 260
+Solution: 1...f3 2.b4 Kf4 
+
+Puzzle: 261
+Solution: 1.Kg5 Ra8 2.Ng8 
+
+Puzzle: 262
+Solution: 1...Kf3 2.Nh1 Ra1 
+
+Puzzle: 263
+Solution: 1...Kc3 2.Bf7 Kd4 3.Ba2 h5 4.Ke6 Ke4 5.h4 Kf4 
+
+Puzzle: 264
+Solution: 1.Rxg7 Bxg7 2.Ke6 
+
+Puzzle: 265
+Solution: 1.Bd7 h4 2.a4 Bh3 3.Bxh3 Kxh3 4.Kxf3 
+
+Puzzle: 266
+Solution: 1.a6 Be4 2.Kc5 
+
+Puzzle: 267
+Solution: 1...a5 2.Kf6 Rxe5 3.Kxe5 Kc5 4.Ke4 Kc4 5.Ke3 Kc3 6.f4 a4 7.f5 a3 8.f6 a2 
+
+Puzzle: 268
+Solution: 1.a7 Nd7+ 2.Kc6 Nf6 3.Kd6 Bg2 4.Ke6 Kg4 5.Kxf6 
+
+Puzzle: 269
+Solution: 1.Nxb5+ Kd5 2.Nd4 b3 3.Nxb3 
+
+Puzzle: 270
+Solution: 1.Kxf4 Ke6 2.Kg5 Kf7 3.Kh6 Kf6 4.Kh7 g5 5.Kh6 
+
+Puzzle: 271
+Solution: 1...Rf3 2.Kd6 Rxf5 
+
+Puzzle: 272
+Solution: 1.Kd6 Nf5+ 2.Kd7 
+
+Puzzle: 273
+Solution: 1...Kxe5 2.h5 Kd4 3.h6 Kc3 4.h7 Rb8 
+
+Puzzle: 274
+Solution: 1.Rd6+ Ka5 2.Rd5+ 
+
+Puzzle: 275
+Solution: 1.Kd5 g5 2.c5 g4 3.c6 g3 4.c7 g2 5.c8Q g1Q 6.Qf8+ 
+
+Puzzle: 276
+Solution: 1...Rxc2 2.g4 Ke3 
+
+Puzzle: 277
+Solution: 1...Ra1+ 2.Kf2 Rh1 
+
+Puzzle: 278
+Solution: 1...b4 2.Kf2 Rd1 3.Ke3 Ra1 4.Kd3 Rxa2 
+
+Puzzle: 279
+Solution: 1...Kd4 2.a4 Kd3 3.a5 c3 4.a6 cxb2 5.a7 b1Q 6.a8Q Qe1+ 
+
+Puzzle: 280
+Solution: 1.d6 Rf4+ 2.Ke3 Rf3+ 3.Ke4 Rf7 4.d7 
+
+Puzzle: 281
+Solution: 1...a3 2.b3 c4 3.bxc4 Kxc4 
+
+Puzzle: 282
+Solution: 1.Kxh2 e5 2.a5 e4 3.a6 e3 4.Kg2 Kd3 5.a7 e2 6.a8Q e1Q 7.Qd5+ 
+
+Puzzle: 283
+Solution: 1.f6 Nc7 2.h5 
+
+Puzzle: 284
+Solution: 1...Kb4 2.Nd7 Kxa4 3.Ne5 g5 
+
+Puzzle: 285
+Solution: 1.Kc5 Rb8 2.b6 Rg8 3.b7 
+
+Puzzle: 286
+Solution: 1.c7 h2 2.Rb1 Kg7 3.Kd7 
+
+Puzzle: 287
+Solution: 1.Kh7 Rc5 2.g7 Rh5+ 3.Kg6 Rxh4 4.Kf5 Rh1 5.g8Q 
+
+Puzzle: 288
+Solution: 1.f4 h5 2.f5 gxf5 3.g5 f4 4.g6 Kb2 5.g7 
+
+Puzzle: 289
+Solution: 1.Kg5 Bxd6 2.exd6 
+
+Puzzle: 290
+Solution: 1...h3 2.Be8 Kd5 
+
+Puzzle: 291
+Solution: 1.Kf2 Kb4 2.Ke1 
+
+Puzzle: 292
+Solution: 1.Kc5 Bxa4 2.Kd6 Kg6 3.Ke7 
+
+Puzzle: 293
+Solution: 1.Kd6 Ke8 2.Kc7 Ke7 3.Kxc8 
+
+Puzzle: 294
+Solution: 1.h7 c3 2.h8Q c2 3.Qh6 Kc3 4.Qc1 
+
+Puzzle: 295
+Solution: 1...Rb1+ 2.Kd2 g2 3.Kd3 Rb3+ 4.Kc2 Rxb7 5.Rxb7 g1Q 
+
+Puzzle: 296
+Solution: 1...Ra1 2.Kg4 Ra4+ 
+
+Puzzle: 297
+Solution: 1.g4 Bd1 2.h4 Kg3 3.f5 
+
+Puzzle: 298
+Solution: 1.d5+ Kd7 2.c6+ Kc7 3.Kf5 Rf3+ 4.Ke6 
+
+Puzzle: 299
+Solution: 1...g3 2.Rb1 g2 
+
+Puzzle: 300
+Solution: 1.h4 Ke5 2.h5 f5 3.h6 f4+ 4.Kf3 
+
+Puzzle: 301
+Solution: 1.e6 h3 2.e7 Kf7 3.Kd6 h2 4.g6+ Kf6 5.e8Q 
+
+Puzzle: 302
+Solution: 1...Rg2+ 2.Kf5 h2 
+
+Puzzle: 303
+Solution: 1...f3 2.Rf6 Ke3 
+
+Puzzle: 304
+Solution: 1.h4 Ne3 2.h5 Nxg2 3.Kg4 Kxb3 4.Kf3 Nh4+ 5.Kxf4 
+
+Puzzle: 305
+Solution: 1...Ng1+ 2.Ke1 h1Q 3.Qf2+ Kg4 4.Qd4+ Kh3 5.Qh8+ Kg2 
+
+Puzzle: 306
+Solution: 1.Ba6 Kc7 2.Bd3 
+
+Puzzle: 307
+Solution: 1...Kb2 2.Bd2 a5 
+
+Puzzle: 308
+Solution: 1...Ke3 2.Rd1 Kd4 
+
+Puzzle: 309
+Solution: 1...Kd6 2.Nc4+ Kc7 
+
+Puzzle: 310
+Solution: 1.e7 Rh8 2.Kd6 Rg8 3.Kd7 
+
+Puzzle: 311
+Solution: 1.Rxa6 Kg3 2.Kd3 
+
+Puzzle: 312
+Solution: 1...Kd5 2.Bc5 Ke4 3.Kc4 Kf3 
+
+Puzzle: 313
+Solution: 1.Kxd6 g4 2.Kd5 
+
+Puzzle: 314
+Solution: 1...d4+ 2.Kb2 a4 3.Ka3 c3 
+
+Puzzle: 315
+Solution: 1...Kh4 2.Ke6 Kxh3 3.Kf5 Kg3 
+
+Puzzle: 316
+Solution: 1...h3 2.Rxa2 g3+ 3.Kxe2 h2 
+
+Puzzle: 317
+Solution: 1.c8Q a1Q 2.Qc6+ Ke7 3.d6+ 
+
+Puzzle: 318
+Solution: 1...Qh6+ 2.Qxh6 gxh6 3.Kc6 Kh3 4.Kd5 Kxh2 5.Ke4 Kg3 
+
+Puzzle: 319
+Solution: 1...a2 2.Qe2+ Qc4 
+
+Puzzle: 320
+Solution: 1.c7 Rf8 2.Rg1 
+
+Puzzle: 321
+Solution: 1...g2 2.Rc1 f4 
+
+Puzzle: 322
+Solution: 1.Rxa6 h2 2.Ra1 Kh4 3.Kf4 Kh3 4.Kf3 
+
+Puzzle: 323
+Solution: 1...Bxe4 2.Kxe4 b3 3.Kd3 Kb4 4.g5 Ka3 
+
+Puzzle: 324
+Solution: 1...Ke3 2.Rh4 Kxf3 
+
+Puzzle: 325
+Solution: 1...Kf3 2.Rd2 d3 
+
+Puzzle: 326
+Solution: 1.a6 Nd7 2.a7 Nb6 3.Kc5 
+
+Puzzle: 327
+Solution: 1...a4 2.Kd4 Kxb2 3.c4 b4 4.c5 bxa3 5.c6 a2 
+
+Puzzle: 328
+Solution: 1...f4 2.Kd3 Kf2 3.Be2 f3 4.Bd1 Kg2 
+
+Puzzle: 329
+Solution: 1...f5 2.gxf5 Kxf5 3.Kd5 Kf4 
+
+Puzzle: 330
+Solution: 1...Kg2 2.b6 h1Q 3.b7 Qa1+ 
+
+Puzzle: 331
+Solution: 1...Kf3 2.b4 e4 3.Kf5 e3 4.Nf4 e2 5.Nd3 Ke3 
+
+Puzzle: 332
+Solution: 1...axb5 2.Kd4 b4 3.Kc4 Kxg5 4.Kxb4 Kf4 
+
+Puzzle: 333
+Solution: 1.Qa4+ Qxa4+ 2.Kxa4 Ke5 3.Ka5 Ke6 4.Ka6 Kd5 5.Kb5 
+
+Puzzle: 334
+Solution: 1.Kc5 b4 2.c4 Ke7 3.Kb5 Kd6 4.c5+ Kd5 5.c6 Kd6 6.Kb6 
+
+Puzzle: 335
+Solution: 1.Ke1 Kc3 2.g8Q d2+ 3.Ke2 Ng3+ 4.Kd1 
+
+Puzzle: 336
+Solution: 1...a5 2.Kf7 a4 3.g5 Bf5 
+
+Puzzle: 337
+Solution: 1...c3 2.Ra2 Ke4 3.Kg5 Rg1+ 
+
+Puzzle: 338
+Solution: 1...Kd6 2.Kf4 Ke6 
+
+Puzzle: 339
+Solution: 1.Kxe5 a4 2.Kd4 a3 3.Kc3 a2 4.Kb2 a1Q+ 5.Kxa1 
+
+Puzzle: 340
+Solution: 1.Nxf4 Ke5 2.Ne2 Be3 3.Kc6 
+
+Puzzle: 341
+Solution: 1.d6 f3+ 2.Kf1 g3 3.d7 
+
+Puzzle: 342
+Solution: 1...Ke3 2.Kg2 Ke2 3.g5 fxg5 
+
+Puzzle: 343
+Solution: 1.Kg6 Kc2 2.f5 Kd3 3.f6 
+
+Puzzle: 344
+Solution: 1.c6 Ra6 2.Rc7 Kf8 3.Kf6 
+
+Puzzle: 345
+Solution: 1...Kc3 2.Ke2 b4 
+
+Puzzle: 346
+Solution: 1...Rg6+ 2.Kh2 Rg7 3.Rb8 Rxh7+ 
+
+Puzzle: 347
+Solution: 1...Kf3 2.Rf6+ Kg2 3.Rf4 d4 
+
+Puzzle: 348
+Solution: 1...Kg5 2.Ke5 Re2+ 3.Kd4 Kxf5 
+
+Puzzle: 349
+Solution: 1...Ke1 2.Qh1+ Kf2 3.Qh2+ Kf3 4.Qh3+ Kf4 
+
+Puzzle: 350
+Solution: 1...h3 2.Kf5 Qf2+ 
+
+Puzzle: 351
+Solution: 1.hxg5 Ba5 2.e5 Bd2+ 3.Kg4 
+
+Puzzle: 352
+Solution: 1.h7 Rxg3+ 2.Kh4 Rd3 3.h8Q+ 
+
+Puzzle: 353
+Solution: 1...Kd4 2.e5 Kxe5 3.Ke3 Kf5 4.Kd4 Kg4 
+
+Puzzle: 354
+Solution: 1...Ke4 2.Kg3 Kd3 
+
+Puzzle: 355
+Solution: 1.d6+ Kd8 2.Nd5 Rg5+ 3.Kd4 
+
+Puzzle: 356
+Solution: 1.Qxh7+ Kc1 2.Qh6+ Kc2 3.Qg6+ 
+
+Puzzle: 357
+Solution: 1...g5 2.Rc8 Nh3 
+
+Puzzle: 358
+Solution: 1.Kc2 a2 2.Kb2 
+
+Puzzle: 359
+Solution: 1.Kf4 g5+ 2.Ke4 a5 3.a4 
+
+Puzzle: 360
+Solution: 1...Bd7 2.Kd4 Kh6 3.Nf5+ Bxf5 
+
+Puzzle: 361
+Solution: 1.dxe4 Kf6 2.g4 Ke5 3.g5 
+
+Puzzle: 362
+Solution: 1.Qg2+ Kd3 2.Qe4+ Kc3 3.Qc6+ Kb2 4.Qxc1+ 
+
+Puzzle: 363
+Solution: 1...a5 2.Nd5+ Kb3 
+
+Puzzle: 364
+Solution: 1.Kb4 Ra6 2.Rc3+ Kf2 3.Ra3 Rxa7 4.Rxa7 g4 5.Rf7+ 
+
+Puzzle: 365
+Solution: 1.g5 Kc7 2.f5 Kd7 3.f6 
+
+Puzzle: 366
+Solution: 1.g5 Kf3 2.Ke5 
+
+Puzzle: 367
+Solution: 1.Ke4 Kc6 2.Ke5 c4 3.Kd4 
+
+Puzzle: 368
+Solution: 1...Nd3+ 2.Kf3 c2 3.Rd8+ Kc4 4.Ke2 c1Q 
+
+Puzzle: 369
+Solution: 1...Ke7 2.Kg5 a5 3.Kh6 Kxf7 
+
+Puzzle: 370
+Solution: 1.b4 Kf6 2.b5 Ke7 3.Kc6 
+
+Puzzle: 371
+Solution: 1...e3+ 2.Kf1 Bd3+ 3.Kg1 f2+ 4.Kh2 Bxh7 
+
+Puzzle: 372
+Solution: 1.Kg5 Ke3 2.Kh6 Kf4 3.g5 Kg4 4.Kxh7 Kh5 5.Kg7 
+
+Puzzle: 373
+Solution: 1...Kf4 2.Kd3 Kf3 3.c4 h4 4.c5 h3 5.c6 h2 6.c7 h1Q 7.c8Q Qd1+ 8.Kc3 Qc1+ 9.Kd4 Qxc8 
+
+Puzzle: 374
+Solution: 1.Kg4 Nd5 2.h5 a5 3.h6 
+
+Puzzle: 375
+Solution: 1...Kf3 2.Nd7 h5 3.Nxf6 h4 
+
+Puzzle: 376
+Solution: 1...b3 2.Rh3+ Bd3 3.Rh1 b2+ 4.Ka2 Kb4 
+
+Puzzle: 377
+Solution: 1...e4 2.Rd8+ Kxc3 3.Rc8+ Kd3 
+
+Puzzle: 378
+Solution: 1.Rd6+ Kc7 2.Rd2 
+
+Puzzle: 379
+Solution: 1.e7 Re2 2.Rf3+ Kg4 3.Re3 Rxe3 4.Kxe3 
+
+Puzzle: 380
+Solution: 1.Kd2 Ke5 2.h6 
+
+Puzzle: 381
+Solution: 1...Rxd1+ 2.Kxd1 Ka2 3.Rd4 a3 4.Rb4 Kb2 
+
+Puzzle: 382
+Solution: 1.Kxh6 Rb1 2.Rg7+ 
+
+Puzzle: 383
+Solution: 1.Rxg4+ Kh3 2.Rg8 
+
+Puzzle: 384
+Solution: 1.b5 d4 2.bxc6 
+
+Puzzle: 385
+Solution: 1...Kg2 2.Rxg3+ hxg3 
+
+Puzzle: 386
+Solution: 1...Rxb3 2.Kxb3 h5 3.c4 Kg4 4.c5 Kf5 5.Kc3 h4 6.c6 Ke6 7.Kd3 h3 8.Ke2 h2 9.c7 Kd7 
+
+Puzzle: 387
+Solution: 1...Kg4 2.Nxf7 h3 
+
+Puzzle: 388
+Solution: 1.a5 Kd4 2.Kc6 
+
+Puzzle: 389
+Solution: 1.Kg5 Ke6 2.Kh6 g5 3.Kxh7 
+
+Puzzle: 390
+Solution: 1.Kxd5 b4 2.Kc5 a5 3.d5 a4 4.d6 b3 5.d7 Kc2 6.d8Q 
+
+Puzzle: 391
+Solution: 1.Rh7 h5 2.Rxh5+ 
+
+Puzzle: 392
+Solution: 1.Kh7 Rg3 2.g6 Rg5 3.Kh8 Rxh5 4.g7+ Ke7 5.g8Q Rxh6+ 6.Kg7 
+
+Puzzle: 393
+Solution: 1...Kg4 2.Kg2 Kxh4 3.f3 e3 4.f4 Kg4 5.f5 h4 6.f6 h3+ 
+
+Puzzle: 394
+Solution: 1...a4 2.g5 Kd6 3.g6 Ke7 4.Kg5 Kf8 
+
+Puzzle: 395
+Solution: 1...Nb4 2.Nc5 b2 
+
+Puzzle: 396
+Solution: 1.Ne3+ Kf4 2.Kb5 
+
+Puzzle: 397
+Solution: 1.d6 Kb7 2.c5 Bg4 3.c6+ 
+
+Puzzle: 398
+Solution: 1...Rf3 2.Ra1 Kxf4 
+
+Puzzle: 399
+Solution: 1.a5 g4 2.Kd4 g3 3.Ke3 g2 4.Kf2 
+
+Puzzle: 400
+Solution: 1...Kxa6 2.Kd4 Kb7 
+
+Puzzle: 401
+Solution: 1.b5 Kg4 2.Kd5 Kf4 3.Kc6 Ke5 4.Kb7 Kd6 5.Kxa7 
+
+Puzzle: 402
+Solution: 1...Re1 2.Rb8 Rxe6 
+
+Puzzle: 403
+Solution: 1...a3 2.Ke2 Kc2 
+
+Puzzle: 404
+Solution: 1...Kf8 2.axb3 a3 3.e6 a2 4.e7+ Ke8 
+
+Puzzle: 405
+Solution: 1...Kxc5 2.Ke4 Kc4 
+
+Puzzle: 406
+Solution: 1...h3 2.Rg1+ Kh4 3.Rh1 Kg3 
+
+Puzzle: 407
+Solution: 1.a7 g1Q 2.Rxg1 Ra2 3.Rg7 Ra5 4.Re7 
+
+Puzzle: 408
+Solution: 1.Kc6 Kf7 2.d5 
+
+Puzzle: 409
+Solution: 1.Kxb5 Kd5 2.Ka4 Kc4 3.b5 e4 4.b6 e3 5.b7 e2 6.b8Q 
+
+Puzzle: 410
+Solution: 1.e6 Kd8 2.Kf7 
+
+Puzzle: 411
+Solution: 1...h3 2.gxh3 gxh3 3.Nd3+ Kf1 4.Ne5 h2 
+
+Puzzle: 412
+Solution: 1.Ke5 Ne2 2.g4 
+
+Puzzle: 413
+Solution: 1.Kxb4 Kd5 2.Kc3 Ke4 3.Kd2 Kf4 4.b4 Kf3 5.Ke1 
+
+Puzzle: 414
+Solution: 1...Ka5 2.b3 c4 3.bxc4 Kxa4 4.c5 Kb3 5.Kg4 Kxc3 
+
+Puzzle: 415
+Solution: 1...f4 2.gxf4 gxf4 3.Kd5 f3 
+
+Puzzle: 416
+Solution: 1.Kg6 Rb8 2.f5 
+
+Puzzle: 417
+Solution: 1...e3 2.Nh4 Ke2 
+
+Puzzle: 418
+Solution: 1.b5 Ra8 2.Kc3 Kf4 3.Kd4 
+
+Puzzle: 419
+Solution: 1...Kg6 2.Be4+ f5 
+
+Puzzle: 420
+Solution: 1.fxe4 Kxe4 2.Kc4 Ke3 3.Kc3 f3 4.Re1+ 
+
+Puzzle: 421
+Solution: 1.Kd6 Kf5 2.c6 Ke4 3.Kc5 
+
+Puzzle: 422
+Solution: 1...Kg5 2.Bg2 Kh4 3.Bd5 Kg3 4.Be6 f4+ 5.Ke4 f3 
+
+Puzzle: 423
+Solution: 1...b2 2.Qe7+ Kb3 
+
+Puzzle: 424
+Solution: 1.Nd4+ Nxd4 2.Kxd4 Kb4 3.Kd3 a3 4.Kc2 
+
+Puzzle: 425
+Solution: 1...Kc2 2.Kf4 b3 3.Na4 d4 
+
+Puzzle: 426
+Solution: 1.g5 Rf1 2.Kh2 
+
+Puzzle: 427
+Solution: 1...Rf4+ 2.Kg3 Rf7 
+
+Puzzle: 428
+Solution: 1...d2 2.f6 d1Q 3.f7 Qd8 4.Ke6 Kd4 
+
+Puzzle: 429
+Solution: 1.hxg3+ Kf3 2.Kf1 e3 3.fxe3 Kxe3 4.Kg2 Ke4 5.Kh3 Kf5 6.Kh4 Kg6 7.Kg4 
+
+Puzzle: 430
+Solution: 1...Kxc4 2.Kg4 b5 3.Kf3 b4 4.Ke2 Kc3 
+
+Puzzle: 431
+Solution: 1...h3 2.Kf1 Kf3 3.Kg1 h2+ 4.Kh1 g2+ 5.Kxh2 Kf2 6.Ng4+ Kf1 7.Kg3 g1Q+ 
+
+Puzzle: 432
+Solution: 1.g6 Ne7 2.g7 Nf5 3.g8N Ke5 4.e7 
+
+Puzzle: 433
+Solution: 1.Kf3 Ke5 2.Kg4 h6 3.h3 
+
+Puzzle: 434
+Solution: 1.Kxc5 Kxg6 2.Kb5 Kf7 3.Ka6 Ke6 4.Kxa7 
+
+Puzzle: 435
+Solution: 1.Kxf6 Ke2 2.Ke5 
+
+Puzzle: 436
+Solution: 1.g7 Rg8 2.Kxe5 f3 3.Rc1+ 
+
+Puzzle: 437
+Solution: 1...bxa3 2.h6 Kf6 3.e5+ Kg6 4.h7 Kxh7 
+
+Puzzle: 438
+Solution: 1.Ne5 Kf4 2.a5 Kxe5 3.a6 
+
+Puzzle: 439
+Solution: 1...Kb3 2.Nd2+ Kc2 
+
+Puzzle: 440
+Solution: 1...h1Q+ 2.Kd6 Qh3 3.Kc6 Qc8 
+
+Puzzle: 441
+Solution: 1.g6 Bg7 2.Kg5 Kb5 3.h6 
+
+Puzzle: 442
+Solution: 1.Kd8 Ke5 2.c8Q Rxc8+ 3.Kxc8 Kf4 4.Rxg2 
+
+Puzzle: 443
+Solution: 1.Kc3 Kg4 2.Rxf5 Kxf5 3.Kd4 
+
+Puzzle: 444
+Solution: 1.Kb6 Kb3 2.Kxa6 Rc6+ 3.Ka5 
+
+Puzzle: 445
+Solution: 1...b2 2.Rxb2 Kxb2 3.Ke3 Kc3 
+
+Puzzle: 446
+Solution: 1.Ke3 b5 2.Rg4 
+
+Puzzle: 447
+Solution: 1.Kf3 h3 2.gxh3 
+
+Puzzle: 448
+Solution: 1.h5 Kb3 2.Kb1 a2+ 3.Ka1 
+
+Puzzle: 449
+Solution: 1.g7 Bxg7 2.f6 Bxf6+ 3.Kxf6 
+
+Puzzle: 450
+Solution: 1.Rc2 Kg3 2.Rg2+ Kf4 3.Rh2 Rxh6 4.Rxh6 
+
+Puzzle: 451
+Solution: 1.Rxf7 Nxf7 2.Kg4 Ne5+ 3.Kf5 
+
+Puzzle: 452
+Solution: 1.Qe4+ Qxe4+ 2.Kxe4 g5 3.a4 Kf2 4.Kf5 Kf3 5.a5 g4 6.a6 g3 7.a7 g2 8.a8Q+ 
+
+Puzzle: 453
+Solution: 1.Kg5 Kf7 2.h5 gxh5 3.Kxf5 Kg7 4.Kg5 
+
+Puzzle: 454
+Solution: 1...Rd1 2.Rf2 Re1 3.Rb2 Kf3 4.Kf5 Rxe4 
+
+Puzzle: 455
+Solution: 1...Rd2+ 2.Rd5 e3 3.c6 e2 4.Rxd2 e1Q 
+
+Puzzle: 456
+Solution: 1...Kxf4 2.Ke2 Kg3 3.Kf1 Kh2 4.h4 Kg3 
+
+Puzzle: 457
+Solution: 1.Nd5+ Kd4 2.g6 Kxd5 3.g7 f1Q+ 4.Kxf1 
+
+Puzzle: 458
+Solution: 1.b6 Ng4 2.b7 Nxe5 3.b8Q 
+
+Puzzle: 459
+Solution: 1...Ke5 2.Kf3 Kd4 
+
+Puzzle: 460
+Solution: 1...Ke7 2.Kg4 a5 3.Kg5 Kf8 4.Kh6 Kg8 
+
+Puzzle: 461
+Solution: 1.f6 Ra8 2.Rc1+ Kb4 3.Kxd4 
+
+Puzzle: 462
+Solution: 1...Ke3 2.Nc3 Be1 3.Kb5 Bxc3 
+
+Puzzle: 463
+Solution: 1...Ke2 2.Nh2 d3 
+
+Puzzle: 464
+Solution: 1...Rxe6 2.Rc8 Kd4 3.a4 Kd3 
+
+Puzzle: 465
+Solution: 1...Kd5 2.e6 Kxe6 3.Ke4 Kd6 
+
+Puzzle: 466
+Solution: 1.f6 exf6 2.Kc5 
+
+Puzzle: 467
+Solution: 1...Kxa6 2.Ke6 Re1+ 
+
+Puzzle: 468
+Solution: 1...Kf5 2.Rxe4 Rd8 3.Kh6 Kxe4 
+
+Puzzle: 469
+Solution: 1.Kxc6 a4 2.Kxc5 a3 3.Nd5+ Kb3 4.Nb4 
+
+Puzzle: 470
+Solution: 1.Kxf5 Ke7 2.Kg6 Kf8 3.Kh7 Kf7 4.Kh8 
+
+Puzzle: 471
+Solution: 1.Bxg3+ Kd2 2.Bf2 
+
+Puzzle: 472
+Solution: 1...h4 2.Kf5 f3 3.gxf3 Kxh3 
+
+Puzzle: 473
+Solution: 1...Ke2 2.Kh3 Bg3 
+
+Puzzle: 474
+Solution: 1...Rb1 2.g6 Rh1+ 3.Rh4 Rg1 
+
+Puzzle: 475
+Solution: 1.Kf8 Ra6 2.Kxg7 
+
+Puzzle: 476
+Solution: 1...Qc8+ 2.Kb5 a6+ 3.Ka5 Qc7+ 4.Kxa6 Qxh2 
+
+Puzzle: 477
+Solution: 1.Kg5 Kf7 2.Kh6 f4 3.Kg5 
+
+Puzzle: 478
+Solution: 1.h5 b4 2.Ke3 b3 3.Kd2 Kb4 4.Kc1 
+
+Puzzle: 479
+Solution: 1...e3 2.Re8 Kf3 3.g5 Rxg5 
+
+Puzzle: 480
+Solution: 1...h3 2.e6 h2 3.f7 Kg7 4.Kd6 h1Q 
+
+Puzzle: 481
+Solution: 1.Nd6+ Kd3 2.Nxf5 a4 3.h5 a3 4.Nd4 a2 5.Nb3 Kc4 6.Na1 
+
+Puzzle: 482
+Solution: 1.h5 Ke4 2.f6 Ke5 3.f7 
+
+Puzzle: 483
+Solution: 1...Ke3 2.Qe6+ Kd2 3.Qd6+ Ke1 
+
+Puzzle: 484
+Solution: 1.Kb6 Kb8 2.a6 Ka8 3.a7 e5 4.Kc5 e4 5.Kd4 e3 6.Kxe3 
+
+Puzzle: 485
+Solution: 1...Rxb8 2.Kxb8 Ke5 
+
+Puzzle: 486
+Solution: 1...Kb4 2.Ra8 Rxc2+ 
+
+Puzzle: 487
+Solution: 1.Kf2 Rh3 2.e7 g3+ 3.Ke2 
+
+Puzzle: 488
+Solution: 1.Re3+ Kh4 2.Re8 Ra1+ 3.Kg2 
+
+Puzzle: 489
+Solution: 1.h4 b5 2.g4 hxg4 3.h5 g3 4.Ke3 g2 5.Kf2 Kc2 6.h6 b4 7.h7 b3 8.h8Q 
+
+Puzzle: 490
+Solution: 1...g5+ 2.Ke3 Kd5 3.f4 h3 4.Kf3 gxf4 5.g5 Ke6 6.g6 Kf6 7.d5 Kxg6 
+
+Puzzle: 491
+Solution: 1...Kf4 2.Nf1 b5 
+
+Puzzle: 492
+Solution: 1.a5 Ka3 2.Kb5 Kb3 3.a6 Ka3 4.Kc6 Kxb4 5.Kb7 Kc5 6.Kxa7 Kc6 7.Kb8 b5 8.a7 
+
+Puzzle: 493
+Solution: 1.Rd7+ Ke6 2.Rd8 
+
+Puzzle: 494
+Solution: 1.a4 Kf4 2.a5 Rg6 3.Bb7 
+
+Puzzle: 495
+Solution: 1...a5 2.Kd2 Kd4 
+
+Puzzle: 496
+Solution: 1.Kh6 Rb1 2.Rxh2 Rb6+ 3.Kh5 
+
+Puzzle: 497
+Solution: 1...Kxh3 2.Rc3+ Kg2 
+
+Puzzle: 498
+Solution: 1...Kc4 2.a4 a6 3.axb5 axb5 
+
+Puzzle: 499
+Solution: 1.Rxb2 Rg4+ 2.Kh5 Rg1 3.h7 Rh1+ 4.Kg6 
+
+Puzzle: 500
+Solution: 1.dxc6 Kd6 2.Ke3 Kxc6 3.Kf4 Kd7 4.Kf5 Kd6 5.Kf6 
+
+Puzzle: 501
+Solution: 1.e6 a3 2.e7 a2 3.e8Q a1Q 4.Qb8+ 
+
+Puzzle: 502
+Solution: 1.Qe7 d2 2.Qh7+ Kf8 3.g7+ 
+
+Puzzle: 503
+Solution: 1...Kb1 2.Qf1+ Qc1 
+
+Puzzle: 504
+Solution: 1...Kd7 2.Kb7 Rxc7+ 3.Kb6 Rc6+ 4.Kb5 Rf6 
+
+Puzzle: 505
+Solution: 1.Rc8+ Kb5 2.g7 
+
+Puzzle: 506
+Solution: 1...Rf2 2.Re3+ Kg2 3.Re2 g3 4.f7 Kg1 
+
+Puzzle: 507
+Solution: 1...Rxf3 2.Kxf3 Kg8 3.Ke4 Kf8 
+
+Puzzle: 508
+Solution: 1.a5 Kf5 2.Kxa6 
+
+Puzzle: 509
+Solution: 1.Kc7 Bg4 2.Nd5+ Kd4 3.b6 
+
+Puzzle: 510
+Solution: 1...Bg5 2.Kd3 Bxe3 3.Kxe3 Ka4 4.Kd2 Ka3 5.Kc1 Ka2 
+
+Puzzle: 511
+Solution: 1...Rxf2+ 2.Ke3 Rf6 
+
+Puzzle: 512
+Solution: 1.c4 Kf3 2.c5 Rc7 3.c6 Ke4 4.Kh8 Kd5 5.g8Q+ 
+
+Puzzle: 513
+Solution: 1.h6 f4 2.g6 hxg6 3.h7 
+
+Puzzle: 514
+Solution: 1.Kxe7 Kg4 2.a4 Kxf4 3.a5 Ke3 4.a6 f4 5.a7 f3 6.a8Q f2 7.Qa6 Kf3 8.Qf1 
+
+Puzzle: 515
+Solution: 1.h4 g3 2.fxg3 Kd4 3.Kg5 
+
+Puzzle: 516
+Solution: 1.h5 Kc8 2.Kc6 
+
+Puzzle: 517
+Solution: 1.Kc5 Kd3 2.Kxd5 Kc3 3.Kc5 Kb2 4.a4 
+
+Puzzle: 518
+Solution: 1...a2 2.Rf6+ Kb7 3.Rf1 b4 
+
+Puzzle: 519
+Solution: 1.Qd6 Qe3 2.Qd5+ Kb4 3.Qxf5 
+
+Puzzle: 520
+Solution: 1...Kh4 2.Ne4 a2 3.Nd2 a1Q 
+
+Puzzle: 521
+Solution: 1...f3 2.Rb4+ Ke5 3.Rb2 Rxa5+ 
+
+Puzzle: 522
+Solution: 1...Kf3 2.gxh4 Kxf2 3.h5 g3+ 
+
+Puzzle: 523
+Solution: 1.Kg6 Ke7 2.Kh7 Bd2 3.g6 
+
+Puzzle: 524
+Solution: 1...Kc3 2.Ke7 Qf4 3.Qf6 Qd4 
+
+Puzzle: 525
+Solution: 1...Kf3 2.f5 gxf5 3.g4 f4 
+
+Puzzle: 526
+Solution: 1.Rb5 f5 2.b7 Rd8 3.Rxf5 Rd7+ 4.Rf7 
+
+Puzzle: 527
+Solution: 1.h5 Kd7 2.Kf6 Ke8 3.Kg7 
+
+Puzzle: 528
+Solution: 1...Kd2 2.h4 d4 3.h5 Kxd1 4.h6 e2 
+
+Puzzle: 529
+Solution: 1.Qd4+ Ke1 2.Qh4+ 
+
+Puzzle: 530
+Solution: 1...Kxb3 2.Ke4 a4 3.Kd3 Rd6+ 
+
+Puzzle: 531
+Solution: 1...f4 2.Kg1 h3 3.gxh3 Kxh3 4.Kf2 Kh2 
+
+Puzzle: 532
+Solution: 1.Kf8 Rc2 2.Ra6+ 
+
+Puzzle: 533
+Solution: 1...Kd1 2.Kf2 Rd2 3.Rxe2 Rxe2+ 
+
+Puzzle: 534
+Solution: 1.h6 Ne4+ 2.Kf4 Nc5 3.h7 
+
+Puzzle: 535
+Solution: 1...Ke3 2.Bd5 d3+ 
+
+Puzzle: 536
+Solution: 1...b3 2.Bc1 Kd3 3.Kb5 Kc2 
+
+Puzzle: 537
+Solution: 1.b4 Kd3 2.b5 
+
+Puzzle: 538
+Solution: 1...Qa2+ 2.Kb6 Qb1+ 
+
+Puzzle: 539
+Solution: 1...Kg3 2.g5 Kf3 3.f5 Kg4 4.fxg6 fxg6 5.Ke4 Kxg5 
+
+Puzzle: 540
+Solution: 1.Kb6 f2 2.Kxb7 f1Q 3.a8Q 
+
+Puzzle: 541
+Solution: 1...d2 2.Rd3 Bg5 
+
+Puzzle: 542
+Solution: 1...Kd7 2.Kd4 g4 3.b7 Kc7 
+
+Puzzle: 543
+Solution: 1...Kf3 2.Rf8+ Kg2 
+
+Puzzle: 544
+Solution: 1...Kxe7 2.Kf5 Kd6 3.Kf4 Kd5 
+
+Puzzle: 545
+Solution: 1...Rd1 2.Qc3 Rd3 3.Qxd3 b1Q+ 4.Kc3 Qxd3+ 
+
+Puzzle: 546
+Solution: 1.Kh6 d5 2.Kh7 Kd7 3.h6 Ke7 4.g7 
+
+Puzzle: 547
+Solution: 1.c7+ Kxb7 2.Kd7 
+
+Puzzle: 548
+Solution: 1.Kxf4 Kc6 2.Kg5 a5 3.f6 
+
+Puzzle: 549
+Solution: 1...d2+ 2.Ke2 d1Q+ 3.Kxd1 Ra1+ 4.Ke2 Ra2+ 5.Kf3 Rxh2 
+
+Puzzle: 550
+Solution: 1.Kxh4 Ke4 2.h6 f3 3.Kg3 Ke3 4.h7 f2 5.h8Q f1Q 6.Qe5+ 
+
+Puzzle: 551
+Solution: 1.Kh7 Kf5 2.g6 Be5 3.h5 
+
+Puzzle: 552
+Solution: 1...Ke5 2.Kc6 Kf4 3.Kd6 Kxf3 4.Kd5 Kf4 
+
+Puzzle: 553
+Solution: 1.a4 Rc6 2.axb5 
+
+Puzzle: 554
+Solution: 1.Kf7 Kh6 2.Rg6+ Kh5 3.g4+ Kh4 4.Kxe8 
+
+Puzzle: 555
+Solution: 1...Rxa3 2.Rb5+ Rb3 3.Rg5 Rc3 
+
+Puzzle: 556
+Solution: 1.Nxa5+ Kb4 2.Nb7 
+
+Puzzle: 557
+Solution: 1.Ke4 Kb4 2.f5 
+
+Puzzle: 558
+Solution: 1...Kf5 2.h5 a5 3.g6 Kf6 4.Ke4 a4 
+
+Puzzle: 559
+Solution: 1...Kd4 2.b3 Ke4 
+
+Puzzle: 560
+Solution: 1...Kd5 2.Ke3 Ke5 
+
+Puzzle: 561
+Solution: 1...Kf4 2.Rg1 e3 3.Kd4 e2 
+
+Puzzle: 562
+Solution: 1.Re7 Nxf5+ 2.gxf5 
+
+Puzzle: 563
+Solution: 1...Kg4 2.Ke3 Kh3 3.g4 Kxh2 
+
+Puzzle: 564
+Solution: 1...Kg2 2.Rb7 Rxa3 
+
+Puzzle: 565
+Solution: 1.Kg4 Rh1 2.Rb5+ Kd6 3.Rh5 
+
+Puzzle: 566
+Solution: 1...h4 2.Rf1+ Bf4 3.Rf3 Kg4 
+
+Puzzle: 567
+Solution: 1...Kc4 2.b5 b6 
+
+Puzzle: 568
+Solution: 1...fxg4 2.Kd2 Kh4 
+
+Puzzle: 569
+Solution: 1...Qxg5+ 2.Kxg5 b5 3.h4 b4 4.h5 Ke6 5.h6 Kf7 6.h7 Kg7 7.h8Q+ Kxh8 8.Kf4 b3 9.Ke3 b2 
+
+Puzzle: 570
+Solution: 1...Kd2 2.Rg2+ Kd3 
+
+Puzzle: 571
+Solution: 1...Kxf4 2.h4 Kg3 3.Ke5 Kxg2 
+
+Puzzle: 572
+Solution: 1...Kg5 2.Re6 Rxc7+ 3.Kd6 Rc3 4.Ke5 Rc1 5.Kd4 Rd1+ 6.Kc3 Kf4 
+
+Puzzle: 573
+Solution: 1.Kd3 Kxb4 2.Ke4 Kc4 3.Kxe5 
+
+Puzzle: 574
+Solution: 1.b7 g4 2.Rb5 
+
+Puzzle: 575
+Solution: 1...Kd4 2.Nf2 Kc3 3.a5 Kd2 4.a6 Ke2 5.a7 Kxf2 6.a8Q h1Q 
+
+Puzzle: 576
+Solution: 1...Bg4 2.Ne3 Kd3 3.f5 Bxf5 
+
+Puzzle: 577
+Solution: 1...f3 2.Nb3 Ke3 3.Nd2 f5 4.Nf1+ Kf2 
+
+Puzzle: 578
+Solution: 1.f4 Kd3 2.g6 Rxh6 3.f5 
+
+Puzzle: 579
+Solution: 1...g5+ 2.Kf3 Kh2 3.Kg4 Kg2 4.Kf5 Kxg3 
+
+Puzzle: 580
+Solution: 1.Ra8 g6+ 2.Kf6 Rh2 3.Ra7+ 
+
+Puzzle: 581
+Solution: 1.Qg5+ Ke4 2.Qe5+ Kf3 3.Qf6+ Ke2 4.Qxf1+ Kxf1 5.Kf6 g5 6.Kxg5 
+
+Puzzle: 582
+Solution: 1...d3+ 2.Kxd3 g2 3.Rh4+ Kf5 
+
+Puzzle: 583
+Solution: 1.Rxa6 Kg2 2.Rg6+ 
+
+Puzzle: 584
+Solution: 1.Rg4+ Kf2 2.g7 Qc5+ 3.Kg6 
+
+Puzzle: 585
+Solution: 1...Rd3+ 2.Ke4 Re3+ 
+
+Puzzle: 586
+Solution: 1...Rg2+ 2.Kh5 h3 3.Re7+ Kf4 
+
+Puzzle: 587
+Solution: 1...axb5 2.cxb5 Kc5 3.Kf3 Kb4 4.Ke2 Kxa4 5.Kd1 Kxb5 
+
+Puzzle: 588
+Solution: 1.Kd5 c4 2.e6 Kb4 3.e7 
+
+Puzzle: 589
+Solution: 1.Kg4 Kd6 2.Kf5 
+
+Puzzle: 590
+Solution: 1...b3 2.Nxf5 b2 3.Nd6+ Kb4 
+
+Puzzle: 591
+Solution: 1.Kf2 Ra8 2.Rb3 
+
+Puzzle: 592
+Solution: 1.Rg1+ Kh3 2.Kf4 
+
+Puzzle: 593
+Solution: 1...Kh2 2.Ng4+ Kg3 3.Ra3+ Rf3 
+
+Puzzle: 594
+Solution: 1.Kxf4 Kc4 2.Ke3 Kc3 3.Rf1 b3 4.Rc1+ 
+
+Puzzle: 595
+Solution: 1.Rxa3 Re1 2.Kf5 
+
+Puzzle: 596
+Solution: 1.h4 Be8 2.g3 Kd5 3.Kxf5 
+
+Puzzle: 597
+Solution: 1...Kf6 2.h7 Kg7 3.f6+ Kxh7 4.f7 Kg7 5.f8R Kxf8 
+
+Puzzle: 598
+Solution: 1...Kf3 2.e4 h4 
+
+Puzzle: 599
+Solution: 1.Re5 Kf7 2.Rxg5 
+
+Puzzle: 600
+Solution: 1...f5+ 2.Kf4 gxh5 3.g6 h4 4.g7 Kf7 5.g8Q+ Kxg8 
+
+Puzzle: 601
+Solution: 1.Kf5 Rh1 2.g7+ Kxg7 3.d7 
+
+Puzzle: 602
+Solution: 1.Kf8 Rc2 2.Ra6+ 
+
+Puzzle: 603
+Solution: 1...g4 2.Be4 Kh2 
+
+Puzzle: 604
+Solution: 1.Ke2 Kc4 2.Rxe3 Ra8 3.Kf3 
+
+Puzzle: 605
+Solution: 1.Bxe6 Kxe6 2.Kc3 Kd5 3.Kd3 
+
+Puzzle: 606
+Solution: 1.Ra4 d3 2.Rc4+ Kb6 3.Rd4 
+
+Puzzle: 607
+Solution: 1...Kxf4 2.g5 Ke3 3.g6 d2 4.Kc2 Ke2 5.g7 d1Q+ 
+
+Puzzle: 608
+Solution: 1...f1Q 2.Qe7+ Kd5 3.Qg5+ Kc4 
+
+Puzzle: 609
+Solution: 1...Kb2 2.Rh8 c4 3.Rh2+ Kb1 
+
+Puzzle: 610
+Solution: 1...Nd7+ 2.Ke6 Nb6 3.Ke5 Kc5 4.Ke4 Kxc4 5.Nd1 Kb3 
+
+Puzzle: 611
+Solution: 1.Kc2 Rg2+ 2.Rd2 Rg4 3.Rd3+ Kg2 4.c6 Rc4+ 5.Rc3 
+
+Puzzle: 612
+Solution: 1.b7 Rb2 2.a6 Rb6 3.Kh7 
+
+Puzzle: 613
+Solution: 1.Kxf5 g5 2.Ke6 gxf4 3.gxf4 Kg6 4.f5+ Kg7 5.Ke7 h5 6.f6+ 
+
+Puzzle: 614
+Solution: 1.Kf4 g3 2.Kf3 Kg6 3.a4 
+
+Puzzle: 615
+Solution: 1...Kxc4 2.b5 c5 3.Ke3 Kb4 4.Kd3 c4+ 5.Kc2 Kxa4 6.b6 axb6 
+
+Puzzle: 616
+Solution: 1...Ng3+ 2.Ke1 Ne2 
+
+Puzzle: 617
+Solution: 1...Kxe3 2.c4 dxc4 3.d5 Kd2 
+
+Puzzle: 618
+Solution: 1...Kc1 2.g5 b2 3.Kxd3 b1Q+ 
+
+Puzzle: 619
+Solution: 1.Rxb5 Kf8 2.Kg6 
+
+Puzzle: 620
+Solution: 1...c3 2.Rc2 Kb4 3.Ke4 Kc4 4.Ra2 Kb3 
+
+Puzzle: 621
+Solution: 1...Qxh4+ 2.Ke8 Qe4+ 3.Kf8 Qf4+ 
+
+Puzzle: 622
+Solution: 1...c3 2.Kb3 e3 3.Bxe3 Kxe3 
+
+Puzzle: 623
+Solution: 1...h4 2.gxh4 g3 3.Ke3 Kg4 4.h5 Kh3 
+
+Puzzle: 624
+Solution: 1.a4 h4 2.Ke2 Kf5 3.a5 
+
+Puzzle: 625
+Solution: 1.Ka7 Rc5 2.a6 
+
+Puzzle: 626
+Solution: 1.Kxe5 h4 2.e7 Kd7 3.Kf6 Ke8 4.c5 h3 5.c6 h2 6.c7 
+
+Puzzle: 627
+Solution: 1.c7 h1Q 2.c8Q 
+
+Puzzle: 628
+Solution: 1.Kd4 a3 2.Kc3 a2 3.Kb2 Kc7 4.h6 Kd6 5.f7 Bxf7 6.h7 
+
+Puzzle: 629
+Solution: 1...Rxb3 2.Rd1 Kf6 3.Rd6+ Ke7 
+
+Puzzle: 630
+Solution: 1...h3 2.Kh6 Kg4 
+
+Puzzle: 631
+Solution: 1.bxa6+e.p. Kxa6 2.Kf5 Kb7 3.g4 Kc6 4.g5 Kd7 5.Kf6 
+
+Puzzle: 632
+Solution: 1.Re6+ Kg5 2.Rxg6+ Kxg6 3.Kc5 Kf5 4.Kb6 a5 5.Kxa5 
+
+Puzzle: 633
+Solution: 1.f3 f5+ 2.Kd4 Kf6 3.f4 
+
+Puzzle: 634
+Solution: 1.Kb6 Nd5+ 2.Kc5 Ke4 3.Kd6 
+
+Puzzle: 635
+Solution: 1...Re3 2.h5 Rxf3+ 3.Kxf3 Ke5 4.Ke2 a3 5.h6 Kf6 6.h7 Kg7 7.h8R Kxh8 8.Kd1 a2 
+
+Puzzle: 636
+Solution: 1.Kg4 Rg1+ 2.Kh5 a4 3.Kh6 
+
+Puzzle: 637
+Solution: 1...hxg4 2.h5 Kf6 
+
+Puzzle: 638
+Solution: 1...Rf1 2.Kh5 Rh1+ 3.Kg4 g2 
+
+Puzzle: 639
+Solution: 1.Ke4 Kb4 2.f4 c5 3.f5 Kb3 4.f6 
+
+Puzzle: 640
+Solution: 1.b7 Re6+ 2.Kc5 Kf7 3.b8Q 
+
+Puzzle: 641
+Solution: 1.Rh7 Rg2+ 2.Kf6 a3 3.g7 a2 4.Rh1 Kc7 5.Kf7 a1R 6.Rxa1 
+
+Puzzle: 642
+Solution: 1.f4 Rc7 2.f5 Kf3 3.f6 
+
+Puzzle: 643
+Solution: 1...Ke6 2.Nxf5 Rh5 3.Kb4 Rxf5 4.Rg8 Rf3 
+
+Puzzle: 644
+Solution: 1.f7+ Kf8 2.g7+ Kxf7 3.Kh7 
+
+Puzzle: 645
+Solution: 1...Bh7 2.Ne6 a5 
+
+Puzzle: 646
+Solution: 1.Ka7 Kd7 2.b5 f5 3.b6 
+
+Puzzle: 647
+Solution: 1...Kxe6 2.Kc4 g4 3.b6 Kd7 4.b7 Kc7 5.b8R Kxb8 
+
+Puzzle: 648
+Solution: 1...Kc3 2.Ke1 e2 3.Ne5 d2+ 4.Kxe2 Kc2 
+
+Puzzle: 649
+Solution: 1...g4 2.Nf1 Kh4 3.Ke5 g3 4.Kf4 g2 5.Nh2 Kh5 6.Nf3 h2 7.Nxh2 g1Q 
+
+Puzzle: 650
+Solution: 1.Kxe5 c4 2.f6 c3 3.f7 Kb2 4.f8Q c2 5.Qf2 b5 6.Kd4 b4 7.Kc4 
+
+Puzzle: 651
+Solution: 1.Rxc6 Kxc6 2.Kf4 c3 3.Ke3 c2 4.Kd2 c1R 5.Kxc1 
+
+Puzzle: 652
+Solution: 1...Ra1 2.Ra5 a2 3.b4 Rd1+ 
+
+Puzzle: 653
+Solution: 1.Kg6 Bd2 2.Kf5 Be1 3.Kxf6 
+
+Puzzle: 654
+Solution: 1.Kb6 Rd2 2.Bf5 
+
+Puzzle: 655
+Solution: 1...exf5 2.Kf4 Kc4 3.Ke5 b4 4.d5 b3 5.d6 b2 6.d7 b1Q 7.d8Q Qe4+ 
+
+Puzzle: 656
+Solution: 1...Qd7+ 2.Kb8 Qxc8+ 3.Kxc8 Kd6 4.a5 Kc6 5.a6 Kb6 
+
+Puzzle: 657
+Solution: 1.Rh4 Ra1 2.Rxh2 
+
+Puzzle: 658
+Solution: 1...f2 2.h7 Re8 3.h8R Rxh8 
+
+Puzzle: 659
+Solution: 1.f7+ Kf8 2.e7+ Kxf7 3.Kd7 
+
+Puzzle: 660
+Solution: 1.Ke3 g5 2.c6 Nc4+ 3.Kd4 
+
+Puzzle: 661
+Solution: 1...Kf4 2.Bc2 e4 3.Kd4 e3 
+
+Puzzle: 662
+Solution: 1...f3 2.Nb3 f2 3.Nd2 g3 4.b6 g2 5.b7 f1Q 
+
+Puzzle: 663
+Solution: 1...Be7 2.Kg6 Bxf6 3.Kxf6 b5 4.Ke5 b4 
+
+Puzzle: 664
+Solution: 1...Kxe5 2.Kc5 Kf4 3.Kd6 Kg3 4.Ke5 Kxg2 
+
+Puzzle: 665
+Solution: 1...Kg2 2.f5 h3 3.Ng4 Kg3 4.f6 Bd5 5.Nf2 h2 
+
+Puzzle: 666
+Solution: 1.Kd6 Kf6 2.c6 bxc6 3.b6 Ne5 4.b7 
+
+Puzzle: 667
+Solution: 1...Kxa3 2.h5 Kb3 3.g4 Kc4 
+
+Puzzle: 668
+Solution: 1...c2 2.Kd3 Kb2 
+
+Puzzle: 669
+Solution: 1...a2 2.Bd4 Kc2 3.Ke3 b5 
+
+Puzzle: 670
+Solution: 1.Rb8 Kh6 2.Ke5 
+
+Puzzle: 671
+Solution: 1.Kf6 Bh3 2.d5 
+
+Puzzle: 672
+Solution: 1.Ke5 e3 2.Kd6 e2 3.Kc7 Kxa6 4.b8Q 
+
+Puzzle: 673
+Solution: 1.Kh4 Kh7 2.Kh5 Kg7 3.g6 e5 4.fxe5 f4 5.e6 Kf6 6.Kh6 
+
+Puzzle: 674
+Solution: 1.b4 h4 2.Ke2 h3 3.Kf2 h2 4.Kg2 Kf4 5.a5 
+
+Puzzle: 675
+Solution: 1...g5 2.Kf2 Kd2 
+
+Puzzle: 676
+Solution: 1.f6 g5 2.Kf5 g4 3.Ke6 
+
+Puzzle: 677
+Solution: 1.Rc8+ Kd4 2.Rd8 Ra1 3.Rxd5+ 
+
+Puzzle: 678
+Solution: 1...Kb2 2.a6 Be3 3.Kxe3 c2 
+
+Puzzle: 679
+Solution: 1.gxf4 h4 2.Kg4 Kg6 3.f5+ 
+
+Puzzle: 680
+Solution: 1.Kg4 h3 2.Kxh3 Kf5 3.Kh4 Kg6 4.Kg4 
+
+Puzzle: 681
+Solution: 1.a6 Nd6 2.Kb8 Kxb6 3.a7 Kc5 4.a8Q 
+
+Puzzle: 682
+Solution: 1...d3 2.Nd5 Kxg3 
+
+Puzzle: 683
+Solution: 1...Qa4+ 2.Kb7 Qb4+ 3.Kc6 e1Q 4.Qh5+ Kf4 
+
+Puzzle: 684
+Solution: 1...Rg5+ 2.Kb4 Ke2 3.Rb3 Kf2 4.Kc4 Rxg3 
+
+Puzzle: 685
+Solution: 1...Kg4 2.Ke4 h4 3.Ke3 h3 4.Kf2 Kxf4 
+
+Puzzle: 686
+Solution: 1.Kg6 Ra6 2.Bh6 
+
+Puzzle: 687
+Solution: 1.a4+ Kc5 2.Kc7 Kd5 3.Kb6 c5 4.Kxa5 Kc6 5.Ka6 c4 6.bxc4 
+
+Puzzle: 688
+Solution: 1.h5 c4 2.h6 c3 3.h7 c2 4.Kd2 c1Q+ 5.Kxc1 
+
+Puzzle: 689
+Solution: 1...Rxh5 2.f7 h2 3.f8Q h1Q 
+
+Puzzle: 690
+Solution: 1.c7+ Kc8 2.Nf5 Rc1 3.Ne7+ 
+
+Puzzle: 691
+Solution: 1...Ka2 2.Qe3 c1Q+ 3.Qxc1 Rxc1+ 
+
+Puzzle: 692
+Solution: 1.Ke5 Kh4 2.b4 g5 3.b5 g4 4.b6 g3 5.b7 
+
+Puzzle: 693
+Solution: 1...h4 2.Ke6 Ke4 3.Kd6 a5 4.a4 Kd4 
+
+Puzzle: 694
+Solution: 1...Kb4 2.Kb2 a5 3.Kc2 a4 4.bxa4 Kxc4 5.a5 Kb5 6.Kb3 Kxa5 
+
+Puzzle: 695
+Solution: 1...h4 2.Nd3 h3 3.Nxe5 Kf4 
+
+Puzzle: 696
+Solution: 1...Kc3 2.Kb1 Kd4 
+
+Puzzle: 697
+Solution: 1.Rd7+ Kg6 2.Rg7+ Kh6 3.Rg8 Rf1 4.Ke6 
+
+Puzzle: 698
+Solution: 1.Kf3 g4+ 2.Kxg4 
+
+Puzzle: 699
+Solution: 1.Kxe2 Kg6 2.Kf2 Kf5 3.Kg3 g6 4.Kh4 
+
+Puzzle: 700
+Solution: 1.c7 Rd1+ 2.Ke4 
+
+Puzzle: 701
+Solution: 1.fxg6 hxg6 2.Kd5 Ke7 3.Ke5 
+
+Puzzle: 702
+Solution: 1.Rd8+ Kc7 2.Kxe5 Kxd8 3.Kf6 Ke8 4.Kg7 e5 5.h5 e4 6.h6 Kd7 7.h7 
+
+Puzzle: 703
+Solution: 1.Kxb4 Ke5 2.c5 Kd5 3.Kb5 e5 4.c6 
+
+Puzzle: 704
+Solution: 1...Kd3 2.g5 e4+ 3.Kg2 e3 4.g6 e2 5.g7 e1Q 6.g8Q Qe4+ 
+
+Puzzle: 705
+Solution: 1.g7 Rf2+ 2.Kg6 Rg2+ 3.Rg5 Rxg5+ 4.Kxg5 
+
+Puzzle: 706
+Solution: 1.Rxh8 f1Q 2.Re8+ 
+
+Puzzle: 707
+Solution: 1...h4 2.f4 Kf2 3.Kd2 Kxg2 
+
+Puzzle: 708
+Solution: 1...Kxg2 2.a5 Kf2 3.Kd2 Rb3 
+
+Puzzle: 709
+Solution: 1.Rg7+ Kh5 2.Rxg4 Kxg4 3.b5 h3 4.Kf2 h2 5.Kg2 
+
+Puzzle: 710
+Solution: 1.Kxh6 Kc3 2.Kg5 a5 3.Kf4 
+
+Puzzle: 711
+Solution: 1...b5 2.Kf2 a3 3.Rc8 Bxf7 
+
+Puzzle: 712
+Solution: 1...d2 2.Rf8+ Ke2 3.Rd8 b2 4.Kc3 b1Q 
+
+Puzzle: 713
+Solution: 1.Kh5 Kb7 2.Kxg4 Kc7 3.Kh5 Kd6 4.Kxh6 
+
+Puzzle: 714
+Solution: 1.g4 c4 2.Ke3 
+
+Puzzle: 715
+Solution: 1...Kh3 2.Ke4 g3 
+
+Puzzle: 716
+Solution: 1.Rxc7 f3 2.Kxf3 g1N+ 3.Kf2 Nh3+ 4.Kg3 
+
+Puzzle: 717
+Solution: 1.Kg7 Ne7 2.d6 Nf5+ 3.Kg6 
+
+Puzzle: 718
+Solution: 1...Rg1+ 2.Kf3 Rxg7 3.Nd3+ Kd4 4.Nxb4 Rc7 5.Ke2 Rc4 
+
+Puzzle: 719
+Solution: 1...Kc3 2.Ke4 b3 
+
+Puzzle: 720
+Solution: 1...g3 2.Nf7 g2 3.Ng5+ Kg3 4.Nxe4+ Kh2 5.Ng5 g1Q+ 
+
+Puzzle: 721
+Solution: 1...Ke3 2.Kd1 f3 3.Ke1 f2+ 4.Kf1 Kd2 
+
+Puzzle: 722
+Solution: 1.a6 Rh3 2.Ra4+ 
+
+Puzzle: 723
+Solution: 1...b1Q 2.Rh8+ Kf7 3.g8Q+ Rxg8 
+
+Puzzle: 724
+Solution: 1.Ke4 f3 2.Ke3 f2 3.Kxf2 
+
+Puzzle: 725
+Solution: 1...Kd5 2.f5 g5 3.Kf3 Kd4 
+
+Puzzle: 726
+Solution: 1...Kxd5 2.Kg5 b4 3.h5 Ke6 4.h6 Kf7 5.h7 Kg7 6.h8Q+ Kxh8 
+
+Puzzle: 727
+Solution: 1.Kg5 Re4 2.Kf6 
+
+Puzzle: 728
+Solution: 1.g6 Kc3 2.g7 Kd4 3.Kg6 Ke5 4.h5 Ra8 5.h6 
+
+Puzzle: 729
+Solution: 1.h8Q Kb3 2.Qh7 Ka2 3.Qc2 
+
+Puzzle: 730
+Solution: 1.b6 Kd6 2.Kb5 Rg8 3.c5+ Kd5 4.b7 
+
+Puzzle: 731
+Solution: 1...Nf4 2.h5 Nxh5 
+
+Puzzle: 732
+Solution: 1.Ra8+ Ke7 2.h6 
+
+Puzzle: 733
+Solution: 1.Kb6 a4 2.c7 Ba5+ 3.Kxa5 Kxc7 4.Kxa4 
+
+Puzzle: 734
+Solution: 1.e7 Ke4 2.h5 Kxf4 3.h6 Ra8 4.h7 
+
+Puzzle: 735
+Solution: 1.a5 Ke6 2.Kg5 e4 3.Kf4 
+
+Puzzle: 736
+Solution: 1...gxh4 2.Be1 h3 3.Bg3 Ke6 4.Kc2 Kf5 5.Kd3 Kg4 6.Bh2 Kf3 7.Bxg1 Kg2 8.Bc5 h2 
+
+Puzzle: 737
+Solution: 1...d3+ 2.Ke1 d2+ 3.Kxd2 Nc4+ 4.Kc3 Nxb6 5.a5 Nd7 6.Kc4 Ke5 7.a6 Kd6 8.Kb5 Kc7 9.a7 Kb7 10.a8R Kxa8 
+
+Puzzle: 738
+Solution: 1...Ke3 2.h4 Rc1+ 3.Kg2 f3+ 4.Kg3 Rg1+ 
+
+Puzzle: 739
+Solution: 1.a5 f4 2.Kd1 f3 3.Ke1 f2+ 4.Kf1 
+
+Puzzle: 740
+Solution: 1...Kf5 2.g6 hxg6 3.h6 Kf6 4.Kf3 g5 5.Ke4 Kg6 
+
+Puzzle: 741
+Solution: 1...Kf4 2.Be7 h3 3.Bd6+ Ke3 4.Bg3 Ke2 
+
+Puzzle: 742
+Solution: 1...Kd4 2.Rb7 Ke5 
+
+Puzzle: 743
+Solution: 1.f6 Bb3 2.a4 
+
+Puzzle: 744
+Solution: 1...Rc6 2.b7 Rb6 
+
+Puzzle: 745
+Solution: 1...Ke5 2.Ne3 Kd4 
+
+Puzzle: 746
+Solution: 1.Kxb7 Ke4 2.Re2+ 
+
+Puzzle: 747
+Solution: 1...Kxe6 2.Kf1 Kd5 
+
+Puzzle: 748
+Solution: 1...c2 2.Kd2 Kb3 
+
+Puzzle: 749
+Solution: 1...Kh2 2.Ra2+ Kh1 3.Ra4 g3 4.Rxf4 g2+ 5.Ke2 h3 
+
+Puzzle: 750
+Solution: 1.Kxe3 h5 2.Ke4 
+
+Puzzle: 751
+Solution: 1...Kxh1 2.Kd5 Kg2 3.c5 Kf3 4.Ke5 Be4 5.c6 Bxc6 6.f5 g5 
+
+Puzzle: 752
+Solution: 1.Kxf5 Bc7 2.h6 
+
+Puzzle: 753
+Solution: 1.Kb3 Bd8 2.Kc4 Ka6 3.Kd5 
+
+Puzzle: 754
+Solution: 1.fxe4 f4 2.Kd3 Kb6 3.Ke2 Kc7 4.Kf3 
+
+Puzzle: 755
+Solution: 1...Rc1+ 2.Ke2 h3 3.Ke3 Re1+ 
+
+Puzzle: 756
+Solution: 1.Kb7 Ne5 2.a6 Nc6 3.a7 Nxa7 4.Kxa7 
+
+Puzzle: 757
+Solution: 1...Rg3+ 2.Kh2 Rg7 
+
+Puzzle: 758
+Solution: 1...Kxd4 2.Kf3 Kd3 
+
+Puzzle: 759
+Solution: 1...Kc2 2.Rc5+ Kd2 
+
+Puzzle: 760
+Solution: 1...Kf5 2.Nd5 h5 3.Kd6 h4 
+
+Puzzle: 761
+Solution: 1.Kc3 Kf6 2.Kb4 Ke5 3.Kxb5 d5 4.f6 Kxf6 5.exd5 Ke7 6.Kc6 Kd8 7.Kd6 
+
+Puzzle: 762
+Solution: 1...f3 2.h5 f2 3.Rf1 e2 4.Rxf2 e1Q 
+
+Puzzle: 763
+Solution: 1...Kd4 2.Ka2 Ke4 3.Kxa3 Kxf4 4.Kb3 Kg4 5.Kc3 Kh3 
+
+Puzzle: 764
+Solution: 1...Kg3 2.b8Q Rxb8 3.Rg7+ Kf3 
+
+Puzzle: 765
+Solution: 1...d4+ 2.Kf2 e3+ 3.Kf3 Kd5 4.h4 Kc4 
+
+Puzzle: 766
+Solution: 1...g5 2.e6 Kd6 3.e7 Kxe7 4.Ke5 g4 5.Kf4 Kf6 6.e4 fxe4 7.Kxe4 Kg5 8.Ke3 Kh4 9.Kf2 Kh3 10.Kg1 Kg3 
+
+Puzzle: 767
+Solution: 1.Re8 Nxe5 2.Rc8+ 
+
+Puzzle: 768
+Solution: 1...Ke4 2.Ba7 Kxd3 
+
+Puzzle: 769
+Solution: 1...Kg5 2.Bd1 Kh4 3.Kb5 Kg3 
+
+Puzzle: 770
+Solution: 1...d5 2.Kd3 g4 
+
+Puzzle: 771
+Solution: 1...Rxa4 2.Rb5 Rc4+ 3.Kb6 Rc3 
+
+Puzzle: 772
+Solution: 1...d5 2.Kf3 Kd4 
+
+Puzzle: 773
+Solution: 1...Re8 2.g5 Kf5 3.g6 Rh8# 
+
+Puzzle: 774
+Solution: 1...Kf3 2.e4 h4 
+
+Puzzle: 775
+Solution: 1...Kxf3 2.Nd3 Bc3 3.Nf2 g3 4.Nh3 g2+ 
+
+Puzzle: 776
+Solution: 1.Kxd2 h1Q 2.a8Q Qh2+ 3.Kc3 
+
+Puzzle: 777
+Solution: 1...Ke3 2.g5 Kxe2 3.g6 Bc3 
+
+Puzzle: 778
+Solution: 1...a4 2.Nxh6 a3 3.Nf5 Kc4 4.g5 a2 
+
+Puzzle: 779
+Solution: 1...Kxe7 2.Kc4 Kd6 3.Kb5 c5 4.Kc4 Kc6 
+
+Puzzle: 780
+Solution: 1.g5 f6 2.gxf6 g5 3.b4 g4 4.Kd4 Ke6 5.b5 g3 6.Ke3 g2 7.Kf2 g1Q+ 8.Kxg1 Kxf6 9.b6 Ke5 10.b7 
+
+Puzzle: 781
+Solution: 1.Rxh1 Rb6 2.Rh7 Rb3 3.Re7 
+
+Puzzle: 782
+Solution: 1.Re5+ Kd3 2.Rd5 Rxd5+ 3.Kxd5 
+
+Puzzle: 783
+Solution: 1...d3 2.Nd5+ Kd4 3.Nxf6 d2 4.Kf4 d1Q 
+
+Puzzle: 784
+Solution: 1.Rb3+ Kd4 2.Kxf3 
+
+Puzzle: 785
+Solution: 1...f2 2.Rf8 Kg2 3.Kd3 Rxb4 
+
+Puzzle: 786
+Solution: 1...e4+ 2.Ke2 hxg4 3.h5 Ke5 4.Ke3 g3 5.h6 Kf6 6.h7 Kg7 7.h8Q+ Kxh8 
+
+Puzzle: 787
+Solution: 1...Ke4 2.f5 Ke5 
+
+Puzzle: 788
+Solution: 1.Be6 Nb5 2.h5 Nd4 3.h6 Nxe6 4.h7 Nf4+ 5.Kh6 
+
+Puzzle: 789
+Solution: 1.h4 g3 2.Ke2 Kxc4 3.h5 Kd5 4.h6 
+
+Puzzle: 790
+Solution: 1...Ra1+ 2.Kb4 Rxa8 3.Kc3 Rd8 
+
+Puzzle: 791
+Solution: 1...Ke4 2.Rh4+ Kf3 
+
+Puzzle: 792
+Solution: 1.h6 Nf7 2.h7 Ke7 3.Kg7 Nxg5 4.h8Q 
+
+Puzzle: 793
+Solution: 1...Ne2+ 2.Kd1 Kb2 
+
+Puzzle: 794
+Solution: 1.Rxc4 g3 2.Kd2 Kf3 3.Ke1 g2 4.Rc3+ Kf4 5.Kf2 g1Q+ 6.Kxg1 
+
+Puzzle: 795
+Solution: 1.b5 Kh7 2.b6 Ng4 3.b7 
+
+Puzzle: 796
+Solution: 1...Kc4 2.Kg7 b3 3.f5 b2 4.f6 b1Q 5.f7 Qb7 6.Kg8 Qd5 
+
+Puzzle: 797
+Solution: 1.Rg4+ Kd3 2.h7 Rh6+ 3.Rh4 Rxh7 4.Rxh7 
+
+Puzzle: 798
+Solution: 1.Kg6 Ke6 2.g4 e4 3.fxe4 Ke7 4.Kg7 
+
+Puzzle: 799
+Solution: 1...Rf3 2.Rg5+ Kh3 
+
+Puzzle: 800
+Solution: 1.Rh1 Ra2 2.Rxh2 Rxh2 3.a8Q 
+
+Puzzle: 801
+Solution: 1.h7 Ra8 2.Ke4 
+
+Puzzle: 802
+Solution: 1.Qxe6 fxe6 2.Kh5 Kg7 3.Kg5 
+
+Puzzle: 803
+Solution: 1.Nxc6 Kb2 2.Na5 a3 3.Nc4+ Kb3 4.Nxa3 
+
+Puzzle: 804
+Solution: 1...Kc4 2.Kd2 Kb3 3.Kd3 Kxa3 4.Kc4 Ka4 5.Kxd4 Kxb4 6.Kd3 Kb3 7.Kd2 Kb2 
+
+Puzzle: 805
+Solution: 1.g6 e5+ 2.Kg5 Ke7 3.Kh6 
+
+Puzzle: 806
+Solution: 1...Kc2 2.Ra8 Rh1+ 3.Ka2 Rxh7 
+
+Puzzle: 807
+Solution: 1.Kb5 h5 2.h4 Kd7 3.Kb6 d5 4.Kc5 Ke6 5.b5 Kd7 6.Kxd5 
+
+Puzzle: 808
+Solution: 1...f5 2.g4 Kf3 3.gxf5 gxf5 4.Kg5 Ke4 
+
+Puzzle: 809
+Solution: 1...Kb4 2.Ra7 Rxh4+ 
+
+Puzzle: 810
+Solution: 1...Kg2 2.Rf2+ Kg3 
+
+Puzzle: 811
+Solution: 1...Kd6 2.Nd3 Kd5 
+
+Puzzle: 812
+Solution: 1...Qa4+ 2.Kb1 Qe4+ 3.Kc1 Qxh1+ 
+
+Puzzle: 813
+Solution: 1.Qd5+ Kg1 2.Qg5 Rf1 3.Qxg3+ 
+
+Puzzle: 814
+Solution: 1...g3 2.Kg1 g2 
+
+Puzzle: 815
+Solution: 1.Kc6 Ke7 2.Kc7 Bg4 3.Be4 Be2 4.b6 
+
+Puzzle: 816
+Solution: 1...g4 2.a4 h3 3.Bf1 Kg3 
+
+Puzzle: 817
+Solution: 1...Rd3+ 2.Kh2 Rc3 3.Rb6+ Kc4 
+
+Puzzle: 818
+Solution: 1.Kxd3 Kxe5 2.a6 g3 3.Ke3 Kd5 4.a7 
+
+Puzzle: 819
+Solution: 1.Nxd4 Kd5 2.Nf3 
+
+Puzzle: 820
+Solution: 1.Kf4 Ke6 2.Kg5 Ke5 3.h5 Ke4 4.h6 f4 5.h7 
+
+Puzzle: 821
+Solution: 1.Kd6 Qh6+ 2.Kd5 
+
+Puzzle: 822
+Solution: 1.f6 h5 2.Kg7 Bc4 3.Kg6 Kd3 4.Kxh5 
+
+Puzzle: 823
+Solution: 1.Ke5 f4 2.gxf4 gxf4 3.Kxf4 Kb3 4.Kg5 Kc3 5.Kh6 Kd4 6.Kxh7 Ke5 7.Kg6 Ke6 8.h4 Ke7 9.Kg7 
+
+Puzzle: 824
+Solution: 1...Kxa4 2.Kd2 Kb3 3.Kc1 Kc3 
+
+Puzzle: 825
+Solution: 1.Re8 Ra6+ 2.Kg5 
+
+Puzzle: 826
+Solution: 1.Kc5 Nd7+ 2.Kd6 
+
+Puzzle: 827
+Solution: 1...Kc4 2.Kf3 Kd3 3.Rd1+ Bd2 
+
+Puzzle: 828
+Solution: 1...f5 2.Nf1+ Ke2 
+
+Puzzle: 829
+Solution: 1.Rb8+ Kc4 2.hxg6 Rg1 3.Rb6 
+
+Puzzle: 830
+Solution: 1.a5 Be2 2.b6 Bg4 3.Kf4 
+
+Puzzle: 831
+Solution: 1...h3 2.Qe6+ Kh4 
+
+Puzzle: 832
+Solution: 1...Kf2 2.Kxd2 Kg2 3.h5 f2 4.Re3 f1Q 
+
+Puzzle: 833
+Solution: 1...Rh8 2.Rh7+ Rxh7 3.e8Q h1Q 4.Qe6+ Kh2 
+
+Puzzle: 834
+Solution: 1...Kb4 2.a5 Kb3 
+
+Puzzle: 835
+Solution: 1.Ke6 Re3+ 2.Kd7 
+
+Puzzle: 836
+Solution: 1...Kc4 2.a4 a5 3.Ke2 Kxc3 
+
+Puzzle: 837
+Solution: 1...Rc2+ 2.Kb3 Rc1 3.Ra8 d2 
+
+Puzzle: 838
+Solution: 1...Kxe5 2.Kh4 Kf4 3.Kh3 Kf3 
+
+Puzzle: 839
+Solution: 1...e4 2.Ne5 Kh7 3.Nc4 e3 4.Nxe3 b2 
+
+Puzzle: 840
+Solution: 1...gxh4 2.Nc6+ Kf4 
+
+Puzzle: 841
+Solution: 1...axb4 2.a5 Kc6 3.a6 Kb6 4.d5 Kxa6 
+
+Puzzle: 842
+Solution: 1...d1Q 2.Rxd1 Rxd1 3.b4 Rc1+ 
+
+Puzzle: 843
+Solution: 1...Kf6 2.Kg3 Ke5 3.Kf2 Kf4 4.Ke2 Kg5 
+
+Puzzle: 844
+Solution: 1.Rxg4 Kd6 2.Rc4 
+
+Puzzle: 845
+Solution: 1...Kxb3 2.Be4 Ka3 
+
+Puzzle: 846
+Solution: 1.c7 Ra8 2.c8Q Rxc8 3.Rxc8 Kf5 4.Kd5 Kf4 5.Kxd4 
+
+Puzzle: 847
+Solution: 1...Ra4 2.h6 Rh4+ 3.Kg3 Rxh6 
+
+Puzzle: 848
+Solution: 1.Qd3+ Qxd3+ 2.Kxd3 g3 3.Ke2 Kg6 4.a4 Kf5 5.a5 Kg4 6.Kf1 Kh3 7.Kg1 
+
+Puzzle: 849
+Solution: 1.h6 Rg3+ 2.Kf6 
+
+Puzzle: 850
+Solution: 1...g3 2.Kb5 h3 3.Be6 g2 4.Bxh3 g1Q 
+
+Puzzle: 851
+Solution: 1.Kb7 Kxf4 2.a6 g5 3.a7 
+
+Puzzle: 852
+Solution: 1...Nc5 2.Nc1 Kb2 3.Ne2 Na4 4.Kd4 Nc3 5.Nxc3 c1Q 
+
+Puzzle: 853
+Solution: 1.a5 c4 2.Rxb3+ Kxb3 3.Kc1 Kb4 4.a6 Kc3 5.a7 
+
+Puzzle: 854
+Solution: 1.Kb6 h3 2.Kxb5 h2 3.a7 h1Q 4.a8Q Qf1+ 5.Kb4 Qe1+ 6.Kb3 
+
+Puzzle: 855
+Solution: 1...Kxf6 2.Ke2 Ke6 3.Kd2 Kd6 
+
+Puzzle: 856
+Solution: 1.Rf7+ Kg5 2.Ke7 
+
+Puzzle: 857
+Solution: 1...Kc4 2.Nxc5 Kxc5 3.Rb8 Kc4 4.Rc8+ Kd3 
+
+Puzzle: 858
+Solution: 1...a3 2.b3 c4 3.bxc4 Kxc4 
+
+Puzzle: 859
+Solution: 1.Kf5 Ke7 2.Ke5 
+
+Puzzle: 860
+Solution: 1.Qc7+ Ke6 2.Qf7+ Kd6 3.Qf4 Kc5 4.Qxe5 
+
+Puzzle: 861
+Solution: 1...Kd4 2.Ke2 Ke4 3.Kf2 Kf4 
+
+Puzzle: 862
+Solution: 1.e8Q Rxe8 2.Rxe8 b1R 3.Ra8+ Kb5 4.Rb8+ Kc6 5.Rxb1 
+
+Puzzle: 863
+Solution: 1.fxe7 Kxe7 2.Kf5 Kd6 3.Kf6 
+
+Puzzle: 864
+Solution: 1...Kf4 2.Kc4 Kxf3 3.Kd5 e4 4.Ke5 Kg2 5.Kxe4 Kxh3 6.Kf3 Kh2 7.Kg4 h3 8.f4 Kg2 9.f5 h2 10.f6 h1Q 
+
+Puzzle: 865
+Solution: 1...Kd3 2.Rd6+ Ke2 
+
+Puzzle: 866
+Solution: 1...Ke5 2.Ke3 c5 
+
+Puzzle: 867
+Solution: 1...Ke3 2.g4 f4 3.Bf1 Kf2 4.g5 Kxf1 5.g6 e3 6.g7 e2 7.g8Q e1Q 
+
+Puzzle: 868
+Solution: 1...e2 2.Qd8+ Qc7 3.Qd2 Qe5 
+
+Puzzle: 869
+Solution: 1.a5 Ke7 2.a6 Be3 3.Kc7 
+
+Puzzle: 870
+Solution: 1...Kb3 2.Rg3 Kb2 3.Rxc3 Kxc3 
+
+Puzzle: 871
+Solution: 1...Kxa3 2.b5 Ka4 
+
+Puzzle: 872
+Solution: 1...Kf2 2.Rh8 Rd5+ 
+
+Puzzle: 873
+Solution: 1...Rb6 2.g7 Rg6+ 3.Kf2 Rxg7 
+
+Puzzle: 874
+Solution: 1.Ng4+ Kf4 2.Kxd6 
+
+Puzzle: 875
+Solution: 1...f2 2.Nd1 Kf3 3.Nxf2 Kxf2 
+
+Puzzle: 876
+Solution: 1.Re4+ Kd6 2.Rh4 
+
+Puzzle: 877
+Solution: 1...Kd5 2.Bc3 a5 
+
+Puzzle: 878
+Solution: 1.Kxe3 Kf5 2.Kf2 Kg4 3.Ke2 
+
+Puzzle: 879
+Solution: 1.Be2 Ke5 2.Bf3 Kd6 3.Bxa8 
+
+Puzzle: 880
+Solution: 1...Be2 2.Bxe2 b3 3.f4 b2 
+
+Puzzle: 881
+Solution: 1.Rxf5+ Ke3 2.g4 Rc1 3.Kxh4 
+
+Puzzle: 882
+Solution: 1...Kh2 2.gxh4 gxh4 3.Kg4 h3 4.f4 Kg2 5.f5 h2 6.f6 h1Q 
+
+Puzzle: 883
+Solution: 1.Kh6 Ke6 2.Kg7 Ke7 3.h5 
+
+Puzzle: 884
+Solution: 1.gxh4 f4+ 2.Kxf4 Kd4 3.Kf3 c3 4.Ke2 
+
+Puzzle: 885
+Solution: 1...Kc6 2.Kg6 Kd5 3.Kf5 Kd4 4.Bf4 c3 
+
+Puzzle: 886
+Solution: 1...Kxf6 2.Kd4 Kg5 3.Ke5 a6 
+
+Puzzle: 887
+Solution: 1.Rb4+ Ke3 2.Rb3+ 
+
+Puzzle: 888
+Solution: 1.Kc5 b4 2.b3 
+
+Puzzle: 889
+Solution: 1.a7 Rxa7 2.Kxa7 g4 3.Kb6 f5 4.Kc5 Kg5 5.Kd4 Kf4 6.Kd3 g3 7.Ke2 g2 8.Kf2 g1Q+ 9.Kxg1 
+
+Puzzle: 890
+Solution: 1.Rxb3 Kxb3 2.c5 a4 3.Kc1 a3 4.Kb1 e5 5.c6 a2+ 6.Ka1 
+
+Puzzle: 891
+Solution: 1.Kg6 Kf8 2.f6 gxf6 3.Kxf6 h5 4.Kg5 h4 5.Kxh4 
+
+Puzzle: 892
+Solution: 1...Kxd6 2.h6 Ke7 3.Ke5 Kf8+ 
+
+Puzzle: 893
+Solution: 1...e2 2.Qd3+ Kc5 
+
+Puzzle: 894
+Solution: 1...e2 2.Re5 Rb4+ 3.Kg5 Rb5 4.Rxb5 e1Q 
+
+Puzzle: 895
+Solution: 1...h5 2.Bb3 g4 
+
+Puzzle: 896
+Solution: 1...Kg5 2.Ke3 Kxg4 3.Kf2 Kh3 
+
+Puzzle: 897
+Solution: 1.Kxe3 Kd5 2.g6 Ke6 3.Ke4 
+
+Puzzle: 898
+Solution: 1...Ke4 2.b4 axb4 3.a5 Kd5 4.Kd3 b3 5.a6 Kc6 6.a7 Kb7 7.a8R Kxa8 
+
+Puzzle: 899
+Solution: 1.Bg3+ Ke6 2.Bxb8 Kd7 3.Be5 Kc6 4.Bd4 
+
+Puzzle: 900
+Solution: 1.Kg7 Ra7 2.Rxa3 Rxf7+ 3.Kxf7 
+
+Puzzle: 901
+Solution: 1...a4 2.Nf2 e4 3.Nd1 a3 
+
+Puzzle: 902
+Solution: 1...Nd4 2.Ng6+ Ke4 
+
+Puzzle: 903
+Solution: 1.Rxc7 g4 2.Kc6 Kf5 3.Kd5 Kf4 4.Kd4 g3 5.Rf7+ 
+
+Puzzle: 904
+Solution: 1...Kc6 2.Kh3 Kc7 
+
+Puzzle: 905
+Solution: 1...Kf4 2.Kd5 g3 3.c6 g2 4.c7 g1Q 
+
+Puzzle: 906
+Solution: 1...Rd2+ 2.Kf1 Kg3 
+
+Puzzle: 907
+Solution: 1...h4 2.Ke2 a5 3.a4 Kd4 
+
+Puzzle: 908
+Solution: 1...Be3 2.Nb1 Kf3 3.Nc3 g3 
+
+Puzzle: 909
+Solution: 1.c8Q Rxc8 2.Rxc8 Kf2 3.Rc1 e2 4.Kd2 
+
+Puzzle: 910
+Solution: 1...Kb3 2.Nc1+ Kc2 
+
+Puzzle: 911
+Solution: 1...h5 2.Ke3 Kh3 
+
+Puzzle: 912
+Solution: 1.gxh7 h4 2.Kxh4 Kxh7 3.Kh5 Kg7 4.Kg5 
+
+Puzzle: 913
+Solution: 1.Kb3 c4+ 2.Kxc4 Kb2 3.Kxb4 a2 4.Rd2+ 
+
+Puzzle: 914
+Solution: 1.Ka6 Bd1 2.b6 Bxa4 3.b7 Kc7 4.Ka7 
+
+Puzzle: 915
+Solution: 1.Re3 Rd8 2.Ke7 Rg8 3.d7 Kh5 4.Rxg3 Rxg3 5.d8Q 
+
+Puzzle: 916
+Solution: 1...Kf3 2.Nb7 Kxg3 3.Nd6 Kf2 
+
+Puzzle: 917
+Solution: 1.Kf7 Ke5 2.g7 
+
+Puzzle: 918
+Solution: 1.Rd2+ Kf3 2.Rxg2 Kxg2 3.a6 g4 4.a7 g3 5.a8Q+ Kh2 6.Qb8 
+
+Puzzle: 919
+Solution: 1...h3 2.g3 f4 3.gxf4+ Kxf4 
+
+Puzzle: 920
+Solution: 1.Kxh3 f3 2.Kg3 f2 3.h4+ 
+
+Puzzle: 921
+Solution: 1.h5 b5+ 2.Ka3 Kc3 3.h6 b4+ 4.Ka4 Kc2 5.h7 b3 6.h8Q 
+
+Puzzle: 922
+Solution: 1...Rh5 2.Kd6 Rh4 3.Ke6 Kxh2 
+
+Puzzle: 923
+Solution: 1.Rh7 Re2 2.Rxf7+ 
+
+Puzzle: 924
+Solution: 1.Kg3 Kc8 2.Rxh2 
+
+Puzzle: 925
+Solution: 1...Kg3 2.Ke6 Rxh3 
+
+Puzzle: 926
+Solution: 1...g4 2.Kc4 a6 
+
+Puzzle: 927
+Solution: 1...h1Q+ 2.Kd4 Qg1+ 3.Kc3 Qc5+ 
+
+Puzzle: 928
+Solution: 1.Kc2 a2 2.Kb2 
+
+Puzzle: 929
+Solution: 1...h3 2.Nf3 g4 3.Ke4 g3 4.Nd4 g2 
+
+Puzzle: 930
+Solution: 1.Re4+ Rxe4 2.Kxe4 h4 3.Ke3 h3 4.Kf2 Kf4 5.b6 
+
+Puzzle: 931
+Solution: 1...f3 2.Ke4 f2 
+
+Puzzle: 932
+Solution: 1...Kc4 2.Kd2 h4 3.Kc2 h3 
+
+Puzzle: 933
+Solution: 1...d1Q 2.h8Q Qd5+ 
+
+Puzzle: 934
+Solution: 1...Kf3 2.Kb6 f4 3.Kc5 Kg2 4.Kd5 f3 
+
+Puzzle: 935
+Solution: 1...d1Q 2.Rxd1 Kxd1 3.Kd6 Kc2 4.Kc6 Kb3 5.Kb5 a5 
+
+Puzzle: 936
+Solution: 1.hxg4+ Kg6 2.f5+ Kf7 3.Ke3 
+
+Puzzle: 937
+Solution: 1...h4 2.f4+ Kxf4 
+
+Puzzle: 938
+Solution: 1...Ne6+ 2.Ke4 Nxg7 3.Kd5 b3 4.Rh3+ Kb4 
+
+Puzzle: 939
+Solution: 1.Kf5 Kc5 2.g6 
+
+Puzzle: 940
+Solution: 1.b6+ Kd8 2.Bg5+ Kd7 3.b7 d2 4.Bxd2 
+
+Puzzle: 941
+Solution: 1...Kxd4 2.h5 e3 3.h6 e2 4.h7 e1Q 5.h8Q+ Qe5+ 6.Qxe5+ Kxe5 7.Kg4 Ke4 
+
+Puzzle: 942
+Solution: 1...Rf6 2.b7 Rb6+ 3.Kc4 Rxb7 
+
+Puzzle: 943
+Solution: 1...Na4+ 2.Kb1 Ka3 
+
+Puzzle: 944
+Solution: 1.Re8+ Re5 2.Rd8 
+
+Puzzle: 945
+Solution: 1...Ra1+ 2.Ke2 h2 
+
+Puzzle: 946
+Solution: 1...g2 2.a7 g1Q 3.Kb7 Qg2+ 4.Kb8 Qg8+ 
+
+Puzzle: 947
+Solution: 1...h5 2.Rxh5 f1Q 
+
+Puzzle: 948
+Solution: 1.Kd4 Re8 2.Kd5 
+
+Puzzle: 949
+Solution: 1...Rg1 2.Kg5 Kh3+ 
+
+Puzzle: 950
+Solution: 1.Kc4 Rd8 2.a8Q Rxa8 3.Rxa8 
+
+Puzzle: 951
+Solution: 1...a5 2.g4 a4 3.g5 a3 
+
+Puzzle: 952
+Solution: 1.Rd4+ Kg5 2.c7 
+
+Puzzle: 953
+Solution: 1.bxc4 Kf5 2.c5 
+
+Puzzle: 954
+Solution: 1.Kd5 g5 2.hxg5 h4 3.Ke4 h3 4.Kf3 h2 5.Kg2 h1Q+ 6.Kxh1 Ke6 7.g6 
+
+Puzzle: 955
+Solution: 1...Qxd3+ 2.Kxd3 Kf3 3.c5 g3 4.c6 g2 5.c7 g1Q 6.c8Q Qd1+ 
+
+Puzzle: 956
+Solution: 1.h6 Rg1+ 2.Kh4 Rh1+ 3.Nh3 Kf3 4.g5 
+
+Puzzle: 957
+Solution: 1...c5 2.Ne4 c4 3.h5 c3 
+
+Puzzle: 958
+Solution: 1...Kxh3 2.Ke3 Kg4 3.Ke4 h5 
+
+Puzzle: 959
+Solution: 1...Ka4 2.Nd4 a5 
+
+Puzzle: 960
+Solution: 1...h4 2.Rf1 g2 
+
+Puzzle: 961
+Solution: 1.Ke7 Be4 2.g7 Bh7 3.Ng5 Bg8 4.Kf8 b4 5.Kxg8 b3 6.Ne4 b2 7.Nd2 Kd3 8.Nb1 
+
+Puzzle: 962
+Solution: 1...Kd3 2.Rg1 c4 
+
+Puzzle: 963
+Solution: 1.g6 d4+ 2.Kxb3 d3 3.g7 d2 4.Kc2 
+
+Puzzle: 964
+Solution: 1...f3 2.Kh2 Kg4 3.Kh1 Kh3 4.Kg1 Kxg3 5.Kf1 f2 6.Ke2 Kg2 
+
+Puzzle: 965
+Solution: 1.Ra1+ Kb3 2.Kxa6 b4 3.Ka5 Rc2 4.Rb1+ Kc4 5.Rxb4+ 
+
+Puzzle: 966
+Solution: 1.Rd8+ Re8 2.Rxd3 Rc8 3.Rd6 
+
+Puzzle: 967
+Solution: 1.Kf5 Ne3+ 2.Kg5 Kxc7 3.h6 
+
+Puzzle: 968
+Solution: 1.Ke4 Ke2 2.Qxf2+ 
+
+Puzzle: 969
+Solution: 1...Rc6 2.Kh4 Rxh6+ 3.Kg5 Rh2 
+
+Puzzle: 970
+Solution: 1.f7 Rf1 2.Kg6 Kd5 3.Rxa3 
+
+Puzzle: 971
+Solution: 1.Kxf4 Kc5 2.Kg5 Kd6 3.Kxh5 
+
+Puzzle: 972
+Solution: 1...h4 2.Kd3 Kb4 
+
+Puzzle: 973
+Solution: 1.Ke8 Rg2 2.Rh6+ 
+
+Puzzle: 974
+Solution: 1.Kxf2 Ke4 2.h4 Ke5 3.Ke3 g5 4.h5 g4 5.h6 Kf6 6.Kf4 Kg6 7.Kxg4 
+
+Puzzle: 975
+Solution: 1...Ke4 2.Kf1 f3 3.Rh2 Kd3 
+
+Puzzle: 976
+Solution: 1.g6 Rc1 2.g7 b1Q 3.g8Q+ 
+
+Puzzle: 977
+Solution: 1.Rb1 g1Q 2.Rxg1 
+
+Puzzle: 978
+Solution: 1...Rxh2 2.Kxh2 Kc4 3.Kg3 b5 4.Kf2 b4 5.Ke2 Kc3 
+
+Puzzle: 979
+Solution: 1...a4 2.Kd3 f4 3.Kc3 f3 4.Kd3 f2 5.Ke2 Kxc4 6.Kxf2 Kb3 7.Ke1 Kxa3 8.Kd1 Kb2 
+
+Puzzle: 980
+Solution: 1...Kh2 2.Rh7+ Kg3 
+
+Puzzle: 981
+Solution: 1.Rxe7 Kxh3 2.Ke5 
+
+Puzzle: 982
+Solution: 1.b4 h5 2.b5 Be6 3.Kd6 Bc4 4.b6 Ba6 5.Bb5 Bxb5 6.b7 
+
+Puzzle: 983
+Solution: 1.g7 Kd7 2.Rd3+ 
+
+Puzzle: 984
+Solution: 1...Kc3 2.f6 d2 3.Ke2 Kc2 
+
+Puzzle: 985
+Solution: 1...Ke3 2.Kxh3 Kf3 3.Kh4 Kxf4 4.h3 Ke3 5.Kg3 f4+ 6.Kg2 Ke2 7.h4 f3+ 
+
+Puzzle: 986
+Solution: 1...Kxf5 2.Kf3 h5 3.Ke3 Ke5 
+
+Puzzle: 987
+Solution: 1.Rxe4+ Kg3 2.Re3 g4 3.Rxf3+ gxf3+ 4.Kf1 Kh4 5.h6 
+
+Puzzle: 988
+Solution: 1.g6 Rf8+ 2.Ke6 
+
+Puzzle: 989
+Solution: 1.Rh1 Ka6 2.Ra1+ Kb7 3.Rb1+ 
+
+Puzzle: 990
+Solution: 1...Kf3 2.Bd4 Ke2 
+
+Puzzle: 991
+Solution: 1.Ke4 Kg6 2.Ke5 
+
+Puzzle: 992
+Solution: 1...Kf5 2.Ke3 g5 3.f3 h4 
+
+Puzzle: 993
+Solution: 1...Rg4+ 2.Kc3 h3 
+
+Puzzle: 994
+Solution: 1.g6 a3 2.g7 Nf7 3.h7 
+
+Puzzle: 995
+Solution: 1.h5 f5 2.h6 f4 3.h7 f3 4.h8Q f2 5.Qh1 
+
+Puzzle: 996
+Solution: 1...h3 2.Bc8 d5 3.Bxg4 h2 4.Bf3 d4 5.Ka5 d3 6.Kb4 d2 
+
+Puzzle: 997
+Solution: 1...Kg4 2.Ke4 Kxh4 3.Kf4 g6 
+
+Puzzle: 998
+Solution: 1...Rf3 2.Qh1 g4 3.Kd3 Kh3 
+
+Puzzle: 999
+Solution: 1.b4 f4 2.b5 f3 3.b6 Ke4 4.b7 f2 5.b8Q f1Q 6.Qe8+ 
+
+Puzzle: 1000
+Solution: 1...Rd2+ 2.Kg1 Kxg3 3.Kf1 Rf2+ 4.Ke1 Rf6 
+
+Puzzle: 1001
+Solution: 1.Nh5+ Kg4 2.Nxg7 f3 3.Ke4 f2 4.Nf5 f1N 5.e6 
+
+Puzzle: 1002
+Solution: 1.Kc2 Rg1 2.Rd3+ 
+
+Puzzle: 1003
+Solution: 1.Kd6 Kg6 2.Kxc5 
+
+Puzzle: 1004
+Solution: 1...Kxf4 2.Rge2 Qh1+ 
+
+Puzzle: 1005
+Solution: 1...Kxf6 2.Kf1 Ke5 3.Ke2 f5 
+
+Puzzle: 1006
+Solution: 1.Kd1 Rh5 2.Bb6 
+
+Puzzle: 1007
+Solution: 1.g7 e2 2.Rd6+ Kc3 3.Re6 e1Q 4.Rxe1 Rxe1 5.g8Q 
+
+Puzzle: 1008
+Solution: 1...Kf4 2.Bc8 g4 3.Bd7 h3 
+
+Puzzle: 1009
+Solution: 1...Kxc4 2.Nf3 a5 3.Ne5+ Kc3 
+
+Puzzle: 1010
+Solution: 1.Rg2 Re3 2.Rb2 
+
+Puzzle: 1011
+Solution: 1.Ra8 Rb2+ 2.Kxe3 
+
+Puzzle: 1012
+Solution: 1...Kg3 2.Ke6 Kxh3 3.Kf5 Kg3 
+
+Puzzle: 1013
+Solution: 1.f5 Kh6 2.f6 Kg5 3.Ke6 
+
+Puzzle: 1014
+Solution: 1...Kg2 2.Nh3 g5 3.Nxg5 d3 4.Nf3 h3 5.Ne1+ Kf1 
+
+Puzzle: 1015
+Solution: 1.h4 c3 2.h5 
+
+Puzzle: 1016
+Solution: 1.g7+ Kf7 2.c4 Bh7 3.Ke5 
+
+Puzzle: 1017
+Solution: 1...h2 2.Kxh2 Kb4 3.Kg3 a4 
+
+Puzzle: 1018
+Solution: 1...Nxf1 2.a6 Nd2 3.a7 f1Q 4.a8Q Qc4+ 5.Ka5 Qa2+ 
+
+Puzzle: 1019
+Solution: 1.e6 Rb8 2.Kg6 h3 3.Rg7+ 
+
+Puzzle: 1020
+Solution: 1.Kd5 Rxa6 2.bxa6 g3 3.a7 g2 4.a8Q g1Q 5.Qf8+ 
+
+Puzzle: 1021
+Solution: 1.g7 Rg1+ 2.Kf6 e4 3.Ra6+ 
+
+Puzzle: 1022
+Solution: 1.Re6+ Kd4 2.Ke7 
+
+Puzzle: 1023
+Solution: 1...Bf4 2.Kd1 Kd3 3.Rg2 g4 
+
+Puzzle: 1024
+Solution: 1.Kc7 Rc1+ 2.Kb6 Rd1 3.Rxf2 
+
+Puzzle: 1025
+Solution: 1...Kc4 2.Nd4 b2 3.Nc2 Kb3 
+
+Puzzle: 1026
+Solution: 1...Rxd5 2.Kb2 Rd8 
+
+Puzzle: 1027
+Solution: 1...g2 2.Ra1 Kg3 3.Kf5 h3 
+
+Puzzle: 1028
+Solution: 1.g6+ Kxh6 2.Nf5+ Kh5 3.Ng3+ Kg4 4.Nxh1 
+
+Puzzle: 1029
+Solution: 1.a5 Kc4 2.c6 bxc6 3.Kxa6 c5 4.Kb6 
+
+Puzzle: 1030
+Solution: 1.Kxb7 h5 2.Kc6 
+
+Puzzle: 1031
+Solution: 1.Kxg5 Rd8 2.Rxf7+ Kh8 3.Be6 
+
+Puzzle: 1032
+Solution: 1...Kg3 2.Ke1 e2 3.Bf7 f2+ 4.Kxe2 Kg2 5.Bd5+ Kg1 6.Kf3 f1Q+ 
+
+Puzzle: 1033
+Solution: 1.d6 b3 2.d7 b2 3.d8Q b1Q 4.Qc8+ 
+
+Puzzle: 1034
+Solution: 1...f4 2.Kd2 f3 
+
+Puzzle: 1035
+Solution: 1.h5 Rc2 2.h6 Rh2 3.Bh4 
+
+Puzzle: 1036
+Solution: 1.Ra8+ Kc7 2.d6+ Kc6 3.Rc8+ 
+
+Puzzle: 1037
+Solution: 1.Kxe6 b5 2.Kf7 b4 3.g6 
+
+Puzzle: 1038
+Solution: 1...Kc5 2.a3 Kc6 
+
+Puzzle: 1039
+Solution: 1.Kxc4 Ke4 2.d5 Ke5 3.Kc5 a6 4.Kc4 Kd6 5.Kd4 b6 6.axb6 
+
+Puzzle: 1040
+Solution: 1...e4 2.Kc2 Kc4 3.Kd1 b3 
+
+Puzzle: 1041
+Solution: 1...c3 2.Rb8+ Ka4 3.Kxc6 c2 4.Rb5 c1Q+ 
+
+Puzzle: 1042
+Solution: 1...h4 2.Kd4 Kh3 
+
+Puzzle: 1043
+Solution: 1...Kg7 2.Nc6 h4 
+
+Puzzle: 1044
+Solution: 1.e6+ Kf6 2.Rh6+ 
+
+Puzzle: 1045
+Solution: 1.h4 gxh4 2.g5+ Kh7 3.Kf7 h3 4.g6+ Kh6 5.g7 
+
+Puzzle: 1046
+Solution: 1...Rxc5 2.a7 Rc1 3.b6 Ra1+ 4.Kb5 Kc8 5.Kc6 Rc1+ 
+
+Puzzle: 1047
+Solution: 1.Nc4 Kf6 2.Nd6 
+
+Puzzle: 1048
+Solution: 1...Kf6 2.Kg3 Ke5 3.Kf2 Kf4 4.Kg2 Kg5 
+
+Puzzle: 1049
+Solution: 1...h4 2.Kxb6 h3 3.c5 h2 4.c6 h1Q 5.c7 Qh3 
+
+Puzzle: 1050
+Solution: 1.Ke7 Rg8 2.Re5+ Kd4 3.Kxe6 
+
+Puzzle: 1051
+Solution: 1.g4 e4 2.g5 e3+ 3.Kxe3 Kg1 4.g6 h2 5.g7 h1Q 6.g8Q+ Kf1 7.Qc4+ 
+
+Puzzle: 1052
+Solution: 1.Kxh4 c3 2.Kg3 Kc4 3.Kf2 
+
+Puzzle: 1053
+Solution: 1.Rd7+ Kf8 2.Kg6 
+
+Puzzle: 1054
+Solution: 1.Rxg6+ Kxg6 2.Kxc6 Kf7 3.c5 a5 4.Kb5 a4 5.Kxa4 
+
+Puzzle: 1055
+Solution: 1.Kh6 Kf6 2.h4 Kf7 3.Kh7 
+
+Puzzle: 1056
+Solution: 1.a8Q+ Kf2 2.Qa7+ Kf1 3.Qa1+ 
+
+Puzzle: 1057
+Solution: 1.Rd1 Rh7 2.Rxd3+ Ke7 3.Re3+ Kf7 4.Re6 
+
+Puzzle: 1058
+Solution: 1.Kg6 Kxa6 2.f5 Kb5 3.f6 Kc4 4.f7 Bc5 5.Kxh6 
+
+Puzzle: 1059
+Solution: 1...Kh3 2.f4 g4 3.f5 g3 4.hxg3 hxg3 5.f6 g2 6.Kf2 Kh2 
+
+Puzzle: 1060
+Solution: 1.Ke5 Kc6 2.Kxf4 Kd5 3.Kg5 
+
+Puzzle: 1061
+Solution: 1.a5 Kb5 2.Kxh5 
+
+Puzzle: 1062
+Solution: 1.Rg5 Rxg5+ 2.fxg5 Kd6 3.Kh5 Ke7 4.Kh6 
+
+Puzzle: 1063
+Solution: 1...Kb2 2.Kd5 Kxa2 3.Kc4 Kb2 
+
+Puzzle: 1064
+Solution: 1...a4 2.Kd3 Kb2 3.h3 a3 
+
+Puzzle: 1065
+Solution: 1.Rxf3+ Kg2 2.Re3 Rg7 3.Kh6 Rg4 4.h5 
+
+Puzzle: 1066
+Solution: 1.f4 Kh4 2.Kxg6 Kh3 3.Kh5 
+
+Puzzle: 1067
+Solution: 1...Rf3+ 2.Ke5 Kh4 3.Qd2 Kg3 
+
+Puzzle: 1068
+Solution: 1.a5 Ne1+ 2.Kxe3 Nc2+ 3.Kd3 Nb4+ 4.Kc4 Nc6 5.a6 
+
+Puzzle: 1069
+Solution: 1.Bxf6 a3 2.Be7 
+
+Puzzle: 1070
+Solution: 1.Rc6 Rxa7+ 2.Kxa7 g5 3.Kb6 
+
+Puzzle: 1071
+Solution: 1...Kf3 2.Kh4 Kg2 3.Ng3 g6 4.Kg4 g5 
+
+Puzzle: 1072
+Solution: 1...Kxa6 2.Kd4 Kb5 3.Kc3 h4 
+
+Puzzle: 1073
+Solution: 1.Ne4 Re2 2.e7+ Ke8 3.Nd6+ 
+
+Puzzle: 1074
+Solution: 1...Kc5 2.Ke3 Kb4 3.Kd4 c3 4.Kd3 Kb3 5.a5 c2 6.Kd2 Kb2 
+
+Puzzle: 1075
+Solution: 1...Kxf2 2.d7 Rg3+ 3.Kh4 Rd3 4.Kg4 Rxd7 
+
+Puzzle: 1076
+Solution: 1.Kf6 Rg3 2.e6 Kxh6 3.e7 
+
+Puzzle: 1077
+Solution: 1...Bxd5 2.Nxd5 Kf3 3.Nf6 h4 4.Kc5 h3 5.Kd4 h2 
+
+Puzzle: 1078
+Solution: 1.Nd7+ Kg7 2.Ke7 a4 3.Nf6 Nf8 4.Nh5+ 
+
+Puzzle: 1079
+Solution: 1...Rxg3 2.Kf1 Kh3 
+
+Puzzle: 1080
+Solution: 1.e5+ Kd5 2.Be6+ 
+
+Puzzle: 1081
+Solution: 1.Rb8+ Ke7 2.h7 
+
+Puzzle: 1082
+Solution: 1.Kg6 Rc1 2.h7+ 
+
+Puzzle: 1083
+Solution: 1.h4 g5 2.hxg5 h4 3.Ke4 h3 4.Kf3 h2 5.Kg2 h1R 6.Kxh1 
+
+Puzzle: 1084
+Solution: 1...g2 2.Ke2 Re6+ 
+
+Puzzle: 1085
+Solution: 1.Kc6 e5 2.b7+ Kb8 3.Kb6 e4 4.Kxa6 Kc7 5.Ka7 
+
+Puzzle: 1086
+Solution: 1.Bd5 Bc8 2.Kd6 
+
+Puzzle: 1087
+Solution: 1.Kxb7 h2 2.Rb1 
+
+Puzzle: 1088
+Solution: 1...Rb4+ 2.Kg5 Rxh4 3.Kxh4 a5 4.Kg5 a4 5.Kg6 Kf8 6.e6 a3 
+
+Puzzle: 1089
+Solution: 1...d2 2.Ra1 Kd4 3.Kxf3 Kd3 4.Kf2 e4 5.Ra3+ Kc2 
+
+Puzzle: 1090
+Solution: 1...Rh2+ 2.Kg6 Ra2 
+
+Puzzle: 1091
+Solution: 1.Kb5 Kg6 2.a5 h5 3.a6 
+
+Puzzle: 1092
+Solution: 1.Qb4+ Kg5 2.Qxa5+ 
+
+Puzzle: 1093
+Solution: 1.Nxe5+ Kf4 2.Ng4 Kxg4 3.g7 Kf3 4.g8Q 
+
+Puzzle: 1094
+Solution: 1.a6 Kc7+ 2.Kc4 Kb6 3.Kd5 
+
+Puzzle: 1095
+Solution: 1.Kf6 Kd6 2.Kg6 
+
+Puzzle: 1096
+Solution: 1...Ra2+ 2.Kg1 a3 3.Ra8 Kxg3 
+
+Puzzle: 1097
+Solution: 1...Kxc4 2.Kd1 Kd3 
+
+Puzzle: 1098
+Solution: 1.Kd4 Ra5 2.c5+ Kd7 3.Kc4 
+
+Puzzle: 1099
+Solution: 1.Kxg5 Ke6 2.Kg6 Ke5 3.Kf7 
+
+Puzzle: 1100
+Solution: 1.Kg8 Kxg6 2.h7 Nf4 3.h8Q 
+
+Puzzle: 1101
+Solution: 1.fxe5+ Ke6 2.hxg5 h4 3.g6 h3 4.Kf3 h2 5.Kg2 h1R 6.Kxh1 
+
+Puzzle: 1102
+Solution: 1.a3 d4+ 2.Kd3 Kd5 3.g4 Ke5 4.g5 
+
+Puzzle: 1103
+Solution: 1...g4 2.fxg4+ Ke6 3.Kg5 f3 4.Kf4 f2 
+
+Puzzle: 1104
+Solution: 1...g3 2.e4 Rg7 3.Re1 g2 
+
+Puzzle: 1105
+Solution: 1.Kf4 Ke6 2.Kg5 Kf7 3.Kh6 Kf6 4.h4 Kf7 5.Kh7 f4 6.gxf4 
+
+Puzzle: 1106
+Solution: 1...Ke4 2.d5 Kxd5 3.Kd3 Kc5 4.Ke4 Kb4 5.Kxf4 Kxa4 
+
+Puzzle: 1107
+Solution: 1...Kf5 2.Kh6 e5 3.h5 e4 4.Kg7 e3 
+
+Puzzle: 1108
+Solution: 1...Ke2 2.Kg2 f4 3.gxf4 gxf4 
+
+Puzzle: 1109
+Solution: 1.g6 Ne5+ 2.Kd5 Ng4 3.Ke6 
+
+Puzzle: 1110
+Solution: 1...Kxb4 2.Kf7 Kb5 
+
+Puzzle: 1111
+Solution: 1.Kxg7 Rd5 2.Kh7 Kf6 3.Rf8+ 
+
+Puzzle: 1112
+Solution: 1...h5 2.Kd6 h4 3.c4 h3 4.c5 h2 5.c6 h1Q 6.c7 Qh3 
+
+Puzzle: 1113
+Solution: 1...f4 2.Kc4 f3 3.Kd3 Kf4 4.a5 Kg3 5.a6 f2 6.Ke2 Kg2 7.a7 f1Q+ 
+
+Puzzle: 1114
+Solution: 1...g4 2.fxg4 fxg4 3.a5 Kd6 4.a6 Kc7 5.e4 g3 6.a7 Kb7 7.a8R Kxa8 
+
+Puzzle: 1115
+Solution: 1.Rc8+ Kd5 2.b6 Re4 3.b7 
+
+Puzzle: 1116
+Solution: 1.h4 Kb5 2.Ne5 Kb6 3.h5 Kc7 4.h6 Rh3 5.g5 Kd6 6.g6 Rh4+ 7.Ke3 Kxe5 8.g7 
+
+Puzzle: 1117
+Solution: 1.Rb8 Rxa7 2.Kxa7 f5 3.Kb6 
+
+Puzzle: 1118
+Solution: 1...Kd4 2.Be4 Kc3 3.Ke5 Kb2 4.Kd5 Kb3 5.Kc6 Kxa4 
+
+Puzzle: 1119
+Solution: 1.Kf3 Kh2 2.Kf2 h3 3.b5 
+
+Puzzle: 1120
+Solution: 1...Kg8 2.Kg6 a4 3.h6 b3 4.h7+ Kh8 5.axb3 a3 
+
+Puzzle: 1121
+Solution: 1.Nd4 Kf4 2.a6 Ke5 3.a7 
+
+Puzzle: 1122
+Solution: 1...Kg4 2.Bc7 Nxh4+ 3.Kf7 Nf3 
+
+Puzzle: 1123
+Solution: 1...Kf4 2.e5 h5 3.Kg1 Kxe5 
+
+Puzzle: 1124
+Solution: 1.Rg1 Rh6+ 2.Kf7 
+
+Puzzle: 1125
+Solution: 1.g6 Kf5 2.Kh6 Rc8 3.g7 
+
+Puzzle: 1126
+Solution: 1.Ke6 Re1+ 2.Kf6 
+
+Puzzle: 1127
+Solution: 1...Qg4+ 2.Kb5 g1Q 3.Qh8+ Kg2 
+
+Puzzle: 1128
+Solution: 1...b5 2.Nc1 b4 3.Ne2 b3 4.Nd4 b2 5.Nc2 Kb3 
+
+Puzzle: 1129
+Solution: 1.Kxd4 Ka7 2.Kc5 Ka6 3.c3 a4 4.Kb4 
+
+Puzzle: 1130
+Solution: 1.c7 Bxc7 2.a7 h2 3.b8Q Bxb8 4.a8Q 
+
+Puzzle: 1131
+Solution: 1...g4 2.Kc4 Qxe3 
+
+Puzzle: 1132
+Solution: 1...Ke5 2.Ba6 Ke4 3.Bb7+ Ke3 
+
+Puzzle: 1133
+Solution: 1.Kf4 Kf7 2.Ke5 g6 3.fxg6+ 
+
+Puzzle: 1134
+Solution: 1...Kc7 
+
+Puzzle: 1135
+Solution: 1...Kf7 2.Kd7 Rxe7+ 3.Kc6 Re6+ 
+
+Puzzle: 1136
+Solution: 1.h4+ Kf5 2.Kf7 Ke5 3.Kg6 f5 4.Kxh5 Kf6 5.Kh6 f4 6.gxf4 
+
+Puzzle: 1137
+Solution: 1.c7 Kf6 2.Bd3 
+
+Puzzle: 1138
+Solution: 1.Kh5 Qb1 2.Rg5+ Kb4 3.g8Q 
+
+Puzzle: 1139
+Solution: 1...Kb3 2.Rh3 Kxa3 3.Rxc3+ Kb2 
+
+Puzzle: 1140
+Solution: 1...Bxb8 2.Kxb8 Kh3 3.Rd1 g5 
+
+Puzzle: 1141
+Solution: 1.Rb4+ Kd3 2.Kxf5 Kc3 3.Rb1 
+
+Puzzle: 1142
+Solution: 1.Kb4 d4 2.Kc4 Ke5 3.Kd3 
+
+Puzzle: 1143
+Solution: 1.Kd5 g5 2.hxg5 h4 3.Ke4 h3 4.Kf3 h2 5.Kg2 h1Q+ 6.Kxh1 Ke6 7.g6 
+
+Puzzle: 1144
+Solution: 1.Nf2+ Kd4 2.Nxh3 
+
+Puzzle: 1145
+Solution: 1...Kxc2 2.Kf5 Kd3 3.g4 Ra5+ 
+
+Puzzle: 1146
+Solution: 1...Rc6 2.Rf8 b3 
+
+Puzzle: 1147
+Solution: 1...Rc1 2.Re2 Kf3 3.Rh2 e3 
+
+Puzzle: 1148
+Solution: 1.Nxd3 Kf5 2.Ne5 Ke4 3.Nc6 
+
+Puzzle: 1149
+Solution: 1...a3 2.f5 a2 3.f6 a1Q 4.f7 Qa3 5.Kf6 Qf8 
+
+Puzzle: 1150
+Solution: 1...g2 2.Qxc2+ Kxc2 
+
+Puzzle: 1151
+Solution: 1...h4 2.Kc3 Kxf5 3.Kd3 Kg4 
+
+Puzzle: 1152
+Solution: 1...exf4 2.Kc7 Kg4 
+
+Puzzle: 1153
+Solution: 1.Kg4 Kd6 2.Kf5 Ke7 3.Kg6 Ke6 4.g4 Ke7 5.Kg7 
+
+Puzzle: 1154
+Solution: 1.Kg6 Kc4 2.Kxh6 Kd5 3.Kg6 
+
+Puzzle: 1155
+Solution: 1...gxf4 2.h4 Kg4 3.Kg2 f3+ 
+
+Puzzle: 1156
+Solution: 1.Ka7 Rg8 2.Kxb7 Rg7+ 3.Kb6 
+
+Puzzle: 1157
+Solution: 1...hxg5 2.hxg5+ Ke7 3.f5 a4 
+
+Puzzle: 1158
+Solution: 1.Ke6 Ra1 2.e4 
+
+Puzzle: 1159
+Solution: 1.Kb4 e4 2.Kb3 
+
+Puzzle: 1160
+Solution: 1.c6+ Kb6 2.e6 
+
+Puzzle: 1161
+Solution: 1.f5 Kd6 2.Kd4 g4 3.c5+ 
+
+Puzzle: 1162
+Solution: 1...Kd5 2.a5 a6 3.Kf5 Kc4 4.Ke5 Kxb4 
+
+Puzzle: 1163
+Solution: 1.Kd5 Kg4 2.Ke5 
+
+Puzzle: 1164
+Solution: 1...Rf2+ 2.Kg3 Kxe4 3.Kxf2 d3 4.Kf1 Kf3 5.Ke1 Kxe3 6.Kd1 d2 7.Kc2 Ke2 
+
+Puzzle: 1165
+Solution: 1...d3 2.Rh6 Ra1+ 3.Kf2 d2 
+
+Puzzle: 1166
+Solution: 1...Kg3 2.Ke3 Kxh3 3.Kf4 Kh4 4.Kxe4 Kxg4 5.Ke3 Kg3 
+
+Puzzle: 1167
+Solution: 1...Nd3 2.g5 Nf2 3.Bxf2 Kxf2 
+
+Puzzle: 1168
+Solution: 1...Rd7+ 2.Kc4 Rc7+ 3.Kb5 e1Q 4.Ra1+ Rc1 5.Rxc1+ Kxc1 
+
+Puzzle: 1169
+Solution: 1.Kd4 Kf4 2.Rxf5+ Kxf5 3.Kd5 Kf4 4.Kc6 Ke4 5.Kb7 
+
+Puzzle: 1170
+Solution: 1...d5 2.Kf4 Kd2 
+
+Puzzle: 1171
+Solution: 1...Kf4 2.c7 e1Q 3.c8Q Qe4+ 
+
+Puzzle: 1172
+Solution: 1.Kd7 Kf6 2.d6 
+
+Puzzle: 1173
+Solution: 1.a5 Ng5 2.a6 Ne6 3.d5 Nc7 4.d6 Na8 5.d7 
+
+Puzzle: 1174
+Solution: 1.g4 Ne2+ 2.Ke3 
+
+Puzzle: 1175
+Solution: 1...Kf4 2.c5 Ke5 
+
+Puzzle: 1176
+Solution: 1...Kf4 2.Rb3 Nf3+ 3.Rxf3+ Kxf3 4.Kg5 Kg2 5.h4 Kg3 6.Kf6 Kxh4 
+
+Puzzle: 1177
+Solution: 1...Rxh1 2.f8Q Re1+ 3.Kd7 a1Q 
+
+Puzzle: 1178
+Solution: 1...Kf3 2.Kd2 Kf2 3.d5 exd5 
+
+Puzzle: 1179
+Solution: 1...Nc3 2.f4+ Kd5 
+
+Puzzle: 1180
+Solution: 1...Kd5 2.e6 Ke5 3.Rf1 Rh7+ 4.Rf7 Rh6 
+
+Puzzle: 1181
+Solution: 1.Ke3 gxh6 2.g6+ Kg8 3.Kxd3 
+
+Puzzle: 1182
+Solution: 1...g2 2.Rg1 Kh4 
+
+Puzzle: 1183
+Solution: 1.g5 b4 2.Ke4 b3 3.Kd3 
+
+Puzzle: 1184
+Solution: 1...Kc3 2.Be7 b4 3.Ke5 a3 
+
+Puzzle: 1185
+Solution: 1...Re3+ 2.Kf4 Rb3 
+
+Puzzle: 1186
+Solution: 1...h2 2.Nh1 b5 3.axb5 Kxb5 
+
+Puzzle: 1187
+Solution: 1...g2 2.Ba5 g1Q 3.b7 Qf1+ 
+
+Puzzle: 1188
+Solution: 1.Kd5 Ne2 2.f7 Nf4+ 3.Kd6 Ng6 4.b4 Kf6 5.b5 Kxf7 6.b6 
+
+Puzzle: 1189
+Solution: 1.Qd5+ Ka1 2.Qa8+ Kb1 3.g8Q 
+
+Puzzle: 1190
+Solution: 1.Rxa1 Re3 2.Rc1 Ke6 3.d7 
+
+Puzzle: 1191
+Solution: 1.Rh3+ Kb2 2.Kxb4 c5+ 3.Kxc5 
+
+Puzzle: 1192
+Solution: 1...Kd5 2.Ka5 f4 3.gxf4 gxf4 
+
+Puzzle: 1193
+Solution: 1.a5 Kb7 2.b5 Be1 3.a6+ 
+
+Puzzle: 1194
+Solution: 1...Kg3 2.Kf1 Rf5+ 
+
+Puzzle: 1195
+Solution: 1...b4 2.Rh1 b3 3.Rd1 Ke3 
+
+Puzzle: 1196
+Solution: 1.Kg6 Rd3 2.Kxg7 
+
+Puzzle: 1197
+Solution: 1.Qe1+ Kh3 2.Qh1+ 
+
+Puzzle: 1198
+Solution: 1.h7 c3 2.h8Q c2 3.Qh6 
+
+Puzzle: 1199
+Solution: 1.e4 Kf4 2.exd5 Kf5 3.Kc4 Kf6 4.Kb5 Ke7 5.Kc6 
+
+Puzzle: 1200
+Solution: 1...exf5 2.Bb2 Kg8 
+
+Puzzle: 1201
+Solution: 1.f4 Bg3 2.g5+ Ke7 3.Ke5 Be1 4.d6+ 
+
+Puzzle: 1202
+Solution: 1.Rxh5 Kxh5 2.Kd6 g5 3.e5 
+
+Puzzle: 1203
+Solution: 1.a4 Kf4 2.a5 
+
+Puzzle: 1204
+Solution: 1...Kd4 2.g4 hxg4 3.h5 Ke5 4.h6 Kf6 5.h7 Kg7 6.h8Q+ Kxh8 7.Ke3 g3 
+
+Puzzle: 1205
+Solution: 1.Kc6 Ke7 2.Kd5 a4 3.f6+ 
+
+Puzzle: 1206
+Solution: 1.Rg8+ Ke7 2.d6+ Ke6 3.Re8+ Kf7 4.d7 
+
+Puzzle: 1207
+Solution: 1.b6 Rf3+ 2.Kb4 Ke3 3.c5 
+
+Puzzle: 1208
+Solution: 1.Kxc5 a5 2.Kd5 Kb3 3.c5 a4 4.c6 a3 5.c7 
+
+Puzzle: 1209
+Solution: 1.Kf3 Nb6 2.Ke3 
+
+Puzzle: 1210
+Solution: 1...d2 2.Rd6 Ke2 3.h8R Rxh8 
+
+Puzzle: 1211
+Solution: 1.Kg6 Ke6 2.Kg5 f4 3.Kg4 
+
+Puzzle: 1212
+Solution: 1...Ke1 2.Ra8 Rh3+ 
+
+Puzzle: 1213
+Solution: 1...Kd3 2.Kd1 d4 3.a3 Kc4 
+
+Puzzle: 1214
+Solution: 1.g5 Kb1 2.Kb4 a3 3.Kxa3 
+
+Puzzle: 1215
+Solution: 1...Kf3 2.Nh1 Nc4+ 
+
+Puzzle: 1216
+Solution: 1.h5 b3 2.g6+ Ke8 3.h6 
+
+Puzzle: 1217
+Solution: 1.Kg6 Rc2 2.Ra8+ 
+
+Puzzle: 1218
+Solution: 1...Kb4 2.Kf3 Kb3 3.Kf4 Kc2 4.Ke4 Kc3 
+
+Puzzle: 1219
+Solution: 1...Rf6+ 2.Ke5 Rxf7 
+
+Puzzle: 1220
+Solution: 1.Re1+ Kd2 2.Kf2 
+
+Puzzle: 1221
+Solution: 1...Kxg4 2.Kb4 Kf5 3.a4 Ke6 
+
+Puzzle: 1222
+Solution: 1.Kh5 Ke5 2.Kh6 Kf4 3.Kxh7 
+
+Puzzle: 1223
+Solution: 1.Ke3 Kg6 2.Kd4 f4 3.g4 Kf6 4.Kd5 
+
+Puzzle: 1224
+Solution: 1.c7 Kd2 2.c4 Kd3 3.c5 
+
+Puzzle: 1225
+Solution: 1.Rf6 c3 2.h7 c2 3.h8Q 
+
+Puzzle: 1226
+Solution: 1...Kc5 2.Nc7 a4 3.Na6+ Kd4 4.bxa4 b3 
+
+Puzzle: 1227
+Solution: 1...Kxg4 2.Kc4 Rb8 3.Kd5 Kf5 
+
+Puzzle: 1228
+Solution: 1.g4 a5 2.Kxg6 b5 3.Kf5 a4 4.Ke4 
+
+Puzzle: 1229
+Solution: 1...g4 2.fxg4+ Ke6 3.g5 f3 4.g6 f2 5.g7 Kf7 6.g8Q+ Kxg8 
+
+Puzzle: 1230
+Solution: 1...Kh5 2.Kh2 Kxh4 3.g3+ Kg5 4.Kg1 Kf5 5.Kf2 Ke4 
+
+Puzzle: 1231
+Solution: 1.Kf2 Nd4 2.g6 
+
+Puzzle: 1232
+Solution: 1...Kg3 2.Ke3 g5 3.Ke2 Kg2 
+
+Puzzle: 1233
+Solution: 1...Rf1+ 2.Ke3 Kg2 
+
+Puzzle: 1234
+Solution: 1...Qd4+ 2.Ke6 d2 3.Qc7+ Kh6 4.Qh2+ Kg5 
+
+Puzzle: 1235
+Solution: 1.f6 a3 2.Rh3 
+
+Puzzle: 1236
+Solution: 1.Ke5 Kf8 2.Kf6 Kg8 3.Ke7 Kg7 4.Ke8 Kf6 5.Kf8 h5 6.gxh5 Kxf5 7.Kg7 
+
+Puzzle: 1237
+Solution: 1.Rh8 d3+ 2.Ke1 d2+ 3.Kxd2 
+
+Puzzle: 1238
+Solution: 1.Kc6 Kb8 2.a7+ Ka8 3.b7+ Kxa7 4.Kc7 
+
+Puzzle: 1239
+Solution: 1.Ke7 Nb6 2.Kd8 Kh7 3.Kc7 
+
+Puzzle: 1240
+Solution: 1.Kg7 Ne3 2.h5 Nxg4 3.h6 
+
+Puzzle: 1241
+Solution: 1.f6 Kd6 2.Kf5 Kd7 3.Kg6 
+
+Puzzle: 1242
+Solution: 1.g6+ Kg8 2.h6 Be3 3.h7+ Kg7 4.Kxe5 
+
+Puzzle: 1243
+Solution: 1...Kh4 2.Ke4 Kxh3 3.Kxf4 h4 4.Kg5 Kg3 5.f4 h3 6.f5 h2 7.f6 h1Q 
+
+Puzzle: 1244
+Solution: 1.Kxf4 g2 2.Rh8+ Kg1 3.Kg3 Kf1 4.Rf8+ 
+
+Puzzle: 1245
+Solution: 1...Kf6 2.Ke3 e5 
+
+Puzzle: 1246
+Solution: 1...b4 2.Bf4 Ne2 3.Kc5 b3 
+
+Puzzle: 1247
+Solution: 1.Rh5 Rf2 2.f6 
+
+Puzzle: 1248
+Solution: 1...Kg6 2.e6 a5 3.g5 a4 4.e7 Kf7 
+
+Puzzle: 1249
+Solution: 1.Rxb6+ Ka2 2.Rb5 Rb4 3.Rxa5+ 
+
+Puzzle: 1250
+Solution: 1.Kxa6 Kf6 2.Kb5 Ne3 3.a5 Ke6 4.a6 
+
+Puzzle: 1251
+Solution: 1...Rg8+ 2.Kh4 Kf3 3.Kh5 Rh8+ 4.Kg6 Rxh2 
+
+Puzzle: 1252
+Solution: 1...Kg2 2.Be2 h5 
+
+Puzzle: 1253
+Solution: 1.Ra8+ Kf7 2.g6+ 
+
+Puzzle: 1254
+Solution: 1...f3 2.Re3 Kg2 3.Rd3 f2 
+
+Puzzle: 1255
+Solution: 1.Bb4+ Kxb4 2.a6 c5 3.a7 
+
+Puzzle: 1256
+Solution: 1...h5 2.Kd4 Kf3 3.Ne7 h4 4.Nxg6 h3 
+
+Puzzle: 1257
+Solution: 1.h4 Kg3 2.Kg5 
+
+Puzzle: 1258
+Solution: 1...Kd3 2.Kg4 Ke4 3.Be1 f3 
+
+Puzzle: 1259
+Solution: 1.Re6+ Kd7 2.Re2 
+
+Puzzle: 1260
+Solution: 1.g6 Nf6+ 2.Kg5 Ne4+ 3.Kf4 Nd6 4.h7 Kf6 5.h8Q+ 
+
+Puzzle: 1261
+Solution: 1...d2 2.Kf2 Rf6+ 
+
+Puzzle: 1262
+Solution: 1...b4 2.g5 Ke8 3.g6 Kf8 4.g7+ Kg8 5.Ke5 c3 
+
+Puzzle: 1263
+Solution: 1.Rf2+ Kg3 2.Rg2+ 
+
+Puzzle: 1264
+Solution: 1.Ke8 Rh2 2.Re1+ 
+
+Puzzle: 1265
+Solution: 1.Kf4 Rc8 2.Kf5 
+
+Puzzle: 1266
+Solution: 1.Ke6 Rxh5 2.g7 Rg5 3.Kf7 Kb6 4.c4 Ka5 5.c5 
+
+Puzzle: 1267
+Solution: 1...Rxh4 2.g7 Kf3 3.Kxh4 h2 4.Kg5 h1Q 
+
+Puzzle: 1268
+Solution: 1...Rxf2+ 2.Kxf2 f5 
+
+Puzzle: 1269
+Solution: 1...Kd5 2.Kd3 g5 3.a5 a6 4.b5 axb5 
+
+Puzzle: 1270
+Solution: 1...e2 2.Rf2 Rc6 3.Kg4 Rxh6 
+
+Puzzle: 1271
+Solution: 1.Ne7 Ba6 2.Nxf5 Bc8 3.Nd6 Bg4 4.Nc4 
+
+Puzzle: 1272
+Solution: 1.b4 Kb8 2.Kb6 
+
+Puzzle: 1273
+Solution: 1.b4 Ke5 2.Kc5 Ke6 3.Kc6 Ke7 4.b5 
+
+Puzzle: 1274
+Solution: 1...Kb2 2.Re1 c4 
+
+Puzzle: 1275
+Solution: 1...Rxg7+ 2.Kd6 g1Q 3.Qf8+ Ke4 4.Qe8+ Kf3 
+
+Puzzle: 1276
+Solution: 1.Kxd3 Kf5 2.Ke3 Ke5 3.Kf3 
+
+Puzzle: 1277
+Solution: 1.h6 Ne6 2.Kf6 Nf8 3.Kf7 
+
+Puzzle: 1278
+Solution: 1...Kxg3 2.h5 Kg4 3.h6 f6 
+
+Puzzle: 1279
+Solution: 1...Rf3 2.Rh1 Rf4+ 3.Ke5 Rxf5+ 
+
+Puzzle: 1280
+Solution: 1.Kxf6 Ke4 2.a4 Kd5 3.a5 
+
+Puzzle: 1281
+Solution: 1...c2 2.Rb8+ Rb2 3.Rc8 Rb4 
+
+Puzzle: 1282
+Solution: 1.Kf5 Kd5 2.h6 Nd6+ 3.Kf6 
+
+Puzzle: 1283
+Solution: 1.Kg5 Kc5 2.h5 
+
+Puzzle: 1284
+Solution: 1.f4 e5 2.h5 e4 3.h6 e3 4.h7 
+
+Puzzle: 1285
+Solution: 1.h5 Ke6 2.Kc5 Ke5 3.Kc4 
+
+Puzzle: 1286
+Solution: 1...Rh2 2.Re8 Kf3 
+
+Puzzle: 1287
+Solution: 1...Qe2 2.Qf6 Qg2+ 3.Kf7 d1Q 
+
+Puzzle: 1288
+Solution: 1...a4 2.Kh4 Ke3 
+
+Puzzle: 1289
+Solution: 1.g4 Kf6 2.Kf4 h3 3.Kg3 g5 4.Kxh3 Ke5 5.Kg3 
+
+Puzzle: 1290
+Solution: 1...Kxh3 2.c4 Kxg4 3.c5 Kf5 4.c6 Ke6 5.c7 Kd7 6.c8Q+ Kxc8 
+
+Puzzle: 1291
+Solution: 1.Rf2+ Kg4 2.Rf6 Rxe7+ 3.Kxe7 
+
+Puzzle: 1292
+Solution: 1.g6+ Kf8 2.f6 Rf7 3.gxf7 
+
+Puzzle: 1293
+Solution: 1...Kd2 2.Nb5 c2 
+
+Puzzle: 1294
+Solution: 1.Kxb5 e5 2.Kc4 e4 3.Kc3 Kf4 4.Kd2 Kf3 5.Ke1 
+
+Puzzle: 1295
+Solution: 1...Ne4 2.c4 Nf2 3.Bb8 g2 4.Bh2 Ng4 5.Bg1 Ke2 6.c5 Kf1 7.Bd4 Nf2 
+
+Puzzle: 1296
+Solution: 1.Ke6 Nf5 2.h5+ Kxg5 3.f7 
+
+Puzzle: 1297
+Solution: 1...Kf4 2.c5 Ke5 3.c6 Kd6 4.c7 Kxc7 
+
+Puzzle: 1298
+Solution: 1.h4 g5 2.hxg5 h4 3.Ke4 h3 4.Kf3 h2 5.Kg2 h1R 6.Kxh1 
+
+Puzzle: 1299
+Solution: 1.Kg7 Ke4 2.h6 
+
+Puzzle: 1300
+Solution: 1.c5 Rd3+ 2.Ke6 
+
+Puzzle: 1301
+Solution: 1...Kf6 2.Kh7 Rg3 3.Rc2 Rh3+ 4.Kg8 Kxg6 
+
+Puzzle: 1302
+Solution: 1...Re2 2.Kd7 Rxe5 3.Rxe5 a1Q 
+
+Puzzle: 1303
+Solution: 1...Kf3 2.h4 f4 3.gxf4 g4 4.f5 g3 5.f6 g2 6.f7 g1Q+ 
+
+Puzzle: 1304
+Solution: 1.Kd7 Kxc4 2.b6 Kc5 3.Kc7 Bd5 4.e6 Bxe6 5.b7 
+
+Puzzle: 1305
+Solution: 1.g6 Kh6 2.Kf7 Kg5 3.g7 
+
+Puzzle: 1306
+Solution: 1...Nf4+ 2.Kf3 Nxh5 3.Kg4 Ng7 4.h5 Ne6 
+
+Puzzle: 1307
+Solution: 1...d2 2.h8Q d1Q+ 3.Kf4 Qd2+ 
+
+Puzzle: 1308
+Solution: 1...Kc4 2.a5 a6 3.b5 Kxb5 
+
+Puzzle: 1309
+Solution: 1.f5+ g3 2.fxg6 Bc3 3.Kf3 Kh3 4.Bxg3 
+
+Puzzle: 1310
+Solution: 1.a5 Ke5 2.Kb6 
+
+Puzzle: 1311
+Solution: 1...e4 2.Kb3 Kd4 3.c5 Kxc5 4.Kc3 Kd5 
+
+Puzzle: 1312
+Solution: 1...a5 2.Kf2 Kc5 3.Ke2 Kxc4 
+
+Puzzle: 1313
+Solution: 1...Kf5 2.Kh4 Rg4+ 3.Kh3 Ra4 
+
+Puzzle: 1314
+Solution: 1...Re6 2.g7 Rh6+ 3.Kg3 Rg6+ 
+
+Puzzle: 1315
+Solution: 1.gxh6 Kxh7 2.Kh5 a3 3.Ng5+ Kg8 4.Kg6 a2 5.h7+ 
+
+Puzzle: 1316
+Solution: 1.h4 Nf3+ 2.Kg4 
+
+Puzzle: 1317
+Solution: 1...Kf2 2.g3 Kg2 3.Ke2 h4 
+
+Puzzle: 1318
+Solution: 1.Rc4 b3 2.Rb4 b2 3.Rxb2 
+
+Puzzle: 1319
+Solution: 1...c3 2.Bb3 Ke3 3.Bc2 f4 
+
+Puzzle: 1320
+Solution: 1...Rc5 2.Kd6 c2 3.e5+ Kf5 
+
+Puzzle: 1321
+Solution: 1.Rxh6 Rd8+ 2.Kc6 
+
+Puzzle: 1322
+Solution: 1...Rh1+ 2.Kg7 b1Q 3.Rxb1 Rxb1 4.g5 Rb5 
+
+Puzzle: 1323
+Solution: 1.a7 Kf2 2.a8Q h2 3.Kd4 
+
+Puzzle: 1324
+Solution: 1.Rxf7+ Kc8 2.Kf5 Rh6 3.Rf6 Rh5+ 4.Ke6 
+
+Puzzle: 1325
+Solution: 1.a5 g4 2.Kd3 g3 3.Ke2 
+
+Puzzle: 1326
+Solution: 1.Bxf4 c5 2.Be3 Ke4 3.Ke6 
+
+Puzzle: 1327
+Solution: 1...Ke7 2.Kh5 Kf7 3.Kh6 Kg8 
+
+Puzzle: 1328
+Solution: 1...Kd3 2.Rd6+ Kc2 
+
+Puzzle: 1329
+Solution: 1...Ke3 2.c4 Kd4 
+
+Puzzle: 1330
+Solution: 1...f3 2.Ke1 Kg2 3.Rf4 g3 4.Rf7 f2+ 
+
+Puzzle: 1331
+Solution: 1.Nxf4+ Kf5 2.Nh3 
+
+Puzzle: 1332
+Solution: 1...Rb5 2.Kc3 e3 3.Kc4 Rb1 4.Ra7 Rxb6 
+
+Puzzle: 1333
+Solution: 1...e4+ 2.Kg2 f4 3.Ne8 f3+ 4.Kg3 h5 5.Nc7 h4+ 6.Kf2 h3 
+
+Puzzle: 1334
+Solution: 1.Kxg6 Ke7 2.Kf5 a5 3.bxa5 
+
+Puzzle: 1335
+Solution: 1...h4 2.Kd4 Kg2 3.Nf5 h3 
+
+Puzzle: 1336
+Solution: 1.Rh6 Ra3 2.Rh8 
+
+Puzzle: 1337
+Solution: 1.h6 Kd5 2.f5 
+
+Puzzle: 1338
+Solution: 1.Kg3 g4 2.h4 Ke5 3.Kxg4 
+
+Puzzle: 1339
+Solution: 1...g4 2.Kc5 Kg5 3.Kd4 Kf4 
+
+Puzzle: 1340
+Solution: 1.Kg4 Ke4 2.Kg5 
+
+Puzzle: 1341
+Solution: 1.Kf6 b5 2.g6 bxa4 3.g7 
+
+Puzzle: 1342
+Solution: 1...Kxa3 2.h4 Kb4 3.h5 Kc5 4.h6 Rd8 5.Kf4 Kd6 6.Kf5 Ke7 
+
+Puzzle: 1343
+Solution: 1.Rb4+ Kg3 2.c7 Rc6+ 3.Rc4 Rxc7 4.Rxc7 
+
+Puzzle: 1344
+Solution: 1...Kb6 2.Kc4 Kc6 
+
+Puzzle: 1345
+Solution: 1.Qe8+ Kb4 2.Qf8+ Qc5 3.Kh8 b2 4.g8Q Qxf8 5.Qxf8+ 
+
+Puzzle: 1346
+Solution: 1...Ke4 2.Kd2 Kf3 3.Ke1 Kg2 
+
+Puzzle: 1347
+Solution: 1...Rf5 2.Rf1 Kg4 3.Ke6 Rxf4 
+
+Puzzle: 1348
+Solution: 1...f4 2.Rxd4 f3 3.Rd7 g5 4.Rxh7 g4 5.Rg7 f2 6.Rxg4 f1Q 
+
+Puzzle: 1349
+Solution: 1.h7 Rg2 2.Bh6 Rh2+ 3.Kg5 
+
+Puzzle: 1350
+Solution: 1.b6 g4 2.Ke2 g3 3.Kf3 Ng1+ 4.Kg2 Ne2 5.b7 Kg4 6.b8Q 
+
+Puzzle: 1351
+Solution: 1.Kxc5 Kc8 2.Kc6 g5 3.Kb5 Kd7 4.Kc5 
+
+Puzzle: 1352
+Solution: 1...h3 2.gxh3 g2 3.f4+ Kh5 4.Kf3 g1Q 
+
+Puzzle: 1353
+Solution: 1...Bg3 2.Kd5 h3 3.Ke6 h2 
+
+Puzzle: 1354
+Solution: 1.Kf5 c4 2.g5 Kd4 3.g6 c3 4.g7 c2 5.g8Q c1Q 6.Qd8+ 
+
+Puzzle: 1355
+Solution: 1...Rxf2+ 2.Kd1 Rf1+ 3.Kd2 Kf4 
+
+Puzzle: 1356
+Solution: 1...g6 2.g5 Kf5 3.e6 fxe6 4.Kg3 Kxg5 
+
+Puzzle: 1357
+Solution: 1...fxe5 2.Kb6 Kd5 3.Rh1 e4 4.Ka5 Kc4 5.Rc1+ Kd3 
+
+Puzzle: 1358
+Solution: 1.Kg4 Kc7 2.h6 Rb8 3.Kh5 Rh8 4.g4 
+
+Puzzle: 1359
+Solution: 1...Rf4+ 2.Kd3 Rxc4 3.Kxc4 g3 4.Kd5 Kd7 5.c8Q+ Kxc8 6.Kd4 g2 
+
+Puzzle: 1360
+Solution: 1...g3 2.Rb3+ Be3 3.Rb1 g2+ 4.Kh2 Kg4 
+
+Puzzle: 1361
+Solution: 1...fxe5 2.Ke4 Kd6 3.Kf5 Kd5 4.Kxg5 e4 5.Kf4 Kd4 6.g5 e3 7.Kf3 Kd3 8.g6 e2 9.Kf2 Kd2 
+
+Puzzle: 1362
+Solution: 1...h4 2.Nf5+ Kg4 
+
+Puzzle: 1363
+Solution: 1...g3 2.Rc8+ Ke7 
+
+Puzzle: 1364
+Solution: 1...Kg6 2.g5 h5 3.Ke4 Kxg5 
+
+Puzzle: 1365
+Solution: 1.Kb1 
+
+Puzzle: 1366
+Solution: 1...h5 2.b4 h4 3.b5 g3 4.hxg3 h3 5.b6 h2 6.b7 h1Q+ 7.Kc7 Qh7+ 
+
+Puzzle: 1367
+Solution: 1.Bd5+ Kf6 2.Bxa2 a5 3.Bb3 
+
+Puzzle: 1368
+Solution: 1...Kb5 2.c4+ Kxa5 3.c5 Ka6 
+
+Puzzle: 1369
+Solution: 1...g4 2.c5 g3 3.Kxa6 g2 4.c6 g1Q 5.c7 Qg8 6.Kb7 Qd5+ 
+
+Puzzle: 1370
+Solution: 1.Kg3 Kxe4 2.h7 
+
+Puzzle: 1371
+Solution: 1...Ke4 2.Re8+ Kd3 
+
+Puzzle: 1372
+Solution: 1.c7 Rd3+ 2.Kc6 Rc3+ 3.Rc5 Rxc5+ 4.Kxc5 h2 5.c8Q+ 
+
+Puzzle: 1373
+Solution: 1.Nc1+ Bxc1 2.Kxc1 a3 3.Kb1 c4 4.e7 
+
+Puzzle: 1374
+Solution: 1...a4 2.Ne6 d3 3.Nf4 a3 4.Nxd3 a2 
+
+Puzzle: 1375
+Solution: 1.Rxa1 c5 2.Kd6 c4 3.Kc5 c3 4.Kb4 
+
+Puzzle: 1376
+Solution: 1.Kd4 e3 2.Kxe3 
+
+Puzzle: 1377
+Solution: 1...c5 2.Kg5 c4 3.Kf4 d4 
+
+Puzzle: 1378
+Solution: 1.b6 Re1 2.Kb4 Rb1+ 3.Kc5 Kxc3 4.a6 
+
+Puzzle: 1379
+Solution: 1.Re7 Rf1 2.Ke6 
+
+Puzzle: 1380
+Solution: 1...Rf3 2.Rg6+ Kf4 
+
+Puzzle: 1381
+Solution: 1.Ke7 Kg6 2.f5+ Kg7 3.Ke8 Kf6 4.Kf8 h5 5.gxh5 Kxf5 6.Kg7 
+
+Puzzle: 1382
+Solution: 1...Rf1+ 2.Kc2 e2 3.Kd2 Rxc1 
+
+Puzzle: 1383
+Solution: 1...g4 2.Rb8 Kh7 
+
+Puzzle: 1384
+Solution: 1.bxa5 Kc3 2.a6 Nb5 3.a4 Na7 4.Kb6 
+
+Puzzle: 1385
+Solution: 1.e5+ Kg7 2.f5 Rg1+ 3.Kf4 
+
+Puzzle: 1386
+Solution: 1...Kxf4 2.f3 g4 3.fxg4 hxg4 4.Ke6 g3 5.Kd5 Ke3 
+
+Puzzle: 1387
+Solution: 1.Nd5+ Ke5 2.a6 Ba4 3.Nb4 c3 4.a7 c2 5.Nd3+ Kd4 6.a8Q 
+
+Puzzle: 1388
+Solution: 1...d2 2.Ra1 Kf4 
+
+Puzzle: 1389
+Solution: 1.f7 Rb8 2.f8Q Rxf8 3.Rxf8 b3 4.Rb8 Ka4 5.Kf5 a5 6.Ke4 Ka3 7.Kd3 
+
+Puzzle: 1390
+Solution: 1.Qd7 Qa8+ 2.Kc7 
+
+Puzzle: 1391
+Solution: 1...f5 2.b5 f4 3.b6 Kc6 4.Ka6 f3 5.b7 f2 6.b8R f1Q+ 
+
+Puzzle: 1392
+Solution: 1...Kxh5 2.Kf5 Kh4 
+
+Puzzle: 1393
+Solution: 1.Kxd5 Kf5 2.Kc4 Ke4 3.a4 g4 4.a5 g3 5.a6 Kf4 6.a7 g2 7.a8Q 
+
+Puzzle: 1394
+Solution: 1...Kg4 2.a7 h3+ 3.Kg1 Kf3 4.Nc7 h2+ 5.Kh1 g2+ 6.Kxh2 Kf2 7.Kh3 g1Q 
+
+Puzzle: 1395
+Solution: 1...h4 2.Ke4 Kxg2 3.f4 g4 4.f5 gxh3 5.f6 h2 
+
+Puzzle: 1396
+Solution: 1...h4 2.Bh5 Kf5 3.Ke2 f3+ 
+
+Puzzle: 1397
+Solution: 1.Ke4 Ke7 2.Kf4 Kd7 3.Kg5 h4 4.Kxh4 
+
+Puzzle: 1398
+Solution: 1.Ra5+ Kd4 2.Rxh5 Kd3 3.Kb2 e3 4.Kc1 e2 5.Rh3+ Kd4 6.Kd2 e1R 7.Kxe1 
+
+Puzzle: 1399
+Solution: 1.Kg1 g2 2.Kh2 g1R 3.Kxg1 Kxh3 4.f5 
+
+Puzzle: 1400
+Solution: 1...Nd6 2.Rxe2 Kxe2 
+
+Puzzle: 1401
+Solution: 1...Nb3+ 2.Kd1 Kb2 
+
+Puzzle: 1402
+Solution: 1.h7 Qb5+ 2.Kf6 Qb6+ 3.Kg7 
+
+Puzzle: 1403
+Solution: 1...Kg2 2.h4 h5 3.Rxf3 Kxf3 
+
+Puzzle: 1404
+Solution: 1.a6 Kc6 2.b5+ Kc7 3.Kc4 
+
+Puzzle: 1405
+Solution: 1...Kh3 2.b7 h1Q 3.Rh8+ Rh4 
+
+Puzzle: 1406
+Solution: 1...Kxh4 2.Nf1 Kh3 3.Ke4 Kg2 
+
+Puzzle: 1407
+Solution: 1...Be3 2.Ra8 Bd4 
+
+Puzzle: 1408
+Solution: 1.Kf6 Kc5 2.Kxf7 Kd5 3.Kf6 Ke4 4.Kg5 
+
+Puzzle: 1409
+Solution: 1...Kd5 2.Na5 Bb6 3.Nb3 Kc4 
+
+Puzzle: 1410
+Solution: 1.a7 Ra1 2.Kxg2 
+
+Puzzle: 1411
+Solution: 1.Re5+ Kd7 2.g7 
+
+Puzzle: 1412
+Solution: 1...Be4+ 2.Kc4 f5 
+
+Puzzle: 1413
+Solution: 1.g7 d1Q 2.g8Q+ Kd7 3.Qh7+ Re7 4.Rd3+ Qxd3 5.Qxd3+ 
+
+Puzzle: 1414
+Solution: 1...Kf7 2.c7 Rxc7 
+
+Puzzle: 1415
+Solution: 1...Kh6 2.Nh3 g5 
+
+Puzzle: 1416
+Solution: 1.h5 Na7 2.Ke5 
+
+Puzzle: 1417
+Solution: 1...Ne4+ 2.Kxb4 Nxg3 3.Kc5 Ke6 
+
+Puzzle: 1418
+Solution: 1.Kxf3 Kf5 2.g4+ Kg6 3.Kf4 
+
+Puzzle: 1419
+Solution: 1...Ra1+ 2.Kc2 f2 3.Kc3 Ra3+ 4.Kb4 Rxa7 5.Rxa7 f1Q 
+
+Puzzle: 1420
+Solution: 1...f6 2.Kh5 Kf3 3.Kg6 Kxf2 4.g4 e4 5.Kxf6 e3 6.g5 e2 7.g6 e1Q 
+
+Puzzle: 1421
+Solution: 1.Kf3 Kc3 2.Kxe3 Rh8 3.g6 a4 4.g7 Rxh7 5.g8Q 
+
+Puzzle: 1422
+Solution: 1...Kxh4 2.Kf3 Kg5 3.Kg3 f4+ 4.Kf3 Kf5 
+
+Puzzle: 1423
+Solution: 1.g5 Rf2 2.g6 Rh2+ 3.Kg7 Kg5 4.Kg8 Kf6 5.g7 
+
+Puzzle: 1424
+Solution: 1...Ra1+ 2.Kh2 e3 3.Rf5+ Ke4 4.Rf7 e2 
+
+Puzzle: 1425
+Solution: 1.gxh5 Kf5 2.h6 
+
+Puzzle: 1426
+Solution: 1...Rg3 2.Rxe2+ Kxe2 3.Ke6 Re3+ 
+
+Puzzle: 1427
+Solution: 1...Kd3 2.g4 b3 3.Rc1 b2 4.Rb1 Kc2 
+
+Puzzle: 1428
+Solution: 1.Kg5 h4 2.Kxh4 Kf6 3.Kh5 Kg7 4.Kg5 
+
+Puzzle: 1429
+Solution: 1...Kg5 2.Ke6 Kh4 3.g5 Kxg5 
+
+Puzzle: 1430
+Solution: 1.Kd4 Bg6 2.a6 Kxg5 3.a7 
+
+Puzzle: 1431
+Solution: 1...a4 2.Kf5 a3 3.Kxe5 a2 4.Rxh2 a1Q+ 
+
+Puzzle: 1432
+Solution: 1.Nxf5+ Kh8 2.Kh6 
+
+Puzzle: 1433
+Solution: 1.h6 Rd1 2.Rc7 
+
+Puzzle: 1434
+Solution: 1...Ra2+ 2.Kf1 g2+ 3.Ke1 Kg3 4.Nd4 Ra1+ 
+
+Puzzle: 1435
+Solution: 1...Kxh3 2.c4 Kg4 3.c5 Kf5 4.c6 Ke6 
+
+Puzzle: 1436
+Solution: 1...Kxf4 2.g5 Kg4 
+
+Puzzle: 1437
+Solution: 1.Ke3 Ke6 2.h5 
+
+Puzzle: 1438
+Solution: 1...f4 2.Kc4 f3 3.Kd3 Kf4 4.Kd2 Kg3 5.Ke1 Kg2 
+
+Puzzle: 1439
+Solution: 1...Ka4 2.Kd4 Kb4 
+
+Puzzle: 1440
+Solution: 1.Kf4 Rh8 2.Rxg4+ Kh5 3.Rg5+ Kh6 4.Rg3 Rf8+ 5.Ke5 Kh5 6.e4 
+
+Puzzle: 1441
+Solution: 1...Kf3 2.Re7 f4 
+
+Puzzle: 1442
+Solution: 1...e4 2.Rh6 e3 
+
+Puzzle: 1443
+Solution: 1.Rxa6+ Rxa6 2.bxa6 Kxa6 3.Ke7 
+
+Puzzle: 1444
+Solution: 1.Ke7 Re1+ 2.Kf7 
+
+Puzzle: 1445
+Solution: 1...Kxc5 2.h5 Kd6 3.Kg6 Ke7 
+
+Puzzle: 1446
+Solution: 1.h7+ Kh8 2.Rf8+ Kg7 3.h8Q+ Kxg6 4.Rg8+ 
+
+Puzzle: 1447
+Solution: 1.Kd2 Qd6+ 2.Qd3 
+
+Puzzle: 1448
+Solution: 1.Rxa1 Rxc7 2.Rf1 Rh7+ 3.Kg5 
+
+Puzzle: 1449
+Solution: 1.f6 e3+ 2.Kd1 c3 3.f7 
+
+Puzzle: 1450
+Solution: 1.Kd5 Ke7 2.Kc6 Kd8 3.Kd6 
+
+Puzzle: 1451
+Solution: 1...Rf3+ 2.Kg4 h1Q 
+
+Puzzle: 1452
+Solution: 1...Kxd4 2.a4 Kc4 3.a5 d4 4.b5 d3 5.b6 d2 6.b7 d1Q 7.b8Q Qd5+ 8.Kc7 Qxa5+ 
+
+Puzzle: 1453
+Solution: 1...Rg2+ 2.Kh3 Rg1 
+
+Puzzle: 1454
+Solution: 1...Rb1 2.Rg8 c2 3.Rd8+ Ke5 
+
+Puzzle: 1455
+Solution: 1...g2 2.Rb1 Rh7+ 3.Kg3 Rh1 
+
+Puzzle: 1456
+Solution: 1.Bf6 Bf4 2.Bd8 
+
+Puzzle: 1457
+Solution: 1.Rg5+ Ke4 2.Rxg4 Rxg4+ 3.Kxg4 Ke5 4.Kg5 Ke6 5.Kg6 
+
+Puzzle: 1458
+Solution: 1.Re4 Rxe4 2.Kxe4 Kg5 3.Ke5 
+
+Puzzle: 1459
+Solution: 1.axb3 Kc5 2.Ke4 
+
+Puzzle: 1460
+Solution: 1...Kg2 2.Kd4 Kxh2 3.Rc2+ Kg3 
+
+Puzzle: 1461
+Solution: 1.h4 Nb4 2.h5 Nd3+ 3.Kf6 gxh5 4.g6 
+
+Puzzle: 1462
+Solution: 1...Kxb3 2.Kf6 Kb4 
+
+Puzzle: 1463
+Solution: 1.Ke8 Rg2 2.Rh6+ 
+
+Puzzle: 1464
+Solution: 1.Kg5 Rf8 2.f6+ Kh8 3.g7+ 
+
+Puzzle: 1465
+Solution: 1...Kd4 2.Bc6 c4 
+
+Puzzle: 1466
+Solution: 1.Kc4 f5 2.Kd3 f4 3.Ke2 
+
+Puzzle: 1467
+Solution: 1.Rh5 Rg6 2.Ke5 
+
+Puzzle: 1468
+Solution: 1.Ke3 Kb6 2.Kf4 d5 3.cxd5 Kc5 4.b6 Kxb6 5.Kxf5 Kc7 6.Ke6 Kd8 7.Kd6 
+
+Puzzle: 1469
+Solution: 1...e4 2.h5 Ke6 3.h6 Kf7 4.Kxf5 e3 
+
+Puzzle: 1470
+Solution: 1.Kf2 Kd4 2.g7 
+
+Puzzle: 1471
+Solution: 1.Kg5 Kc2 2.f6 
+
+Puzzle: 1472
+Solution: 1...Rc2 2.Kg2 Rc1 3.Be3 Kxe3 
+
+Puzzle: 1473
+Solution: 1...c4 2.bxc4 bxc4 3.Kf2 Kd3 
+
+Puzzle: 1474
+Solution: 1...b4 2.axb4 a4 3.e4+ Kc6 4.e5 a3 5.b5+ Kxb5 6.e6 Kc6 7.e7 Kd7 8.e8Q+ Kxe8 
+
+Puzzle: 1475
+Solution: 1...Kh7 2.Kf7 Kh6 3.Nh1 Kg5 
+
+Puzzle: 1476
+Solution: 1...Bh4 2.Rg6+ Bg5 
+
+Puzzle: 1477
+Solution: 1.Rxg7 Kf8 2.Rd7 Rb8 3.Kf6 
+
+Puzzle: 1478
+Solution: 1...b5 2.Ke5 Kc5 3.Ke4 Kc4 
+
+Puzzle: 1479
+Solution: 1...hxg5 2.Ke2 Kh5 3.Kf2 Kh4 4.Kg2 Kg4 
+
+Puzzle: 1480
+Solution: 1...Qh3+ 2.Kg5 a2 3.Qe5 Qg2+ 
+
+Puzzle: 1481
+Solution: 1...Rxh5 2.f7 Rh8 3.h4 b5 4.Ke7 b4 5.h5 b3 6.f8Q Rxf8 7.Kxf8 b2 8.h6 b1Q 
+
+Puzzle: 1482
+Solution: 1.Nc7+ Kd7 2.Nxb5 a4 3.Kd5 h5 4.Na3 h4 5.Nc4 h3 6.Ne5+ 
+
+Puzzle: 1483
+Solution: 1.Ke6 h5 2.Ke7 h4 3.gxh4 
+
+Puzzle: 1484
+Solution: 1.h4 gxh4 2.g5+ Kh7 3.Kf7 h3 4.g6+ Kh6 5.g7 
+
+Puzzle: 1485
+Solution: 1...g3 2.Rh8 g2 3.Rxh3 g1Q 
+
+Puzzle: 1486
+Solution: 1.f4 Rd2+ 2.Kg3 Rd3+ 3.Kh4 Kf5 4.Rxe5+ 
+
+Puzzle: 1487
+Solution: 1...e4+ 2.Kc3 Ke5 
+
+Puzzle: 1488
+Solution: 1.hxg4+ Kg6 2.f5+ Kf7 3.Ke3 
+
+Puzzle: 1489
+Solution: 1.h6 Kf8 2.Kf6 Kg8 3.h7+ Kh8 4.g7+ Kxh7 5.Kf7 Bh5+ 6.Kf8 Kg6 7.g8Q+ 
+
+Puzzle: 1490
+Solution: 1.b5 Bd5 2.Ka7 
+
+Puzzle: 1491
+Solution: 1.Kd3 Bg7 2.g5 Ke6 3.Ke4 
+
+Puzzle: 1492
+Solution: 1.Re7 Kf8 2.Rh7 
+
+Puzzle: 1493
+Solution: 1.Kf5 c5 2.g5 c4 3.g6 c3 4.g7 c2 5.g8Q c1Q 6.Qd8+ 
+
+Puzzle: 1494
+Solution: 1.Kd5 g5 2.hxg5 h4 3.Ke4 h3 4.Kf3 h2 5.Kg2 h1Q+ 6.Kxh1 Ke6 7.g6 
+
+Puzzle: 1495
+Solution: 1...Rxf2+ 2.Kg3 Ke2 3.h5 Ke3 
+
+Puzzle: 1496
+Solution: 1...d2 2.Rf1 Re1 3.Rf3+ Kd4 
+
+Puzzle: 1497
+Solution: 1.Kg3 Kf6 2.Kh4 g5+ 3.Kh5 Kf7 4.Kxg5 
+
+Puzzle: 1498
+Solution: 1.f5 Kg5 2.Ke6 h4 3.f6 h3 4.fxg7 h2 5.g8Q h1Q 6.Qd8+ 
+
+Puzzle: 1499
+Solution: 1...g5 2.Kd3 Kf3 3.Kd2 g4 
+
+Puzzle: 1500
+Solution: 1...h4 2.Kg4 Kxe5 3.Kxh4 Kf4 4.Kh3 Kxf3 5.Kh4 Kf4 
+
+Puzzle: 1501
+Solution: 1.Rb8 Qc5+ 2.Ka8 Qc4 3.Rb7+ Kc6 4.h8Q Qxa6+ 5.Ra7 
+
+Puzzle: 1502
+Solution: 1.Kf7 Nd6+ 2.Kg6 Ne4 3.h6 
+
+Puzzle: 1503
+Solution: 1...f2 2.Ra4 f1Q 3.Rxg4+ Kh5 
+
+Puzzle: 1504
+Solution: 1.Kh3 Ra2 2.e7 Ra8 3.Rf1+ Kg5 4.Rf8 
+
+Puzzle: 1505
+Solution: 1.Ke8 Rf3 2.Re2+ 
+
+Puzzle: 1506
+Solution: 1.Kg6 Qc6+ 2.Bf6 Qc7 3.Rd8+ Qxd8 4.Bxd8 
+
+Puzzle: 1507
+Solution: 1.gxh5 f5 2.Kxg7 f4 3.h6 f3 4.h7 f2 5.h8Q f1Q 6.Qf8+ Qxf8+ 7.Kxf8 
+
+Puzzle: 1508
+Solution: 1...Kxg4 2.Ke5 h5 3.Ke6 Kxf4 
+
+Puzzle: 1509
+Solution: 1...Ra6+ 2.Kf5 Ra5+ 
+
+Puzzle: 1510
+Solution: 1...f4 2.g5 Kf3 3.Re8 Kg3 
+
+Puzzle: 1511
+Solution: 1...a4 2.Kg4 a3 3.Nc1 Ke4 
+
+Puzzle: 1512
+Solution: 1.b7 Rb1 2.Nd6 
+
+Puzzle: 1513
+Solution: 1.Rg8 Qd4 2.Rf8+ Kxg4 3.h8Q 
+
+Puzzle: 1514
+Solution: 1...h3 2.Ne2+ Kg4 3.Ka2 h2 
+
+Puzzle: 1515
+Solution: 1...g2 2.Ra1 Rf7+ 3.Kg3 Rf1 4.Kxg2 Rxa1 
+
+Puzzle: 1516
+Solution: 1...Qd7+ 2.Kg6 Qg4+ 
+
+Puzzle: 1517
+Solution: 1.Re2 Rb1 2.Rxh2 
+
+Puzzle: 1518
+Solution: 1...g2 2.Rh6 Kg3 3.Rxh4 Kxh4 4.Kxg2 Kg4 
+
+Puzzle: 1519
+Solution: 1.a4 c4 2.Kxc4 Ke6 3.Kb4 Ke7 4.a5 
+
+Puzzle: 1520
+Solution: 1.b5 Ke4 2.h5 
+
+Puzzle: 1521
+Solution: 1...Kd5 2.Kb6 c5 3.Kb5 c4 4.Kb4 Kd4 
+
+Puzzle: 1522
+Solution: 1...h5 2.Kd5 hxg4 3.Ke4 Ke6 
+
+Puzzle: 1523
+Solution: 1.f4 Kc6 2.Ke5 Kd7 3.Kf6 
+
+Puzzle: 1524
+Solution: 1...Kg4 2.Kh1 Rh2+ 
+
+Puzzle: 1525
+Solution: 1...Re3+ 2.Rxe3 Kxe3 3.a4 Kd4 4.a5 Kd5 5.a6 Kc6 6.a7 Kb7 7.a8Q+ Kxa8 
+
+Puzzle: 1526
+Solution: 1...Kf5 2.Ke3 Kg4 3.Ke4 f6 
+
+Puzzle: 1527
+Solution: 1.d5 Ke5 2.a5 a6 3.Kc4 
+
+Puzzle: 1528
+Solution: 1.Kf3 Kf5 2.Kxg3 Ke4 3.Kh3 
+
+Puzzle: 1529
+Solution: 1...Nd1 2.Rh4 Kd3 
+
+Puzzle: 1530
+Solution: 1...Rg1+ 2.Kf4 Rg4+ 3.Kxg4 d1Q 4.Qe4 Kf2+ 
+
+Puzzle: 1531
+Solution: 1...g2 2.Rxg2 Kxg2 3.Ka6 Kf3 4.b5 Ke4 5.b6 Kd5 
+
+Puzzle: 1532
+Solution: 1.Ke4 Bf2 2.g4 
+
+Puzzle: 1533
+Solution: 1...Kxh3 2.Kf3 h5 3.Kf2 Kh2 
+
+Puzzle: 1534
+Solution: 1.gxf5 Rg4+ 2.Ke3 
+
+Puzzle: 1535
+Solution: 1.bxc5 Kb7 2.Nb4 h5 3.Kf2 
+
+Puzzle: 1536
+Solution: 1.d6 Be8 2.Ke6 h4 3.Ke7 h3 4.d7 Bxd7 5.f7 h2 6.f8Q 
+
+Puzzle: 1537
+Solution: 1.Kf8 a2 2.Ra7 a1R 3.Rxa1 
+
+Puzzle: 1538
+Solution: 1.Qg4+ Ka5 2.g7 
+
+Puzzle: 1539
+Solution: 1.h6 Kg4 2.Kf6 Kh5 3.Kg7 Kg5 4.Kxh7 Kf6 5.Kg8 
+
+Puzzle: 1540
+Solution: 1.Kf6 Ke4 2.Bg6 Rb3 3.h6 
+
+Puzzle: 1541
+Solution: 1.d5 a4 2.d6 a3 3.d7 a2 4.d8Q a1Q 5.Qe7+ Kg6 6.Qf6+ Qxf6+ 7.gxf6 
+
+Puzzle: 1542
+Solution: 1.b4 g5 2.b5 g4 3.b6 g3 4.b7 g2 5.b8Q g1Q 6.Qf4+ 
+
+Puzzle: 1543
+Solution: 1.b6+ Kc8 2.Kd6 
+
+Puzzle: 1544
+Solution: 1...h5 2.a5 Kd7 3.Kb6 Kc8 4.a6 Kb8 5.a7+ Ka8 
+
+Puzzle: 1545
+Solution: 1.g7 Rg2 2.Ra5 Kc4 3.Rxa3 
+
+Puzzle: 1546
+Solution: 1...b4 2.a3 bxa3 3.b4 a2 4.Kb2 Kxd3 5.Kxa2 Kc2 
+
+Puzzle: 1547
+Solution: 1.Kh7 Rg6 2.Rd7+ Kf6 3.Rd6+ 
+
+Puzzle: 1548
+Solution: 1...Kb4 2.Bd4 Ka3 3.Kd3 Ka2 
+
+Puzzle: 1549
+Solution: 1.g6 Ra2+ 2.Kd1 Rd2+ 3.Kc1 
+
+Puzzle: 1550
+Solution: 1.Rd5 Rxa7 2.Kxa7 
+
+Puzzle: 1551
+Solution: 1.Kxg4 Ke5 2.Kg5 Bf2 3.h5 
+
+Puzzle: 1552
+Solution: 1...h3 2.Ne2 Kh1 3.Kc3 h2 
+
+Puzzle: 1553
+Solution: 1.Kg5 Rg1+ 2.Kf5 Kd8 3.g7 
+
+Puzzle: 1554
+Solution: 1.b5 Nd3+ 2.Kd4 
+
+Puzzle: 1555
+Solution: 1...d3 2.Bg4 Kf4 3.Bh5 Kg3 
+
+Puzzle: 1556
+Solution: 1.Rd1+ Kb2 2.Rxa1 Kxa1 3.a8Q+ Kb1 4.Qh1+ Kb2 5.Qh8 
+
+Puzzle: 1557
+Solution: 1.Rg6+ Kh4 2.Rf6 Rxf6 3.Kxf6 Kg3 4.f8Q 
+
+Puzzle: 1558
+Solution: 1...Kd4 2.h4 Kd3 3.h5 e3 4.h6 e2 5.h7 e1Q 
+
+Puzzle: 1559
+Solution: 1.Kd6 Kc8 2.Kxc5 Nf4 3.Kc6 
+
+Puzzle: 1560
+Solution: 1...Rh3+ 2.Kg5 Ra3 3.Rxa3 Kxa3 4.Kh6 a1Q 
+
+Puzzle: 1561
+Solution: 1...Kc3 2.Kf5 Kxb4 3.Ke5 a5 4.Kd4 a4 
+
+Puzzle: 1562
+Solution: 1.Kb8 Rb2+ 2.Ka8 Rc2 3.Rxc2 
+
+Puzzle: 1563
+Solution: 1...Kf3 2.Kh1 h2 3.Nd5 g2+ 4.Kxh2 Kf2 
+
+Puzzle: 1564
+Solution: 1.f5 b3 2.f6 b2 3.Kc2 Ka3 4.Kb1 
+
+Puzzle: 1565
+Solution: 1...Kd3+ 2.Kf3 Rxa4 
+
+Puzzle: 1566
+Solution: 1.Kf4 Na6 2.h4 Nc5 3.Kg4 Kxa5 4.Kh5 Kb5 5.Kxh6 
+
+Puzzle: 1567
+Solution: 1.a4 a5 2.Kxg5 Ka3 3.f4 
+
+Puzzle: 1568
+Solution: 1...Nd5 2.Kf5 Ne7+ 3.Ke5 Nxg8 
+
+Puzzle: 1569
+Solution: 1.e4 Nf3 2.g4 Ne5+ 3.Kf5 
+
+Puzzle: 1570
+Solution: 1.Ke2 c1Q 2.Rxc1 Rg6 3.Rc7 
+
+Puzzle: 1571
+Solution: 1.h4+ Kf5 2.Kf7 Ke5 3.Kg6 f5 4.Kxh5 Kf6 5.Kh6 f4 6.gxf4 
+
+Puzzle: 1572
+Solution: 1...Kxe8 2.Ke5 g4 
+
+Puzzle: 1573
+Solution: 1.Kf6 e5 2.h5 
+
+Puzzle: 1574
+Solution: 1...Re1 2.g3+ Kf3 3.Rh5 Re2+ 
+
+Puzzle: 1575
+Solution: 1.Kf8 f5 2.h5 gxh5 3.g6 h4 4.g7 
+
+Puzzle: 1576
+Solution: 1.b3 Kd2 2.Be4 Kc3 3.Bd5 
+
+Puzzle: 1577
+Solution: 1.Kc5 Rc3+ 2.Bc4 
+
+Puzzle: 1578
+Solution: 1...Rxc7+ 2.Kxc7 a5 3.Kd8 a4 4.Ke7 a3 5.h7 Kg7 6.h8Q+ Kxh8 
+
+Puzzle: 1579
+Solution: 1...e4 2.Rf6+ Kxg3 3.Rg6+ Kf3 
+
+Puzzle: 1580
+Solution: 1...Ke4 2.Kd2 Kf3 
+
+Puzzle: 1581
+Solution: 1...Rg4 2.Rd1 Kh4 3.Rh1+ Kg3 
+
+Puzzle: 1582
+Solution: 1...Kg6 2.Kf2 Kf5 3.Kf3 Kxe5 4.Kg4 Kf6 5.h4 gxh4 
+
+Puzzle: 1583
+Solution: 1...c3 2.Bf7+ Nc4 3.Kd3 a1Q 4.Bxc4+ Kb4 
+
+Puzzle: 1584
+Solution: 1.c7 Qh1+ 2.Qf3 
+
+Puzzle: 1585
+Solution: 1.g4 Kd5 2.g5 Ke5 3.Kh7 Bd8 4.g6 Bxh4 5.g7 
+
+Puzzle: 1586
+Solution: 1.e6 fxe6 2.Ke5 Kg5 3.Kxe6 
+
+Puzzle: 1587
+Solution: 1...Kg4 2.Nc3 h2 3.Ne4 Kf3 
+
+Puzzle: 1588
+Solution: 1.Rxe4 g2 2.Re1 g1Q 3.Rxg1 
+
+Puzzle: 1589
+Solution: 1.f5 Ke4 2.f6 Bb3 3.Kg6 Kf3 4.Kxh5 
+
+Puzzle: 1590
+Solution: 1.Kd3 f4 2.Kxc3 
+
+Puzzle: 1591
+Solution: 1.Kd5 Bf2 2.f4 
+
+Puzzle: 1592
+Solution: 1...h4 2.a5 Kd5 3.a6 Kc6 4.a7 Kb7 
+
+Puzzle: 1593
+Solution: 1...Rg5 2.Rf8+ Ke3 
+
+Puzzle: 1594
+Solution: 1...Kxc7 2.h5 Bd1 3.Kf5 Bxh5 
+
+Puzzle: 1595
+Solution: 1...g2+ 2.Kf2 Kg4 3.Bc2 Kh3 
+
+Puzzle: 1596
+Solution: 1.Ka6 Nc6 2.Kb7 
+
+Puzzle: 1597
+Solution: 1.Bd4 g6+ 2.Ke6 Kg8 3.Kf6 
+
+Puzzle: 1598
+Solution: 1.g5 Rf2 2.g6 
+
+Puzzle: 1599
+Solution: 1.c6 Rb6 2.Kd7 Rb1 3.c7 
+
+Puzzle: 1600
+Solution: 1...Ke4 2.Bc3 f4 3.Bxa5 f3 4.Be1 c3 5.Bf2 Kd3 
+
+Puzzle: 1601
+Solution: 1.Kg6 Nc7 2.Kxh6 Kf7 3.Kg5 
+
+Puzzle: 1602
+Solution: 1.Kg8 Ke8 2.g7 
+
+Puzzle: 1603
+Solution: 1...Kh4 2.Kb4 Kxg5 3.Kc4 Kh4 4.Kd3 Kxh3 
+
+Puzzle: 1604
+Solution: 1...Kd4 2.g4 hxg4 3.h5 Ke5 4.Ke3 g3 5.h6 Kf6 6.h7 Kg7 7.h8Q+ Kxh8 
+
+Puzzle: 1605
+Solution: 1...Bb3 2.Ra7 Kb4 
+
+Puzzle: 1606
+Solution: 1.Kd6 Rxa6 2.Kd7 Rxb6 3.c7+ Ka7 4.c8Q 
+
+Puzzle: 1607
+Solution: 1...a4 2.Ka6 Kb4 3.Kb6 a3 4.Ka6 Kc3 5.Kxb5 Kb2 6.Kc4 Kxa2 7.Kc3 Kb1 
+
+Puzzle: 1608
+Solution: 1.e6 Qb6+ 2.Qb4+ Qxb4+ 3.Kxb4 f3 4.e7 f2 5.e8Q+ 
+
+Puzzle: 1609
+Solution: 1...c3 2.Nd3+ Kc2 3.Ne5 Kb3 
+
+Puzzle: 1610
+Solution: 1.Kc4 Kd2 2.a5 
+
+Puzzle: 1611
+Solution: 1...Rd5+ 2.Kc1 c3 3.Re2 Ra5 
+
+Puzzle: 1612
+Solution: 1.Rf3+ Kh2 2.e6 Rg1+ 3.Ke2 
+
+Puzzle: 1613
+Solution: 1.Kxc7 g5 2.Rh1 Kf7 3.Kd6 
+
+Puzzle: 1614
+Solution: 1...Kh6 2.e5 Kxh5 
+
+Puzzle: 1615
+Solution: 1...Kb5 2.Ra7 Rxg6 3.Ke3 Rd6 4.Ra1 c4 
+
+Puzzle: 1616
+Solution: 1.Bxc6 Bc4 2.Bd5+ Kf6 3.Bxc4 
+
+Puzzle: 1617
+Solution: 1.Bd7 Kf6 2.a6 
+
+Puzzle: 1618
+Solution: 1.Rc4+ Kd6 2.Rc2 
+
+Puzzle: 1619
+Solution: 1.Nc4+ Kd3 2.a6 Kxc4 3.a7 
+
+Puzzle: 1620
+Solution: 1...Rg1 2.Re8 Rg4 
+
+Puzzle: 1621
+Solution: 1.Kxc1 Kd4 2.h5 Ke5 3.Kc2 Kf6 4.Kxc3 
+
+Puzzle: 1622
+Solution: 1.fxe3 Ra8 2.Kg6 
+
+Puzzle: 1623
+Solution: 1...Ke4 2.Kf1 Kf3 3.Kg1 Ke2 4.Kg2 Ke1 5.Kf3 Kf1 6.h4 gxh4 7.Kxf4 Kg2 
+
+Puzzle: 1624
+Solution: 1.Kd6 Rf1 2.Ke7 a4 3.Rg2 
+
+Puzzle: 1625
+Solution: 1.Ke4 Kd6 2.Kf5 Ke7 3.d6+ Kf8 4.Ke6 
+
+Puzzle: 1626
+Solution: 1...a4 2.c5 a3 3.c6 a2 4.Bc4+ Kb4 5.Bxa2 g2 6.c7 g1Q+ 
+
+Puzzle: 1627
+Solution: 1.Ke7 Bb5 2.g5 Bc4 3.g6 
+
+Puzzle: 1628
+Solution: 1.Rh8+ Ke7 2.c6 Rb2+ 3.Kc7 
+
+Puzzle: 1629
+Solution: 1...Kg3 2.Kf1 Kh2 3.Kf2 Kh1 4.Kg3 Kg1 5.Kf4 Kxg2 
+
+Puzzle: 1630
+Solution: 1.Ne5 d3 2.h7 d2 3.h8Q 
+
+Puzzle: 1631
+Solution: 1...Kxf6 2.Kg3 Ke5 
+
+Puzzle: 1632
+Solution: 1.Kf5 Nb6 2.g7 
+
+Puzzle: 1633
+Solution: 1...c3 2.Re3 c2 
+
+Puzzle: 1634
+Solution: 1.a6 f5+ 2.Kh3 
+
+Puzzle: 1635
+Solution: 1...Rc6 2.g7 Rg6+ 3.Kf1 Rxg7 
+
+Puzzle: 1636
+Solution: 1.Kg4 Rf1 2.Kxg5 Rg1+ 3.Kf6 
+
+Puzzle: 1637
+Solution: 1.f3 Kg6 2.Kd4 Kf6 3.Kd5 f4 4.g4 
+
+Puzzle: 1638
+Solution: 1.Kxb6 d5 2.cxd5+ Kd6 3.a5 c4 4.a6 c3 5.a7 c2 6.a8Q c1Q 7.Qc6+ Qxc6+ 8.dxc6 
+
+Puzzle: 1639
+Solution: 1...cxb3+ 2.Kc1 Rxd2 3.Kxd2 Kc4 4.Kd1 Kd3 5.Kc1 Kxc3 
+
+Puzzle: 1640
+Solution: 1...Kxg4 2.h5 Rd5 3.Rf6 Rxh5 
+
+Puzzle: 1641
+Solution: 1.Kf7 Re1 2.f5 
+
+Puzzle: 1642
+Solution: 1...Re4+ 2.Kf3 Rxh4 3.Rc6+ Kd3 
+
+Puzzle: 1643
+Solution: 1.a6+ Ka8 2.b6 Bd3 3.a7 Kb7 4.Kxd5 
+
+Puzzle: 1644
+Solution: 1.e4 a5 2.e5 a4 3.e6 a3 4.e7 a2 5.e8Q 
+
+Puzzle: 1645
+Solution: 1...Kxf3 2.b4 a4 3.b5 a3 4.b6 a2 5.b7 a1Q 6.b8Q Qxc3 
+
+Puzzle: 1646
+Solution: 1.Ra1 Kb8 2.Rb1+ 
+
+Puzzle: 1647
+Solution: 1.g4 Kc5 2.Kxe7 
+
+Puzzle: 1648
+Solution: 1...Bc3 2.Bc1 Bd2 3.Bb2 Kc4 4.g5 Kb3 
+
+Puzzle: 1649
+Solution: 1.Bxd8 Kxg6 2.Bb6 Nf4 3.Kc6 Kf5 4.Be3 
+
+Puzzle: 1650
+Solution: 1...Kg5 2.Ke2 Kxg4 3.Kf2 Kh3 
+
+Puzzle: 1651
+Solution: 1...d4 2.Ke5 d3 3.Rd6 Be2 
+
+Puzzle: 1652
+Solution: 1.Re7+ Kf6 2.Re8 Rh1 3.d7 
+
+Puzzle: 1653
+Solution: 1.e7 Rd7 2.Rf3 Kc5 3.Rxb3 
+
+Puzzle: 1654
+Solution: 1.Ke6 Kg6 2.Rg8+ 
+
+Puzzle: 1655
+Solution: 1.Qa3+ Kb6 2.Qd6+ Qxd6+ 3.exd6 
+
+Puzzle: 1656
+Solution: 1...Kb5 2.Ke3 Kc4 3.Kd2 Kb3 
+
+Puzzle: 1657
+Solution: 1.Kb5 Ra2 2.a6 
+
+Puzzle: 1658
+Solution: 1...e4 2.Kg4 Ke5 3.Kh3 Kd4 
+
+Puzzle: 1659
+Solution: 1.Kxe4 Kg5 2.Ke5 Kg6 3.Ke6 
+
+Puzzle: 1660
+Solution: 1.g6 Rxf6 2.h5 Re6 3.g7 
+
+Puzzle: 1661
+Solution: 1.Nc6 Bc2 2.Kf7 
+
+Puzzle: 1662
+Solution: 1.Kd5 Ke7 2.Ke5 h5 3.Kf5 
+
+Puzzle: 1663
+Solution: 1...Kxe4 2.Kb4 g5 3.a4 g4 4.a5 Kd5 5.Kb5 Kd6 
+
+Puzzle: 1664
+Solution: 1...g4 2.Bc6 Kh2 3.Bd7 g3 
+
+Puzzle: 1665
+Solution: 1.Kxe2 Kb3 2.Rb1+ 
+
+Puzzle: 1666
+Solution: 1.Rxa3+ Kd2 2.Ra2+ Kd1 3.Ra1+ Kc2 4.Kxf2 
+
+Puzzle: 1667
+Solution: 1.Kxa4 Nf3 2.Kb5 Kg4 3.a4 
+
+Puzzle: 1668
+Solution: 1...Re4 2.g7 Rg4 3.Ra8 Rxg7 4.Ra1 Rg4 
+
+Puzzle: 1669
+Solution: 1...Kxb4 2.Be1+ Ka4 
+
+Puzzle: 1670
+Solution: 1.Rd7 g3 2.Kc7 Rxd7+ 3.cxd7 Ke4 4.d8Q 
+
+Puzzle: 1671
+Solution: 1.exf6+ Kf7 2.Kh6 Kxf6 3.g5+ Kf7 4.Kh7 a4 5.g6+ 
+
+Puzzle: 1672
+Solution: 1.Ke5 Kc5 2.Ke6 Be3 3.h7 
+
+Puzzle: 1673
+Solution: 1...Kxf4 2.Kc5 Kg4 3.Kd6 Kxh4 4.f4 Kg4 5.Ke5 h4 6.f5 h3 7.f6 h2 8.f7 h1Q 9.f8Q Qd5+ 
+
+Puzzle: 1674
+Solution: 1.Kd7 Kc4 2.Qe6+ Kxc3 3.Qxa2 
+
+Puzzle: 1675
+Solution: 1...Kxb6 2.Kf4 a4 3.Kf5 a3 4.h7 Bf6 5.Kxf6 a2 6.Kf7 a1Q 
+
+Puzzle: 1676
+Solution: 1...b5 2.Ke3 h5 3.Ng3 h4 
+
+Puzzle: 1677
+Solution: 1...h3 2.Bg1 Kxf4 3.Bh2+ Ke4 
+
+Puzzle: 1678
+Solution: 1.Ke5 Bf7 2.Rh8+ Kd7 3.Rh7 Ke8 4.Kf6 
+
+Puzzle: 1679
+Solution: 1...f5 2.Kd5 Kxf3 
+
+Puzzle: 1680
+Solution: 1.Kc6 Kf5 2.Kxb6 g5 3.Kc5 
+
+Puzzle: 1681
+Solution: 1...e3+ 2.Ke2 h4 3.Ra1 h3 
+
+Puzzle: 1682
+Solution: 1...a2 2.f6 a1Q 3.Be6+ Kb4 4.f7 Qa7 
+
+Puzzle: 1683
+Solution: 1.h3 Nf2 2.Kd7 Ne4 3.g4 
+
+Puzzle: 1684
+Solution: 1.Ra6+ Ke7 2.Ra8 
+
+Puzzle: 1685
+Solution: 1...Kg2 2.Ne2 f4 3.h4 f3 4.hxg5 f2 
+
+Puzzle: 1686
+Solution: 1.Kb5 Be3 2.c6 Bb6 3.Ka6 Ke3 4.Kb7 
+
+Puzzle: 1687
+Solution: 1...Kc4 2.e4 f4 3.Ke2 Kc3 4.Kd1 Kd3 
+
+Puzzle: 1688
+Solution: 1...Kxc6 2.Ra4 Bd6 3.Re4 Kb5 
+
+Puzzle: 1689
+Solution: 1...d4 2.Re1 Rxf2 3.Rd1 Rg2+ 
+
+Puzzle: 1690
+Solution: 1.g7 Nd7 2.e4+ Ke5 3.Kg6 
+
+Puzzle: 1691
+Solution: 1.Nc6+ Kc8 2.d7+ Kb7 3.d8Q Qh1+ 4.Kd6 
+
+Puzzle: 1692
+Solution: 1.f6 Rc2 2.Kd5 a3 3.Be3 a2 4.Bh6+ Ke8 5.f7+ Kd7 6.f8Q 
+
+Puzzle: 1693
+Solution: 1.Kxh3 a4 2.c5 a3 3.c6 a2 4.c7 a1Q 5.c8Q 
+
+Puzzle: 1694
+Solution: 1.Re1 Bd3+ 2.Kg2 Be4+ 3.Rxe4 Rb1 4.Re7 
+
+Puzzle: 1695
+Solution: 1.Kf2 Rg3 2.Rf4+ Kh3 3.Rf3 Rxf3+ 4.Kxf3 Ne5+ 5.Ke2 
+
+Puzzle: 1696
+Solution: 1.Kg4 Rh2 2.Re5+ Ka4 3.Rh5 Rxh5 4.Kxh5 
+
+Puzzle: 1697
+Solution: 1.b5 f3 2.Kd2 f2 3.Ke2 f1R 4.Kxf1 
+
+Puzzle: 1698
+Solution: 1...Rc3 2.Rxc3 Kxc3 3.f6 c1Q 4.f7 Qa3 
+
+Puzzle: 1699
+Solution: 1...Kxb5 2.Bd8 c4 
+
+Puzzle: 1700
+Solution: 1...Kb2 2.Rc4 Rh2 
+
+Puzzle: 1701
+Solution: 1.Ke3 Ke5 2.g3 
+
+Puzzle: 1702
+Solution: 1...Ke2 2.Rh1 f3 
+
+Puzzle: 1703
+Solution: 1.h5 a4 2.h6 Kf7 3.Kf5 a3 4.g6+ Kg8 5.Kf6 a2 6.h7+ Kh8 7.g7+ Kxh7 8.Kf7 Kh6 9.g8Q 
+
+Puzzle: 1704
+Solution: 1...Kxh3 2.Ne2 h4 3.Kc4 Kg2 
+
+Puzzle: 1705
+Solution: 1...h3 2.Kg1 Ke3 
+
+Puzzle: 1706
+Solution: 1.Kxf5 Kc6 2.Kg5 Kxc5 3.Kh6 Kd4 4.Kxh7 Ke5 5.Kg6 Ke6 6.h4 Ke7 7.Kg7 
+
+Puzzle: 1707
+Solution: 1.Nc4+ Kd5 2.g6 
+
+Puzzle: 1708
+Solution: 1...Kd4 2.g4 hxg4 3.h5 Ke5 
+
+Puzzle: 1709
+Solution: 1...f2 2.Rf3 Ke4 3.Rf7 Re3+ 
+
+Puzzle: 1710
+Solution: 1...d3 2.Rb8 g2+ 3.Kxg2 d2 
+
+Puzzle: 1711
+Solution: 1.Kb6 Ke4 2.Kxa6 Kd5 3.Kb6 Rg8 4.a6 
+
+Puzzle: 1712
+Solution: 1.f6 h3 2.f7 h2 3.f8Q h1Q 4.Qg7+ Kf1 5.Qa1+ 
+
+Puzzle: 1713
+Solution: 1.Kg5 f4 2.h6 gxh6+ 3.Kxh6 f3 4.g7 Kf7 5.Kh7 
+
+Puzzle: 1714
+Solution: 1.bxa3 Kd8 2.Kd5 a5 3.a4 
+
+Puzzle: 1715
+Solution: 1.Kc8 Ke6 2.a7 
+
+Puzzle: 1716
+Solution: 1...Rb1 2.Rb5+ Kf4 
+
+Puzzle: 1717
+Solution: 1...b2 2.Rb8 Rd4+ 
+
+Puzzle: 1718
+Solution: 1.Kg6 b3 2.Kh6 b2 3.g6 b4 4.g7# 
+
+Puzzle: 1719
+Solution: 1...exd6 2.Kf4 Kf6 3.Kg3 Kg5 
+
+Puzzle: 1720
+Solution: 1...Re7 2.Rf1 Re1 3.Rxf2 Kxf2 
+
+Puzzle: 1721
+Solution: 1...Rxa2 2.Ke6 Re2+ 
+
+Puzzle: 1722
+Solution: 1.b6 Kd7 2.b7 Kc7 3.c6 Kb8 4.Kf5 
+
+Puzzle: 1723
+Solution: 1...Ke3 2.Re6+ Kf3 3.Rd6 d2 
+
+Puzzle: 1724
+Solution: 1.h6 Kf6 2.fxg4 Kg6 3.g5 f3 4.Kd3 f2 5.Ke2 f1Q+ 6.Kxf1 
+
+Puzzle: 1725
+Solution: 1.Rg3+ Kf7 2.Rxg2 Rc4 3.Kd6 
+
+Puzzle: 1726
+Solution: 1.Ne6 Bh6 2.Kg4 c4 3.Kh5 Bf8 4.Nxf8 c3 5.Ne6 
+
+Puzzle: 1727
+Solution: 1...d3 2.e4 Kd4 3.e5 Kc3 4.e6 d2 5.Ke2 Kc2 
+
+Puzzle: 1728
+Solution: 1...Kf6 2.Re2 Kxf5 
+
+Puzzle: 1729
+Solution: 1...a4 2.a3 Kb3 3.Kxc5 Kxa3 
+
+Puzzle: 1730
+Solution: 1...Rxf5 2.b6 Kd8 3.b7 Rf6+ 
+
+Puzzle: 1731
+Solution: 1.Ke6 Kd8 2.Kf7 
+
+Puzzle: 1732
+Solution: 1...Kc4 2.Kd2 Kb3 3.Kc1 a5 4.Kb1 a4 5.Kc1 a3 6.bxa3 Kxc3 7.Kb1 Kb3 
+
+Puzzle: 1733
+Solution: 1.Kxe4 Kc5 2.Ke5 
+
+Puzzle: 1734
+Solution: 1...f5 2.Rh4 Rb4 
+
+Puzzle: 1735
+Solution: 1.Rf7+ Ke3 2.g7 h3 3.Re7+ 
+
+Puzzle: 1736
+Solution: 1...Bg6 2.Ne5+ Ke3 3.Nxg6 g2 
+
+Puzzle: 1737
+Solution: 1.Kf7 Ke4 2.g6 Kf5 3.g7 
+
+Puzzle: 1738
+Solution: 1.b5 h4 2.Ke3 h3 3.Kf2 h2 4.Kg2 h1Q+ 5.Kxh1 Kf4 6.b6 
+
+Puzzle: 1739
+Solution: 1.Re2 Qa7+ 2.Kh2 
+
+Puzzle: 1740
+Solution: 1.Kf6 Kh8 2.h7 Nd4 3.g7+ Kxh7 4.Kf7 
+
+Puzzle: 1741
+Solution: 1.Rg1 Rxg1 2.Kxg1 Kg4 3.f6 
+
+Puzzle: 1742
+Solution: 1...c3 2.Kf2 c2 3.Re1 Kc4 
+
+Puzzle: 1743
+Solution: 1.Kxf4 Kg8 2.Ke5 Kg7 3.Ke6 Kf8 4.Kf6 
+
+Puzzle: 1744
+Solution: 1.Kb5 Kd7 2.Kb6 Kc8 3.Kxa5 
+
+Puzzle: 1745
+Solution: 1...Rb1+ 2.Kd2 Kxd6 
+
+Puzzle: 1746
+Solution: 1.b6 Bc8 2.Kc6 
+
+Puzzle: 1747
+Solution: 1.Ke5 d4 2.Kxd4 Kd6 3.Kc4 Ke5 4.Kb5 Kxf5 5.Kxa5 
+
+Puzzle: 1748
+Solution: 1...Kc3 2.Rxb2 Kxb2 3.Kf4 Bg2 4.Ke5 Bh3 
+
+Puzzle: 1749
+Solution: 1...h3 2.b5 h2 3.Ka7 h1Q 4.b6 Qg1 
+
+Puzzle: 1750
+Solution: 1...Kxe6 2.h6 b3 3.h7 b2 4.h8Q b1Q+ 5.Kg5 Qf5+ 
+
+Puzzle: 1751
+Solution: 1...a2 2.Ra8 Re3+ 3.Kh2 Ra3 
+
+Puzzle: 1752
+Solution: 1.g5+ Kxg5 2.Ke5 f6+ 3.Ke6 f5 4.d5 f4 5.d6 f3 6.d7 
+
+Puzzle: 1753
+Solution: 1...Rf4 2.Rxf4 Kxf4 3.c6 f1Q 4.c7 Qh3 
+
+Puzzle: 1754
+Solution: 1...Kb4 2.Nb7 a5 3.Kh4 a4 4.bxa4 bxa4 
+
+Puzzle: 1755
+Solution: 1.Kf4 b5 2.cxb5 c4 3.Ke3 
+
+Puzzle: 1756
+Solution: 1...g2 2.Kf2 Kh2 
+
+Puzzle: 1757
+Solution: 1...Rg4 2.h5 Rf4 3.Re6+ Kf5 
+
+Puzzle: 1758
+Solution: 1.Kf7 Rg2 2.f6 Rg4 3.g7+ 
+
+Puzzle: 1759
+Solution: 1.Kxf5 Kb3 2.Kg5 Kc4 3.Kh6 Kd5 4.Kxh7 Ke5 5.Kg6 
+
+Puzzle: 1760
+Solution: 1...Kf4 2.h4 h6 3.hxg5 hxg5 
+
+Puzzle: 1761
+Solution: 1.Kxh3 Kf4 2.b5 Kf3 3.b6 e3 4.b7 
+
+Puzzle: 1762
+Solution: 1...Kg6 2.g5 h5 3.Ke4 Kxg5 
+
+Puzzle: 1763
+Solution: 1.Kf4 Kg7 2.d7 Rd8 3.Ke5 
+
+Puzzle: 1764
+Solution: 1.c7 Rf2 2.Kb5 Rc2 3.Kb6 Ke5 4.Kb7 
+
+Puzzle: 1765
+Solution: 1...h4 2.Ne4+ Ke2 3.Nc5 h3 4.Kg3 Kd1 5.Kxh3 e2 
+
+Puzzle: 1766
+Solution: 1...e5 2.Bg5 Kd4 
+
+Puzzle: 1767
+Solution: 1...g5 2.Kf3 Kf5 3.h6 Kg6 4.g4 Kxh6 
+
+Puzzle: 1768
+Solution: 1...f3 2.Nc3 a4 
+
+Puzzle: 1769
+Solution: 1.f7 Kc7 2.Rc3+ 
+
+Puzzle: 1770
+Solution: 1.h4 Ka7 2.Kd5 g5 3.hxg5 h4 4.Ke4 
+
+Puzzle: 1771
+Solution: 1...Kxh6 2.f4 gxf3e.p. 3.Kxh3 Kg5 4.Kh2 Kg4 5.Kh1 Kh3 6.Kg1 Kxg3 7.Kf1 f2 8.Ke2 Kg2 
+
+Puzzle: 1772
+Solution: 1...d3 2.Kc1 Ke3 3.Rg2 Ra1+ 
+
+Puzzle: 1773
+Solution: 1...g3 2.e5 g2 3.e6 g1Q 4.e7 Qb6+ 5.Kd7 Qb5+ 6.Ke6 Kg5 
+
+Puzzle: 1774
+Solution: 1.Kb5 Rc2 2.Re6+ 
+
+Puzzle: 1775
+Solution: 1...Rb1+ 2.Kd2 e3+ 3.Kd3 Rd1+ 4.Kc2 e2 
+
+Puzzle: 1776
+Solution: 1...Kxa4 2.f4 Kb5 
+
+Puzzle: 1777
+Solution: 1...Kh4 2.Rxg2 f1Q 
+
+Puzzle: 1778
+Solution: 1...Kf1 2.Kc1 f4 3.Kb2 f3 4.Kc1 f2 
+
+Puzzle: 1779
+Solution: 1...Ne3 2.Rg8 d2 3.Rd8+ Kc5 4.Rxd2 Nc4+ 5.Kc3 Nxd2 
+
+Puzzle: 1780
+Solution: 1...f3+ 2.Rxf3 Ra2+ 3.Ke3 Ra3+ 
+
+Puzzle: 1781
+Solution: 1...Kh4 2.Ke3 Kh3 3.Kd4 b3 
+
+Puzzle: 1782
+Solution: 1.g4 Kxb4 2.h5 a5 3.h6 
+
+Puzzle: 1783
+Solution: 1...f2 2.Rf7 Be3 3.Kb3 Bf4 4.Rxf4 Kxf4 
+
+Puzzle: 1784
+Solution: 1...Kc4 2.a3 e4 3.Kd2 Kb3 4.Ke3 Kxa3 5.Kxe4 Kxb4 6.Kd3 Kb3 
+
+Puzzle: 1785
+Solution: 1.Kg5 Kxd3 2.h6 b4 3.h7 b3 4.h8Q 
+
+Puzzle: 1786
+Solution: 1...h1Q+ 2.Kc7 Qa8 3.Nc6 Kf7 
+
+Puzzle: 1787
+Solution: 1...f4 2.Bh2 g4 3.fxg4 f3 
+
+Puzzle: 1788
+Solution: 1...e3 2.Nh3 e2 3.Ng1 Ke3 4.Nxe2 Kxe2 
+
+Puzzle: 1789
+Solution: 1...bxc3 2.Kxa3 Kc5 3.Ka2 Kb4 4.Ka1 Ka3 5.Kb1 Kxb3 6.Kc1 c2 7.Kd2 Kb2 
+
+Puzzle: 1790
+Solution: 1...Ne2+ 2.Kf1 g2+ 3.Kxe2 h2 
+
+Puzzle: 1791
+Solution: 1.e6 Kf8 2.f7 Nf4 3.e7+ Kxf7 4.Kd7 
+
+Puzzle: 1792
+Solution: 1...Ke2 2.Nc3+ Ke1 3.Ne4 f2 4.Nd2 e4 5.Nxe4 f1Q 
+
+Puzzle: 1793
+Solution: 1.Ke5 Nc8 2.Kd5 Ke7 3.Kc6 
+
+Puzzle: 1794
+Solution: 1.g5 Kg3 2.Kg6 Kf4 3.Kh6 Kf5 4.g6 
+
+Puzzle: 1795
+Solution: 1.Bd6 Bh6 2.Kf5 
+
+Puzzle: 1796
+Solution: 1...b3 2.Bc1 Kd3 3.Bf4 a3 
+
+Puzzle: 1797
+Solution: 1.Rg8+ Kd7 2.c6+ 
+
+Puzzle: 1798
+Solution: 1...g4 2.Kd2 Kg3 
+
+Puzzle: 1799
+Solution: 1.hxg5 hxg5 2.g4 
+
+Puzzle: 1800
+Solution: 1...h3 2.Na6 Nd5 3.Kxd5 Kxe7 
+
+Puzzle: 1801
+Solution: 1.h5 Be8 2.h6 Kxf5 3.h7 
+
+Puzzle: 1802
+Solution: 1...b5 2.Ke3 Kc3 3.Ke2 b4 
+
+Puzzle: 1803
+Solution: 1...g4 2.fxg4+ Ke6 3.g5 f3 4.g6 f2 5.g7 Kf7 6.g8Q+ Kxg8 
+
+Puzzle: 1804
+Solution: 1.f6 c3+ 2.Kc1 Kb3 3.f7 
+
+Puzzle: 1805
+Solution: 1...f3 2.Kf1 f2 3.Nf5 e2+ 4.Kxf2 Kd2 
+
+Puzzle: 1806
+Solution: 1...Rxc8 2.Kxc8 f5 3.Kd7 f4 
+
+Puzzle: 1807
+Solution: 1...f2 2.h7 Rh8 
+
+Puzzle: 1808
+Solution: 1.g7 Rb8 2.Kg6 
+
+Puzzle: 1809
+Solution: 1.Kd4 f4 2.Ke4 Kd6 3.Bxd5 
+
+Puzzle: 1810
+Solution: 1...a3 2.Kd5 a2 3.Ne5+ Kc8 
+
+Puzzle: 1811
+Solution: 1.Kc5 Rc1+ 2.Kd6 
+
+Puzzle: 1812
+Solution: 1...Ne5+ 2.Kb7 Nd7 
+
+Puzzle: 1813
+Solution: 1...Rg3 2.Ke5 Rxg4 
+
+Puzzle: 1814
+Solution: 1.Kd5 Kc3 2.Rxd4 
+
+Puzzle: 1815
+Solution: 1...Ke5 2.Kf3 Kd4 3.Kf4 Kc3 4.Ke5 Kxb3 5.Kd5 Kb4 6.Kd6 Kxc4 
+
+Puzzle: 1816
+Solution: 1.Kg4 Bg6 2.Kf4 
+
+Puzzle: 1817
+Solution: 1.Kb3 Ke4 2.Kc2 
+
+Puzzle: 1818
+Solution: 1.a7 Ra1 2.Kb7 Kd5 3.b5 Kc4 4.b6 
+
+Puzzle: 1819
+Solution: 1.Kxd4 Kh5 2.Ke3 Kg4 3.Ke4 
+
+Puzzle: 1820
+Solution: 1...f5 2.Kd5 Kf3 3.h4 Kg4 4.h5 Kxh5 
+
+Puzzle: 1821
+Solution: 1.Kg6 Kf8 2.Kh7 Kf7 3.Kh8 Kg6 4.Kg8 Kxg5 5.Kxg7 
+
+Puzzle: 1822
+Solution: 1...Re1+ 2.Kd2 h2 
+
+Puzzle: 1823
+Solution: 1...Kxg7 2.d5 Kxg6 3.d6 Kf7 4.d7 Ke7 5.d8Q+ Kxd8 6.h8Q+ Rxh8 
+
+Puzzle: 1824
+Solution: 1.c6 Ke5 2.d7 
+
+Puzzle: 1825
+Solution: 1...Kd1 2.Rc6 Rd7+ 
+
+Puzzle: 1826
+Solution: 1...Ne5 2.Qh8+ Kf7 3.Qxe5 h1Q 
+
+Puzzle: 1827
+Solution: 1...Kd7 2.Rg6 c2 
+
+Puzzle: 1828
+Solution: 1.Kxh1 Kf5 2.e6 
+
+Puzzle: 1829
+Solution: 1.Ke6 Re1+ 2.Kd6 
+
+Puzzle: 1830
+Solution: 1...Ke6 2.Ke4 h4 3.Kf4 h3 4.Kg3 Kxe5 5.Kxh3 Kxf6 
+
+Puzzle: 1831
+Solution: 1...Kb2 2.Be5 a3 3.Ke2 Kc2 4.Ke3 a2 
+
+Puzzle: 1832
+Solution: 1.Rxd4+ Kxd4 2.h4 c5 3.h5 Ke5 4.Kg1 
+
+Puzzle: 1833
+Solution: 1.g5 Kg4 2.Kxg6 h4 3.Kf6 h3 4.g6 h2 5.g7 h1Q 6.g8Q+ Kf4 7.Qg5+ 
+
+Puzzle: 1834
+Solution: 1.Kf5 Nf3 2.g6 Nd4+ 3.Kf6 Ke4 4.g7 Kxf4 5.g8Q 
+
+Puzzle: 1835
+Solution: 1...Qxc8+ 2.Kxc8 Kd6 3.Kb7 Kc5 4.Ka6 Kb4 
+
+Puzzle: 1836
+Solution: 1...Rh1 2.Rg6+ Kh7 3.Rg5 f2 
+
+Puzzle: 1837
+Solution: 1...Ke4 2.f3+ Ke3 3.Kg2 Ke2 
+
+Puzzle: 1838
+Solution: 1.Qe5+ Qxe5+ 2.Kxe5 h4 3.Kf5 
+
+Puzzle: 1839
+Solution: 1.g5 Kg4 2.Ke7 Kxg5 3.Kxf7 
+
+Puzzle: 1840
+Solution: 1...h4 2.Bb3 f6+ 
+
+Puzzle: 1841
+Solution: 1...Rf4 2.h6 Rh4+ 3.Kg3 Rxh6 
+
+Puzzle: 1842
+Solution: 1...Kd3 2.Kf4 c3 
+
+Puzzle: 1843
+Solution: 1.Kxh6 Rg2 2.Rxg5 Rb2 3.Rf5 
+
+Puzzle: 1844
+Solution: 1.c6 Kf6 2.Kd6 Rd1+ 3.Kc7 
+
+Puzzle: 1845
+Solution: 1...Kg2 2.g4 Kf3 3.f5 Kxg4 4.Kd5 Kxf5 
+
+Puzzle: 1846
+Solution: 1.Ra8+ Kd7 2.f6 Rg1+ 3.Kf7 
+
+Puzzle: 1847
+Solution: 1...Rxg6+ 2.fxg6 Ke6 3.g7 Kf7 4.g8R Kxg8 5.Kf3 b3 6.Ke2 b2 
+
+Puzzle: 1848
+Solution: 1.b4 Kf4 2.b5 Rg2 3.b6 
+
+Puzzle: 1849
+Solution: 1...g4+ 2.Ke3 g3 
+
+Puzzle: 1850
+Solution: 1.Kxb4 g5 2.Nf2 g4 3.Nxg4 Kxg4 4.Kc3 
+
+Puzzle: 1851
+Solution: 1.Ra8+ Ke7 2.f6+ Ke6 3.Re8+ 
+
+Puzzle: 1852
+Solution: 1.Ne1+ Kd2 2.Ng2 
+
+Puzzle: 1853
+Solution: 1.Kxd5 Kb3 2.Kc6 Kb4 3.Kb7 Nb6 4.Kxc7 Kb5 5.Kb7 Ka5 6.d5 
+
+Puzzle: 1854
+Solution: 1...g5 2.a5 Kd6 3.Kc3 h4 
+
+Puzzle: 1855
+Solution: 1...c2 2.Rc1 Rb1 3.Rxc2 Kxc2 
+
+Puzzle: 1856
+Solution: 1.a4 Kc4 2.g4 
+
+Puzzle: 1857
+Solution: 1.e6+ Ke7 2.Rh7 Rd8 3.Rxg7+ 
+
+Puzzle: 1858
+Solution: 1.Rxh2 Kf5 2.Kd5 
+
+Puzzle: 1859
+Solution: 1...Kxg4 2.Kf2 Kh3 3.f5 Kg4 
+
+Puzzle: 1860
+Solution: 1...Nxb8 2.Ke5 Nd7+ 3.Ke6 Kxc4 4.Kf7 Ne5+ 
+
+Puzzle: 1861
+Solution: 1.Nxc3 b4 2.Nd5 Kh6 3.Nxb4 
+
+Puzzle: 1862
+Solution: 1...c4+ 2.Kc3 d4+ 3.Kb2 Kf6 4.Bc1 Kxf5 
+
+Puzzle: 1863
+Solution: 1...Kd4 2.Rb5 c3 3.Rxb3 c2 4.Rb7 c1Q 
+
+Puzzle: 1864
+Solution: 1.Kg5 Nb5 2.Kxh5 Kf6 3.Kg4 
+
+Puzzle: 1865
+Solution: 1.g7 Rg1 2.Ra2+ Kb3 3.Rg2 Rxg2 4.Kxg2 
+
+Puzzle: 1866
+Solution: 1.e7 Rg8 2.Nd6 Kc2 3.Ke3 
+
+Puzzle: 1867
+Solution: 1.Rxf2 Kc8 2.Rd2 
+
+Puzzle: 1868
+Solution: 1...Kf1 2.Ke3 Kg2 3.Nf4+ Kg3 
+
+Puzzle: 1869
+Solution: 1.Kf5 Rf2+ 2.Ke6 
+
+Puzzle: 1870
+Solution: 1...Ke4 2.Ke1 Kf3 3.Kf1 g2+ 4.Kg1 Kg3 5.e4 Kxh3 6.Kf2 Kh2 
+
+Puzzle: 1871
+Solution: 1...h3 2.Ne3 Kg1 3.Kxg3 h2 4.Nd5 h1Q 
+
+Puzzle: 1872
+Solution: 1...Bf7 2.h7+ Kxh7 3.Ke7 a3 4.Kxf7 a2 5.Ke6 a1Q 
+
+Puzzle: 1873
+Solution: 1...Rxb5+ 2.Kc6 Rb1 
+
+Puzzle: 1874
+Solution: 1.Rxc6 Ke5 2.Kc3 
+
+Puzzle: 1875
+Solution: 1...Ra4+ 2.Kd5 Ra5+ 3.Kc4 Rb5 
+
+Puzzle: 1876
+Solution: 1...a5 2.Bd3 Kxd5 
+
+Puzzle: 1877
+Solution: 1...Ke2 2.Nxh6 f2 3.Nf5 Kf3 
+
+Puzzle: 1878
+Solution: 1...b2+ 2.Kc2 Bb3+ 3.Kc3 b1Q 
+
+Puzzle: 1879
+Solution: 1.e7 Nxe7 2.h6 
+
+Puzzle: 1880
+Solution: 1...Rb1 2.Rc2 Rxb4 
+
+Puzzle: 1881
+Solution: 1.Nb8+ Kd5 2.Kxg4 
+
+Puzzle: 1882
+Solution: 1.Bd5 Rc3+ 2.Kd6 Rc8 3.f6 
+
+Puzzle: 1883
+Solution: 1...a2 2.e6+ Kb6 3.Rf1 Rb1 4.e7 a1Q 
+
+Puzzle: 1884
+Solution: 1.h7 f3 2.Bc7+ Kg2 3.Bb8 f2 4.h8Q f1Q 5.Qh2+ 
+
+Puzzle: 1885
+Solution: 1...Kc3 2.Kxe3 Kb2 3.Bf5 a2 
+
+Puzzle: 1886
+Solution: 1.a6 h5+ 2.Kh3 
+
+Puzzle: 1887
+Solution: 1.Na2+ bxa2 2.g7 c3+ 3.Kxa2 
+
+Puzzle: 1888
+Solution: 1.Ka7 Rg7 2.b5 
+
+Puzzle: 1889
+Solution: 1...Rd7+ 2.Ke3 Ra7 3.Bb1 a2 4.Bxa2 Rxa2 
+
+Puzzle: 1890
+Solution: 1...Kxf6 2.Kf4 h6 3.Ke4 Ke6 
+
+Puzzle: 1891
+Solution: 1...Kxh3 2.Ke6 Bxd6 
+
+Puzzle: 1892
+Solution: 1.c7 Rg5+ 2.Kd4 
+
+Puzzle: 1893
+Solution: 1...h5 2.Ne4 f1N 3.Kd4 d2 
+
+Puzzle: 1894
+Solution: 1...Ka4 2.Rh8 Rb5 3.Re8 a2 
+
+Puzzle: 1895
+Solution: 1...Bxg2 2.Kxg2 e4 3.Kg3 Kc3 4.Kg4 Kd2 5.Kf4 Kd3 
+
+Puzzle: 1896
+Solution: 1.Ke6 Nc6 2.g7 Nd4+ 3.Kf6 
+
+Puzzle: 1897
+Solution: 1...Kc1 2.Qf3 Qd2+ 3.Kf1 Qd1+ 4.Kg2 Qxf3+ 
+
+Puzzle: 1898
+Solution: 1.Rxa5 Kg7 2.Rg5+ Kh6 3.Rg1 
+
+Puzzle: 1899
+Solution: 1...h4 2.Ke2 h3 3.Kf2 g5 4.c5 g4 5.c6 g3+ 6.Ke2 h2 7.c7 h1Q 
+
+Puzzle: 1900
+Solution: 1...Nxh3+ 2.Kf6 Nf2 
+
+Puzzle: 1901
+Solution: 1...Rf4 2.Ra8 Re4+ 3.Kd5 Rxg4 
+
+Puzzle: 1902
+Solution: 1.Kg2 Rxe5 2.f8Q+ 
+
+Puzzle: 1903
+Solution: 1...h3 2.g3 f4 3.gxf4 Kxf4 
+
+Puzzle: 1904
+Solution: 1...Kc3 2.Rc5+ Kb2 
+
+Puzzle: 1905
+Solution: 1...a4 2.Kd5 Kb3 3.Kc5 a3 
+
+Puzzle: 1906
+Solution: 1...Kf3 2.Nd5 h2+ 3.Kh1 g2+ 4.Kxh2 Kf2 
+
+Puzzle: 1907
+Solution: 1...c2 2.Ke3 Kc3 
+
+Puzzle: 1908
+Solution: 1.c6 Rc4 2.Rh6 
+
+Puzzle: 1909
+Solution: 1...f4 2.Kd3 fxg3 3.Ke2 h4 4.g5 h3 
+
+Puzzle: 1910
+Solution: 1.g4 b4 2.Ka5 
+
+Puzzle: 1911
+Solution: 1...Kxa4 2.Ne4 Kb4 
+
+Puzzle: 1912
+Solution: 1.Kf4 Kd5 2.Kg5 
+
+Puzzle: 1913
+Solution: 1.h5 h6 2.Kg7 Kxe5 3.Kxh6 Kf6 4.Kh7 Kg5 5.h6 
+
+Puzzle: 1914
+Solution: 1...b2 2.Qa8+ Kg1 3.Qa7+ Kf1 4.Qa6+ Ke1 5.Qb6 b1Q 
+
+Puzzle: 1915
+Solution: 1...Kf4 2.Rb6 Rxg5 3.Rd6 Rg4+ 
+
+Puzzle: 1916
+Solution: 1...Ne5+ 2.Kf4 Nxc4 3.Ke4 Na3 
+
+Puzzle: 1917
+Solution: 1...Ke3 2.Re8+ Kf2 3.Rg8 g2+ 
+
