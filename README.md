@@ -8,5 +8,5 @@ puzzles_1.zip    Puzzles with positive scores.<br/>
 puzzles_50.zip   Puzzles with 50 or more in popularity.<br/>
 puzzles_75.zip   Puzzles with 75 or more in popularity.<br/>
 puzzles_90.zip   Puzzles with 90 or more in popularity.<br/>
-puzzles_100.zip  Puzzles with full in popularity.<br/>
+puzzles_100.zip  Puzzles with full score in popularity.<br/>
 
