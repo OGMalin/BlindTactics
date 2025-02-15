@@ -10,3 +10,6 @@ puzzles_75.zip   Puzzles with 75 or more in popularity.<br/>
 puzzles_90.zip   Puzzles with 90 or more in popularity.<br/>
 puzzles_100.zip  Puzzles with full score in popularity.<br/>
 
+ForPrinting.zip  Sheets for printing.<br/>
+                 These exercises are what I currently are doing. Print it out on a printer thats abel to print on both sides and cut each exercises so it would look like a deck of cards.
+
