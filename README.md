@@ -11,5 +11,6 @@ puzzles_90.zip   Puzzles with 90 or more in popularity.
 puzzles_100.zip  Puzzles with full score in popularity.
 
 ForPrinting.zip  Sheets for printing in pdf format.
-                 These exercises are what I currently are doing. Print it out on a printer thats abel to print on both sides and cut each exercises so it would look like a deck of cards.
+                 These exercises are what I currently are doing. Print it out on a printer that's abel to print
+                 on both sides of the sheet and cut each exercises so it would look like a deck of cards.
 </pre>
