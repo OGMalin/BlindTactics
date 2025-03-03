@@ -20,6 +20,6 @@ LichessTacticsConverter.zip
                 Download the puzzles file from Lichess: https://database.lichess.org/#puzzles
                 Then run the program from command line.
                 Ex. If you want puzzles with 8 pieces in the range of 2150 to 2224 (Dojo's 1800-1900 Cohort)
-                and with the scoreof 95 or higher, use this command:
+                and with the score of 95 or higher, use this command:
                 ./LichessTacticsConverter /p 8 /P 8 /r 2150 /R 2224 /s 95 lichess_db_puzzle.csv Exercises.txt Solutions.txt
 </pre>
