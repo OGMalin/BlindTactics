@@ -26,4 +26,4 @@ LichessTacticsConverter.zip
 
 Empty.zip       Just the template in MS Publisher format, that I use to create the printouts.
 </pre>
-![alt text](https://github.com/OGMalin/BlindTactics/pic.jpg "Sample of use")
+![alt text](https://github.com/OGMalin/BlindTactics/blob/main/pic.jpg "Sample of use")
